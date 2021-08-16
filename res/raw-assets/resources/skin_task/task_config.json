@@ -1,0 +1,234 @@
+[
+    {
+        "skinId": "5-9-0",
+        "total": 50,
+        "task": [
+            {
+                "taskId": "fight_play_count",
+                "desc": "玩排位赛%s场",
+                "step": [
+                    5,
+                    10,
+                    15
+                ],
+                "reward": [
+                    3,
+                    4,
+                    5
+                ]
+            },
+            {
+                "taskId": "share_for_new_player",
+                "desc": "邀请%s位新玩家点入助力",
+                "step": [
+                    1,
+                    2,
+                    3
+                ],
+                "reward": [
+                    12,
+                    12,
+                    12
+                ]
+            },
+            {
+                "taskId": "watch_ads",
+                "desc": "观看15秒视频",
+                "step": [
+                    1,
+                    2,
+                    3
+                ],
+                "reward": [
+                    3,
+                    3,
+                    3
+                ]
+            },
+            {
+                "taskId": "gold_buy",
+                "desc": "%s金币兑换",
+                "step": [
+                    300
+                ],
+                "reward": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "skinId": "5-6-0",
+        "total": 60,
+        "task": [
+            {
+                "taskId": "normal_relive_times",
+                "desc": "等级歌曲累计复活%s次",
+                "step": [
+                    3,
+                    6,
+                    9
+                ],
+                "reward": [
+                    3,
+                    4,
+                    5
+                ]
+            },
+            {
+                "taskId": "share_for_new_player",
+                "desc": "邀请%s位新玩家点入助力",
+                "step": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "reward": [
+                    12,
+                    12,
+                    12,
+                    12,
+                    12
+                ]
+            },
+            {
+                "taskId": "watch_ads",
+                "desc": "观看15秒视频",
+                "step": [
+                    1,
+                    2,
+                    3
+                ],
+                "reward": [
+                    3,
+                    3,
+                    3
+                ]
+            },
+            {
+                "taskId": "gold_buy",
+                "desc": "%s金币兑换",
+                "step": [
+                    300
+                ],
+                "reward": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "skinId": "5-8-0",
+        "total": 40,
+        "task": [
+            {
+                "taskId": "fight_win_count",
+                "desc": "赢得%s场排位赛",
+                "step": [
+                    2,
+                    4,
+                    6
+                ],
+                "reward": [
+                    3,
+                    4,
+                    5
+                ]
+            },
+            {
+                "taskId": "share_for_new_player",
+                "desc": "邀请%s位新玩家点入助力",
+                "step": [
+                    1,
+                    2,
+                    3
+                ],
+                "reward": [
+                    12,
+                    12,
+                    12
+                ]
+            },
+            {
+                "taskId": "watch_ads",
+                "desc": "观看15秒视频",
+                "step": [
+                    1,
+                    2,
+                    3
+                ],
+                "reward": [
+                    3,
+                    3,
+                    3
+                ]
+            },
+            {
+                "taskId": "gold_buy",
+                "desc": "%s金币兑换",
+                "step": [
+                    300
+                ],
+                "reward": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "skinId": "5-4-0",
+        "total": 50,
+        "task": [
+            {
+                "taskId": "normal_gain_crown",
+                "desc": "等级歌曲收获%s个皇冠",
+                "step": [
+                    3,
+                    6,
+                    10
+                ],
+                "reward": [
+                    3,
+                    4,
+                    5
+                ]
+            },
+            {
+                "taskId": "lottery",
+                "desc": "累计进行免费抽奖%s次",
+                "step": [
+                    3
+                ],
+                "reward": [
+                    6
+                ]
+            },
+            {
+                "taskId": "watch_ads",
+                "desc": "观看15秒视频",
+                "step": [
+                    1,
+                    2,
+                    3
+                ],
+                "reward": [
+                    3,
+                    3,
+                    3
+                ]
+            },
+            {
+                "taskId": "gold_buy",
+                "desc": "%s金币兑换",
+                "step": [
+                    300
+                ],
+                "reward": [
+                    1
+                ]
+            }
+        ]
+    }
+]

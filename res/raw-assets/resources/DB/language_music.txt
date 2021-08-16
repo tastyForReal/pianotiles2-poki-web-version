@@ -1,0 +1,747 @@
+,TID,CN,TW
+1,Little Star,小星星,小星星
+2,Jingle Bells,铃儿响叮当,鈴兒響叮噹
+3,Canon,卡农,卡農
+4,Two Tigers,两只老虎,兩隻老虎
+5,Happy New Year,新年快乐,新年快樂
+6,Beyer No.8,拜厄练习曲No.8,拜厄練習曲No.8
+7,Bluestone Alley,青石巷,青石巷
+8,Jasmine,茉莉花,茉莉花
+9,Dolls and Bear Dancing,洋娃娃和小熊跳舞,洋娃娃和小熊跳舞
+10,Happy Birthday to You,祝你生日快乐,祝你生日快樂
+11,Heidenroslein,野玫瑰,野玫瑰
+12,The Painter,粉刷匠,粉刷匠
+13,Nocturne Op.9 No.2,降E大调夜曲,降E大調夜曲
+14,The Ruins of Athens No.4,雅典的废墟No.4,雅典的廢墟No.4
+15,Waltz in A minor,a小调圆舞曲,a小調圓舞曲
+16,Gavotte,加沃特舞曲,加沃特舞曲
+17,Por Una Cabeza,一步之遥,一步之遙
+18,Moments Musicaux,音乐瞬间,音樂瞬間
+19,Korobeiniki,卖货郎,賣貨郎
+20,Waltz Op.64 No.1,小狗圆舞曲,小狗圓舞曲
+21,Dance of the Sugar Fairy,糖果仙子之舞,糖果仙子之舞
+22,The Swan,天鹅,天鵝
+23,Prelude in C Major No.1,C大调前奏曲No.1,C大調前奏曲No.1
+24,Tritsch Tratsch Polka,闲聊波尔卡,閑聊波爾卡
+25,Cancan,康康舞曲,康康舞曲
+26,Sonata in D Major K311,D大调奏鸣曲K311,D大調奏鳴曲K311
+27,Symphony No.40 in g,g小调第四十交响曲,g小調第四十交響曲
+28,G minor Bach,g小调巴赫,g小調巴赫
+29,Sonatina Op.36 No.3,小奏鸣曲Op.36-3,小奏鳴曲Op.36-3
+30,Etude Op.299 No.39,车尔尼Op.299-39,車爾尼Op.299-39
+31,Sonata in C Major K545,C大调奏鸣曲K545,C大調奏鳴曲K545
+32,Csikos Post,邮递马车,郵遞馬車
+33,Eine Kleine Nachtmusik,G大调小夜曲No.1,G大調小夜曲No.1
+34,The Fountain,喷泉,噴泉
+35,Etude Op.10 No.4,激流练习曲,激流練習曲
+36,Gypsy Rondo,吉普赛回旋曲,吉普賽迴旋曲
+37,Spanish Dances,西班牙舞曲,西班牙舞曲
+38,Prelude in E Major BWV 937,E大调小前奏曲,E大調小前奏曲
+39,Sonata in A Major K331,A大调奏鸣曲K331,A大調奏鳴曲K311
+40,Hungarian Dance No.5,匈牙利舞曲No.5,匈牙利舞曲No.5
+41,The Entertainer,演艺人,演藝人
+42,Santa Lucia,桑塔露琪娅,桑塔露琪婭
+43,Horse Racing,赛马,賽馬
+44,American Patrol,巡逻兵进行曲,巡邏兵進行曲
+45,Sonata No.34 - Finale,海顿奏鸣曲No.34,海頓奏鳴曲No.34
+46,Polka,波尔卡,波爾卡
+47,Minuet No.3,小步舞曲No.3,小步舞曲No.3
+48,Radetzky March,拉德斯基进行曲,拉德斯基進行曲
+49,Carmen Overture,卡门序曲,卡門序曲
+50,Invention No.13,二部创意No.13,二部創意No.13
+51,Sonatina Op.36-3,小奏鸣曲Op.36-3,小奏鳴曲Op.36-3
+52,William Tell Overture,威廉·退尔序曲,威廉·退爾序曲
+53,Bridal Chorus,婚礼合唱,婚禮合唱
+54,Humoresque No.7,幽默曲No.7,幽默曲No.7
+55,Moonlight Sonata Mvt.3,月光奏鸣曲 第三章,月光奏鳴曲 第三章
+56,Minuet in G,G大调小步舞曲,G大調小步舞曲
+57,Xinjiang Suite,新疆组曲,新疆組曲
+58,Fantaisie - Impromptu,幻想即兴曲,幻想即興曲
+59,Harmonious Blacksmith,快乐的铁匠,快樂的鐵匠
+60,Liebestraum No.3,爱之梦,愛之夢
+61,Appassionata Mvt.3,热情奏鸣曲 第三章,熱情奏鳴曲 第三章
+62,Four Seasons - Spring,四季 - 春,四季 - 春
+63,La Campanella,钟,鐘
+64,Solfeggietto,视唱曲,視唱曲
+65,A La Claire Fontaine,在清澈的泉水边,在清澈的泉水邊
+66,Simple Gifts,简单的礼物,簡單的禮物
+67,Hungarian Rhapsody No.6,匈牙利狂想曲No.6,匈牙利狂想曲No.6
+68,Sonata Pathetique Mvt.1,悲怆奏鸣曲 第一章,悲愴奏鳴曲 第一章
+63,Waltz in E minor,e小调圆舞曲,e小調圓舞曲
+70,Clarinet Polka,单簧管波尔卡,單簧管波爾卡
+71,Lyric Waltz,抒情圆舞曲,抒情圓舞曲
+72,Sonatina Op.88 No.3,小奏鸣曲Op.88-3,小奏鳴曲Op.88-3
+73,Rondo A Capriccio Op.129,回旋随想曲Op.129,迴旋隨想曲Op.129
+74,The Skater's Waltz,溜冰圆舞曲,溜冰圓舞曲
+75,Breeze,清风,清風
+76,Etude de Virtuosite in E,E大调练习曲,E大調練習曲
+77,Sweet Bye and Bye,甜蜜变奏曲,甜蜜變奏曲
+78,Allemande,阿勒曼德舞曲,阿勒曼德舞曲
+79,Goldberg Variations,哥德堡变奏曲,哥德堡變奏曲
+80,Tzigane Dance,茨冈舞曲,茨岡舞曲
+81,Sonata in F Major Mvt.3,F大调奏鸣曲 第三章,F大調奏鳴曲 第三章
+82,Etude Op.10 No.8,练习曲Op.10 No.8,練習曲Op.10 No.8
+83,Sonata in E minor Mvt.1,e小调奏鸣曲 第一章,e小調奏鳴曲 第一章
+84,Knecht Ruprecht,圣诞老人,聖誕老人
+85,Sonatina Op.88 No.3 Mvt.3,小奏鸣曲Op.88 No.3 第三章,小奏鳴曲Op.88 No.3 第三章
+86,Etude Op.34 No.10,c小调练习曲,c小調練習曲
+87,Fugue No.16 in G minor,g小调赋格,g小調賦格
+88,Sonata in D Major K284,D大调奏鸣曲K284,D大調奏鳴曲K284
+89,Inventions No.15,三部创意No.15,三部創意No.15
+90,Etude Op.6 No.8,练习曲Op.6 No.8,練習曲Op.6 No.8
+91,Etude Op.849 No.16,车尔尼Op.849 No.16,車爾尼Op.849 No.16
+92,Waltz No.16,圆舞曲No.16,圓舞曲No.16
+93,WTC1 No.3,前奏曲BWV848,前奏曲BWV848
+94,Der Vogelfaenger bin ich ja,我是一个快乐的捕鸟人,我是一個快樂的捕鳥人
+95,Carnaval Op.9 No.14,狂欢节Op.9 No.14,狂歡節Op.9 No.14
+96,Arabesque Op.76 No.9,花纹Op.76 No.9,花紋Op.76 No.9
+97,Bagpipe Dance,风笛舞曲,風笛舞曲
+98,The Happy Farmer,快乐的农夫,快樂的農夫
+99,Variations of Paganini,帕格尼尼主题变奏曲,帕格尼尼主題變奏曲
+100,Penguin's Game,企鹅舞,企鵝舞
+101,The Wild Horseman,勇敢的骑士,勇敢的騎士
+102,Etude No.23,克拉莫练习曲No.23,克拉莫練習曲No.23
+103,French Suite No.4-Gigue,基格法国组曲第四组,基格法國組曲第四組
+104,The Nightingale,夜莺,夜鶯
+105,Gertrude's dream waltz,格特鲁德的梦想,格特魯德的夢想
+106,Loure,卢尔舞曲,盧爾舞曲
+107,Craving for the Spring Wind,望春风,望春風
+108,Neopolitan Dance,拿波里舞曲,拿波里舞曲
+109,Sonata in C Major K330 Mvt.1,C大调奏鸣曲K330 第一章,C大調奏鳴曲K330 第一章
+110,Invention No.2,二部创意曲No.2,二部創意曲No.2
+111,Hands Across The Sea,越海之谊进行曲,越海之誼進行曲
+112,Album Leaf,纪念册的第一页,紀念冊的第一頁
+113,Moment Musical Op.94 No.4,音乐瞬间Op.94 No.4,音樂瞬間Op.94 No.4
+114,Romanian Folk Dances No.6,碎步舞曲,碎步舞曲
+115,Prelude Op.12 No.7,前奏曲Op.12 No.7,前奏曲Op.12 No.7
+116,3 Ecossaises Op.72 No.3,苏格兰舞曲Op.72 No.3,蘇格蘭舞曲Op.72 No.3
+117,Searchlight Rag,探照灯拉格,探照燈拉格
+118,Bach Piano Concerto No.1,巴赫第一钢琴协奏曲,巴赫第一鋼琴協奏曲
+119,Walzer,圆舞曲,圓舞曲
+120,Lively Spring Festival,闹春,鬧春
+121,Etude Op.740 No.31,练习曲 Op.740 No.31,練習曲 Op.740 No.31
+122,Market,集市,集市
+123,Melody,旋律,旋律
+124,Etude Op.37 No.29,练习曲 Op.37 No.29,練習曲 Op.37 No.29
+125,Carol of the Bells,钟声响,鐘聲響
+126,The Hebrides Overture,小鸟啼鸣,小鳥啼鳴
+127,Heather Rose,杂色玫瑰,雜色玫瑰
+128,"Home, Sweet home",可爱的家,可愛的家
+129,Mazurka Op.39 No.11,玛祖卡 Op.39 No.11,瑪祖卡 Op.39 No.11
+130,Palm Leaf Rag,棕榈叶拉格,棕櫚葉拉格
+131,Troika E Major,在十一月的马车上,在十一月的馬車上
+132,Old Folks at Home,故乡的亲人,故鄉的親人
+133,Hunting Song,猎歌,獵歌
+134,Fall,落,落
+135,Romance,浪漫曲,浪漫曲
+136,Soldaten Marsch,士兵进行曲,士兵進行曲
+137,Non Piu Andrai,你再不要去做情郎,你再不要去做情郎
+138,"Long, Long Ago",多年以前,多年以前
+139,Rondo A Major,A大调回旋曲,A大調迴旋曲
+140,March from Norma,诺尔玛大进行曲,諾爾瑪大進行曲
+141,The music box,八音盒,八音盒
+142,Barcarolle d'Hoffmann,霍夫曼船歌,霍夫曼船歌
+143,Restless Galop,不停息的加洛普舞曲 ,不停息的加洛普舞曲
+144,Prelude in g minor BWV930,g小调小前奏曲 ,g小調小前奏曲
+145,Elite Syncopations,精彩的切分音,精彩的切分音
+146,Andante from Orfeo ed Euridice,行板,行板
+147,Magnetic Rag,吸引力拉格泰姆,吸引力拉格泰姆
+148,Starlight Waltz,星光圆舞曲,星光圓舞曲
+149,Les Sylphes,精灵,精靈
+150,Va pensiero,囚徒合唱,囚徒合唱
+151,Wiener March,维也纳进行曲,維也納進行曲
+152,Emperor Waltz Op.437,皇帝圆舞曲,皇帝圓舞曲
+153,Rondo allegretto Op.168 No.1,回旋曲 Op.168 No.1,迴旋曲 Op.168 No.1
+154,Andante from Concerto No.21,第二十一协奏曲 行板,第二十一協奏曲 行板
+155,Alles fuhlt der Liebe Freuden,所有生物都感受到爱的狂喜,所有生物都感受到愛的狂喜
+156,Rondo in C Major Op.51 No.1,C大调回旋曲 Op.51 No.1,C大調迴旋曲 Op.51 No.1
+157,Rondo alla Turca Op.68 No.3,土耳其风格回旋曲,土耳其風格迴旋曲
+158,Remembrance Op.68 No.28,回忆,回憶
+159,Old King Cole,老国王科尔,老國王科爾
+160,String Quartet No.13 D.804,a小调弦乐四重奏 No.13,a小調弦樂四重奏 No.13
+161,Anita's Dance,安妮塔舞曲,安妮塔舞曲
+162,Chanson Triste Op.40 No.2,悲歌,悲歌
+163,La Serenata,天使小夜曲,天使小夜曲
+164,Valse Op.83 No.1,圆舞曲 Op.83 No.1,圓舞曲 Op.83 No.1
+165,Le Coucou,布谷鸟,布穀鳥
+166,Gavotte from Op.183 No.1,加沃特 Op.183 No.1,加沃特 Op.183 No.1
+167,Courante HWV 440,库朗特 HWV 440,庫朗特 HWV 440
+168,The Laughing Song,笑之歌,笑之歌
+169,Sonata in d minor K.9,d小调奏鸣曲 K.9,d小調奏鳴曲 K.9
+170,Serenata Op.15 No.1,小夜曲 Op.15 No.1,小夜曲 Op.15 No.1
+171,Waltz in E flat Op.18 No.1,降E大调圆舞曲,降E大調圓舞曲
+172,Murmuring Brook,汩汩的溪水,汩汩的溪水
+173,La Candeur Op.100 No.1,天真淳朴,天真淳樸
+174,Sunflower Slow Drag,太阳花轻轻摇曳,太陽花輕輕搖曳
+175,Gavotte from Mignon,迷娘-加沃特舞曲,迷孃 - 加沃特舞曲
+176,A Concert Waltz,音乐会华尔兹,音樂會華爾茲
+177,The Song of the Robin,知更鸟之歌,知更鳥之歌
+178,Entr'acte-Gavotte Op.13,加沃特间奏曲,加沃特間奏曲
+179,The Easy Winners,轻松的胜利者,輕鬆的勝利者
+180,Sylvia-Pizzicato,西尔维亚-拨奏,西爾維亞-撥奏
+181,Gypsies Op.138 No.19,吉普赛人 Op.138 No.19,吉普賽人 Op.138 No.19
+182,A Real Slow Drag,慢步舞,慢步舞
+183,Cello Suite No.1 in G,无伴奏大提琴组曲 No.1,無伴奏大提琴組曲 No.1
+184,Sonata in E Major K.20,E大调奏鸣曲 K.20,E大調奏鳴曲 K.20
+185,Coppelia-Waltz,葛蓓莉亚华尔兹,葛蓓莉亞華爾茲
+186,Two Part Invention No.8,二部创意 No.8,二部創意 No.8
+187,Petite Valse Op.10 No.2,小圆舞曲 Op.10 No.2,小圓舞曲 Op.10 No.2
+188,Canzonetta,小坎左纳,小坎左納
+189,Hungarian Dance No.7,匈牙利舞曲 No.7,匈牙利舞曲 No.7
+190,Thine Alone Op.54,独自一人,獨自一人
+191,Something Doing,百无聊赖,百無聊賴
+192,Sonatina Op.20 No.1 Mvt.3,小奏鸣曲 Op.20 No.1,小奏鳴曲 Op.20 No.1
+193,Suite BWV 1012-3.Courante,无伴奏大提琴组曲-库朗特,無伴奏大提琴組曲-庫朗特
+194,The Parade Of The Tin Soldiers,玩具兵进行曲,玩具兵進行曲
+195,Lieder Op.52 No.7,旅行者之歌,旅行者之歌
+196,Entry Of The Gladiators,角斗士入场进行曲,角斗士入場進行曲
+197,Swipesy Cakewalk,淡啤酒步态舞,淡啤酒步態舞
+198,Polka Op.39 No.14,波尔卡舞曲 Op.39 No.14,波爾卡舞曲 Op.39 No.14
+200,Sonatina Op.36-2 Mvt.3,小奏鸣曲Op.36-2,小奏鳴曲Op.36-2
+201,Impromptu Op.142 No.3,即兴曲 Op.142 No.3,即興曲 Op.142 No.3
+202,Italian Song Op.39 No.15,意大利之歌,意大利之歌
+203,Cabaletta Op.83,卡巴莱塔,卡巴萊塔
+204,Etude Op.25 No.9,练习曲 Op.25 No.9,練習曲 Op.25 No.9
+205,Tempo di Ballo,舞曲速度,舞曲速度
+206,A Breeze From Alabama,来自阿拉巴马的微风,來自阿拉巴馬的微風
+207,6 Ecossaises WoO 83,埃克萨斯舞曲,埃克薩斯舞曲
+208,Trompeter Op.33 No.2,小号手,小號手
+209,Album-leaf Op.12 No.7,纪念册的一页,紀念冊的一頁
+210,Sonatina Op.20 No.1 Mvt.2,小奏鸣曲 Op.20 No.1 第二章,小奏鳴曲 Op.20 No.1 第二章
+211,Sonata Hob.27 Mvt.3,G大调奏鸣曲 第三章,G大調奏鳴曲 第三章
+212,Nocturne Op.55 No.1,f小调夜曲,f小調夜曲
+213,Sonatina Op.55 No.2 Mvt.3,小奏鸣曲 Op.55 No.2 第三章,小奏鳴曲 Op.55 No.2 第三章
+214,L'adieu Op.100 No.12,再会,再會
+215,Suite BWV 1009 Bourree,无伴奏大提琴组曲 BWV 1009,無伴奏大提琴組曲 BWV 1009
+216,Rondo Op.88 No.1 Mvt.3,回旋曲 Op.88 No.1 第三章,迴旋曲 Op.88 No.1 第三章
+217,Sonatina Op.36-2 Mvt.1,小奏鸣曲 Op.36-2 Mvt.1,小奏鳴曲 Op.36-2 Mvt.1
+218,Songs Without Words Op.19 No.2,无词歌 Op.19 No.2,無詞歌 Op.19 No.2
+219,The Doll's Complaint,娃娃的抱怨,娃娃的抱怨
+220,La Chevaleresque,骑士风格,騎士風格
+221,Waltz Op.69 No.2,圆舞曲 Op.69 No.2,圓舞曲 Op.69 No.2
+222,Walzer Op.12 No.2,华尔兹 Op.12 No.2,華爾茲 Op.12 No.2
+223,Spring Song,春之歌,春之歌
+224,Melody in F Op.3 No.1,F大调旋律,F大調旋律
+225,Dance Of The Hours,时辰之舞,時辰之舞
+226,Polonaise in A Flat Major B.5,降A大调波兰舞曲,降A大調波蘭舞曲
+227,Sonata in F Major Hob.23 Mvt.1,F大调奏鸣曲 第一章,F大調奏鳴曲 第一章
+228,Walzer Op.325,维也纳森林的故事,維也納森林的故事
+229,Valse Brillante Op.34 No.1,圆舞曲 Op.34 No.1,圓舞曲 Op.34 No.1
+230,Le Petit Rien,小空话,小空話
+231,Sonata in Flat B Major K570 Mvt.2,降B大调奏鸣曲 第二章,降B大調奏鳴曲 第二章
+232,Suite HWV 442 G major Chaconne,恰空 HWV 442,恰空 HWV 442
+233,Sonata in D Major K284 Mvt.3,D大调奏鸣曲 K284 第三章,D大調奏鳴曲 K284 第三章
+234,Derniere Pensee Musicale,最后的思念,最後的思念
+235,La Cinquantaine,金婚曲,金婚曲
+236,Suite in D minor HWV 448 Courante,库朗特HWV 448,D小調組曲HWV 448
+237,Waltz Op.64 No.3 in A Flat,圆舞曲Op.64 No.3,圓舞曲Op.64 No.3
+238,The Chatterbox Op.100 No.17,饶舌,饒舌
+239,Rondo in C Major WoO 48,C大调回旋曲,C大調迴旋曲
+240,Traum der Sennerin Op.45,高山少女之梦,高山少女之夢
+241,Valse Bleue,蓝色圆舞曲,藍色圓舞曲
+242,Love's Dream After the Ball,舞会后的爱之梦,舞會後的愛之夢
+243,Fleurette-Romance Op.75 No.1,浪漫曲Op.75 No.1,浪漫曲Op. 75 No. 1
+244,Le Rappel des oiseaux,鸟语啁啾,鳥語啁啾
+245,Poupee valsante,洋娃娃的舞蹈,洋娃娃的舞蹈
+246,Bourree in G Major Op.1 No.5,布列舞曲,布列舞曲
+247,The Chinese Serenade,中国小夜曲,中國小夜曲
+248,Stephanie-Gavotte Op.312,斯泰普哈尼-加沃特,斯泰普哈尼-加沃特
+249,Waltz Op.70 No.3 in D flat,圆舞曲Op.70 No.3,圓舞曲Op.70 No.3
+250,Douze Etudes de Salon Op.5 No.11,爱之歌,愛之歌
+,Sonatina in D Op.168 No.5,小奏鸣曲 Op.168 No.5,小奏鳴曲Op.168 No.5
+,Polish Dance Op.3 No.1,波兰舞曲 Op.3 No.1,波蘭舞曲Op.3 No.1
+,The Turkish Patrol Op.83,土耳其巡逻兵,土耳其巡邏兵
+,Souvenir de Porto Rico,波多黎各的回忆,波多黎各的回憶
+,Minuetto,小步舞曲,小步舞曲
+,Trumpet Concerto Mvt.3,小号协奏曲 第三乐章,小號協奏曲 第三樂章
+,Arrival of the Queen of Sheba,希巴女王的到来,希巴女王的到來
+,Waltz Op.70 No.1,圆舞曲 Op.70 No.1,圓舞曲 Op.70 No.1
+,Polonaise Op.53,波罗乃兹 Op.53,波羅乃茲 Op.53
+,Miss Fox,狐狸小姐,狐狸小姐
+,Franz Xaver Scharwenka,克萨韦尔·沙尔文卡,克薩韋爾·沙爾文卡
+,Theodor Michaelis,台奥多尔·米夏埃利斯,台奧多爾·米夏埃利斯
+,Piece in F Major K.33b,F大调小品 K.33b,F大調小品 K.33b
+,Rondo in D K.485,D大调回旋曲 K.485,D大調迴旋曲 K.485
+,Menuet celebre Op.14 No.1,G大调小步舞曲 Op.14,G大調小步舞曲 Op.14
+,Fairy Waltz,仙女圆舞曲,仙女圓舞曲
+,Sonata WoO 47 No.3 Mvt.1,D大调钢琴奏鸣曲第一章,D大調鋼琴奏鳴曲第一章
+,Nocturne in B Op.32 No.1,B大调夜曲 Op.32 No.1,B大調夜曲 Op.32 No.1
+,Sonatina in B flat Op.168 No.4,降B大调奏鸣曲,降B大調奏鳴曲
+,Two Caprices No.2,随想曲 No.2,隨想曲 No.2
+,Fantaisies Op.16 No.1,幻想曲 Op.16 No.1,幻想曲 Op.16 No.1
+,Colonel Bogey March,波基上校进行曲,波基上校進行曲
+,Etude Op.109 No.10,快步 Op.109 No.10,快步 Op.109 No.10
+,Pizzicato Polka Op.234,拨弦波尔卡,撥弦波爾卡
+,Old French Song Op.39 No.16,古老的法国歌曲,古老的法國歌曲
+,Valse Ballet,芭蕾圆舞曲,芭蕾圓舞曲
+,Bella Riva Op.87 - Mazurka,玛祖卡舞曲 Op.87,瑪祖卡舞曲 Op.87
+,Pastoral,牧歌,牧歌
+,Pepita Polka Op.138,佩皮塔波尔卡,佩皮塔波爾卡
+,Gavotte1,加沃特,加沃特
+,Berceuse,摇篮曲,搖籃曲
+,The Chrysanthemum,菊花拉格泰姆,菊花拉格泰姆
+,Hexentanz Op.17 No.2,女巫之舞,女巫之舞
+,Concerto Grosso Op.6 No.9 IV.Gavotte,协奏曲 Op.6 No.9 - 加沃特,協奏曲 Op.6 No.9 - 加沃特
+,L'enjouee Op.109 No.6,愉快的少女,愉快的少女
+,Quartet in C Major WoO 36 No.3,C大调四重奏 WoO 36 No.3,C大調四重奏 WoO 36 No.3
+,Auf dem Wasser zu singen,水上吟,水上吟
+,Bink's Waltz,宾克圆舞曲,賓克圓舞曲
+,Danse Russe Op.68 No.4,俄罗斯舞曲 Op.68 No.4,俄羅斯舞曲 Op.68 No.4
+,Chanson De Matin Op.15 No.2,晨曲,晨曲
+,Battle Of Waterloo,滑铁卢之战,滑鐵盧之戰
+,Concerto Grosso Op.6 No.9 Allemanda,协奏曲 Op.6 No.9 - 阿勒曼德,協奏曲 Op.6 No.9 - 阿勒曼德
+,Sonate No.5 Mvt.1,奏鸣曲 No.5 Mvt.1,奏鳴曲 No.5 Mvt.1
+,Sonata No.13 D.664 Mvt.3,奏鸣曲 No.13 D.664 Mvt.3,奏鳴曲 No.13 D.664 Mvt.3
+,Allemande in A Major WoO 81,阿勒曼德 WoO 81,阿勒曼德 WoO 81
+,Standchen von Shakespeare,听，听，云雀,聽，聽，雲雀
+,Rakoczy March,拉科齐进行曲,拉科齊進行曲
+,Rondo Brillante Op.62,华丽回旋曲 Op.62,華麗迴旋曲 Op.62
+,Polka in D minor,D小调波尔卡,D小調波爾卡
+,Schattentanz,影子之舞,影子之舞
+,3 Polkas de salon Op.7 No.3,波尔卡 Op.7 No.3,波爾卡 Op.7 No.3
+,Cantate BWV 68-2,康塔塔 BWV 68-2,康塔塔 BWV 68-2
+,Quasi allegretto Op.126 No.5,G大调第五号小品,G大調第五號小品
+,Sonatina in G Op.144,G大调奏鸣曲 Op.144,G大調奏鳴曲 Op.144
+,Sonata in C major KV 545-3,C大调奏鸣曲 KV 545-3,C大調奏鳴曲 KV 545-3
+40,Hungarian Dance No.3,匈牙利舞曲No.3,匈牙利舞曲No.3
+,Ecossaise D.735,埃科塞斯舞曲,埃科塞斯舞曲
+,Galop D.735,加洛普,加洛普
+,Concerto Grosso No.9 in F major,F大调协奏曲 No.9,F大調協奏曲 No.9
+,Harpsichord Sonata in A major,A大调奏鸣曲,A大調奏鳴曲
+,Sonata Op.1 No.3-2,奏鸣曲 Op.1 No.3-2,奏鳴曲 Op.1 No.3-2
+,Polka in A major JB157,波尔卡 JB157,波爾卡 JB157
+,Winter is not cold,冬天不冷,冬天不冷
+,Galuppi Sonata,加卢皮奏鸣曲,加盧皮奏鳴曲
+,Bagatelles Op.119 No.4,钢琴小品 Op.119 No.4,鋼琴小品 Op.119 No.4
+,Lied ohne Worte Op.30 No.3,无词歌 Op.30 No.3,無詞歌 Op.30 No.3
+,Four Pieces Op.68 No.4,4首小品 Op.68 No.4,4首小品 Op.68 No.4
+,Bagatelles Op.33 II,钢琴小品 Op.33 II,鋼琴小品 Op.33 II
+,Rondo,回旋曲,迴旋曲
+,Serenade num.1,小夜曲,小夜曲
+,Bacon song,培根之歌,培根之歌
+,Souvenir Op.4 No.3,回忆 Op.4 No.3,回憶 Op.4 No.3
+,Bagpipe Waltz,风笛圆舞曲,風笛圓舞曲
+,Bagatelles Op.33 IV,钢琴小品 Op.33 IV,鋼琴小品 Op.33 IV
+,3 Poetic Polkas Op.8 No.1,诗意波尔卡3 Op.8 No.1,詩意波爾卡3 Op.8 No.1
+,Bagatelles Op.33. III Allegretto,钢琴小品 Op.33 No.1,鋼琴小品Op.33 No.1
+,Andante in G minor. BWV 969,"行板 G小调, BWV 969",行板G小調，BWV 969
+,Morceau de Salon Op.55 No.1,沙龙小品 Op.55 No.1,沙龍小品 Op.55 No.1
+,Romance Op.5,浪漫曲 Op.5,浪漫曲 Op.5
+,Ancient eighteenth century,古老的十八世纪,古老的十八世紀
+,Bagatelles Op.126 No.5,钢琴小品 Op.126 No.5,鋼琴小品 Op.126 No.5
+,King Cotton,棉花王,棉花王
+,Simple Gift,简单的礼物,簡單的禮物
+,Don't be shy,别害羞,別害羞
+,Auf der Jagd Op.373,狩猎波尔卡 Op.373,狩獵波爾卡 Op.373
+,7 Landler WoO 11 No.6,兰德勒舞曲 WoO 11 No.6,蘭德勒舞曲 WoO 11 No.6
+,Beliebte Annen-Polka Op.137,心爱安娜波尔卡 Op.137,心愛安娜波爾卡 Op.137
+,The Music Box Op.32,音乐盒 Op.32,音樂盒 Op.32
+,Chanson Boheme From Carmen,波希米亚之歌,波希米亞之歌
+,Rondo in A Major WoO 49,A大调回旋曲 WoO 49,A大調迴旋曲 WoO 49
+,Smile Smile Smile,微笑的声音,微笑的聲音
+,My Heart At Thy Sweet Voice,你甜蜜的声音牢记我心头,你甜蜜的聲音牢記我心頭
+,7 Landler WoO 11 No.7,兰德勒舞曲 WoO 11 No.7,蘭德勒舞曲 WoO 11 No.7
+,Slavonic Dances Op.46 No.7,斯拉夫舞曲 Op.46 No.7,斯拉夫舞曲 Op.46 No.7
+,Morceau de Salon Op.55 No.2,沙龙音乐 Op.55 No.2,沙龍音樂 Op.55 No.2
+,La Jongleuse Op.52 No.4,女丑角 Op.52 No.4,女丑角 Op.52 No.4
+,7 Landler WoO 11 No.2,兰德勒舞曲 WoO 11 No.2,蘭德勒舞曲 WoO 11 No.2
+,Between the lines,字里行间,字裡行間
+,Wiegenlied Op.49 No.4,摇篮曲,搖籃曲
+,Rosamunde D797 Entr'acte No.3,罗扎蒙德,羅扎蒙德
+,Rainy,张学昭,张学昭
+,Plants,植物,植物
+,La Czarine-Mazurka,女沙皇,女沙皇
+,Serenade Op.19 No.2,小夜曲,小夜曲
+,Gavotte en Rondeau,加沃特舞曲,加沃特舞曲
+,Ole Olsen,奥莱·奥尔森,奥莱·奥尔森
+,Jean-Baptiste Lully,让-巴普蒂斯特·吕利,让-巴普蒂斯特·吕利
+,Sonatina Op.55 No.3 Mvt.1,小奏鸣曲 Op.55 No.3 第一章,小奏鳴曲 Op.55 No.3 第一章
+,Divertimento K.334 Menuetto,小步舞曲 K.334,小步舞曲 K.334
+,The Shepherd's Return Op.109 No.3,牧场的傍晚,牧場的傍晚
+,By the Fireside Op.15 No.8,火炉旁 Op.15 No.8,火爐旁 Op.15 No.8
+,Clair de lune Op.46 No.2,月光,月光
+,Mazurka in D Op.33 No.2,玛祖卡舞曲 Op.33 No.2,瑪祖卡舞曲 Op.33 No.2
+,Con Amore,情意绵绵,情意綿綿
+,Sonatina Op.36 No.5 Mvt.3,小奏鸣曲 Op.36 No.5 第三章,小奏鳴曲 Op.36 No.5 第三章
+,Isaac Albeniz,艾萨克·阿尔贝尼兹,艾萨克·阿尔贝尼兹
+,Mazurka in B flat Op.7 No.1,降B大调玛祖卡舞曲 Op.7 No.1,降B大調瑪祖卡舞曲 Op.7 No.1
+,Puerta de tierra Op.71 No.5,旅行回忆,旅行回憶
+,Louis Ganne,路易斯·甘恩,路易斯·甘恩
+,Hasche-Mann Op.15 No.3,捉迷藏Op.15 No.3,捉迷藏Op.15 No.3
+,Madding Wind,风的愤怒,風的憤怒
+,Sydney Smith,鲍勃,鲍勃
+,Warblings At Eve,夜莺在歌唱,夜鶯在歌唱
+,Sonata in C Major K309 Mvt.1,C大调奏鸣曲 K.309,C大調奏鳴曲 K.309
+,Symphony No.5 Mvt.1,命运交响曲,命運交響曲
+,Stepping On The Rainy Street,雨中漫步,雨中漫步
+,If You Were By My Side,橘色温度,橘色溫度
+,Solitary Awakening,夜囚梦醒,夜囚夢醒
+,Build The Dream,筑梦,築夢
+,Sitting Next To You,与你同在,與你同在
+,Piano Tiles,钢琴块之歌,鋼琴塊
+,Interplanetary Wandering,星际流浪,星際流浪
+,Tarantella Napoletana,塔兰泰拉塔那,塔蘭泰拉塔那
+,Toccatta in D minor,D小调托卡塔与赋格,D小調託卡塔與賦格
+,Elves of Night,森林狂想曲,森林狂想曲
+,Free Loop,Free Loop,Free Loop
+,Bad Day,Bad Day,Bad Day
+,Try,Try,Try
+,Spirits Of The Wetlands,湿地小精灵 ,濕地小精靈
+,Longing for Spring K596,渴望春天,渴望春天
+,Yankee Doodle,扬基歌,揚基歌
+,Ode An Die Freude,欢乐颂,歡樂頌
+,Auf Flugeln Des Gesanges,乘着歌声的翅膀,乘著歌聲的翅膀
+,Oh! Susanna,哦，苏珊娜,哦，蘇珊娜
+,Red River Valley,红河谷,紅河谷
+,The Blue Danube,蓝色多瑙河,藍色多瑙河
+,Auld Lang Syne,友谊地久天长,友誼地久天長
+,Dreaming of Home and Mother,送别,送別
+,Serenade No.13 K.525 Mvt.4,G大调弦乐小夜曲 第四章,G大調弦樂小夜曲 第四章
+,Je te veux,我需要你,我需要你
+,Sonatina Op.55 No.2 Mvt.2,小奏鸣曲 Op.55 No.2 第二章,小奏鳴曲 Op.55 No.2 第二章
+,Waves Of The Ocean,海洋之波,海洋之波
+,Sonata Op.24 No.5 Mvt.4,春天奏鸣曲 第四章,春天奏鳴曲 第四章
+,Etude Op.10 No.5,黑键练习曲,黑鍵練習曲
+,Preambule From Carnaval,狂欢节前奏曲,狂歡節前奏曲
+,Little New Year Greetings,小拜年,小拜年
+,Zigeunerweisen Op.20,流浪者之歌,流浪者之歌
+,Kiss The Rain,Kiss The Rain,Kiss The Rain
+,Kiss The Rain High speed,Kiss The Rain High speed,Kiss The Rain High speed
+,Kiss The Rain Medium speed,Kiss The Rain Medium speed,Kiss The Rain Medium speed
+,River Flows In You,River Flows In You,River Flows In You
+,Light Your Fire,夜空中最亮的星,夜空中最亮的星
+,Manual of Youth,青春修炼手册,青春修煉手冊
+,Die For You,好想大声说爱你,好想大聲說愛你
+,PANAMA,PANAMA-C哩C哩,PANAMA-C哩C哩
+,Take Me To Your Heart,吻别,吻别
+,The Wind Rises,起风了,起风了
+,Half Moon Serenade,月半小夜曲,月半小夜曲
+,PLANET,PLANET,PLANET
+,Get Rid Of Blues,消愁,消愁
+,Cold Love,凉凉,凉凉
+,that girl,that girl,that girl
+,Fleet of Time,匆匆那年,匆匆那年
+,Fur Elise,致爱丽丝,致爱丽丝
+,Melody of the Night No.5,夜的钢琴曲5,夜的钢琴曲5
+,Wedding March,婚礼进行曲,婚礼进行曲
+,The Seasons Op.37,六月船歌,六月船歌
+,Now It's Time,说散就散,说散就散
+,Breakaway,远走高飞,远走高飞
+,Ten Years,十年,十年
+,Fairy Tale,童话,童话
+,Dignity,体面,体面
+,Little Luck,小幸运,小幸运
+,A Liar Of Love,爱情的骗子我问你,爱情的骗子我问你
+,Havana,Havana,Havana
+,Romance De Amor,爱的罗曼史,爱的罗曼史
+,Flight of the Bumblebee,野蜂飞舞,野蜂飞舞
+,Espana Cani,西班牙斗牛舞曲,西班牙斗牛舞曲
+,Sonata Pathetique Mvt.3,悲怆奏鸣曲 第三章,悲怆奏鸣曲 第三章
+,Mundane World,傲红尘,傲红尘
+,Summer,Summer,Summer
+,If Only,可惜没如果,可惜没如果
+,Answer,爱就像蓝天白云 晴空万里...,爱就像蓝天白云 晴空万里...
+,Then,后来,后来
+,Golden Snake Dance,金蛇狂舞,金蛇狂舞
+,Defend the Yellow River,保卫黄河,保卫黄河
+,Lake Baikal,贝加尔湖畔,贝加尔湖畔
+,If You,If You,If You
+,When,当,当
+,Tears,眼泪,眼泪
+,"Wind,leave",风起，离去,风起，离去
+,Maiden of the Buddha,佛系少女,佛系少女
+,Exist,存在,存在
+,Star dreams,晴空逐梦,晴空逐梦
+,Serenade Op.19 No.2,小夜曲,小夜曲
+,Bubbles,泡沫,泡沫
+,Stay With Each Other,多远都要在一起,多远都要在一起
+,Butterfly,《数码宝贝》主题曲,《数码宝贝》主题曲
+,Christmas Rhapsody,圣诞狂想曲,圣诞狂想曲
+,Jingle Bells Christmas Edition,铃儿响叮当圣诞版,铃儿响叮当圣诞版
+,Forest Of Blocks,积木森林,积木森林
+,A Spray of Plum Blossoms,一剪梅,一剪梅
+,Nessun Dorma,今夜无人入睡,今夜无人入睡
+,The Truth That You Leave,你离开的事实,你离开的事实
+,Us and Them,后来的我们 五月天,后来的我们 五月天
+,Butterfly Love,梁祝,梁祝
+,Traceless Star,星无痕,星无痕
+,Folk Music,民谣,民謠
+,Little Star Try,小星星试玩,小星星试玩
+,James Lord Pierpont,詹姆斯·罗德·皮尔彭特,詹姆斯·羅德·皮爾彭特
+,Johann Pachelbel,帕赫贝尔,帕赫貝爾
+,Schubert,舒伯特,舒伯特
+,Congfei Wei,魏琮霏,魏琮霏
+,Ferdinand Beyer,费迪南德·拜厄,費迪南德·拜厄
+,Chopin,肖邦,肖邦
+,Tekla Badarzewska,巴达捷芙斯卡,巴達捷夫斯卡
+,Beethoven,贝多芬,貝多芬
+,Francois Joseph Gossec,弗朗索瓦·约瑟·戈赛克,費朗索瓦·約瑟·戈塞克
+,Carlos Gardel,卡洛斯·葛戴尔,卡洛斯·葛戴爾
+,Tchaikovsky,柴可夫斯基,柴可夫斯基
+,Kuhlau,库劳,庫勞
+,Johann Strauss,老约翰·施特劳斯,老約翰·施特勞斯
+,Johann Strauss II,小约翰·施特劳斯,小約翰·施特勞斯
+,Mozart,莫扎特,莫扎特
+,Jacques Offenbach,奥芬巴赫,奧芬巴赫
+,Hermann Necke,赫尔曼·奈克,赫爾曼·奈克
+,Czerny,车尔尼,車爾尼
+,Unknown,佚名,佚名
+,Saint-Seans,圣·桑,聖·桑
+,Haydn,海顿,海頓
+,Carl Bohm,卡尔·博姆,卡爾·博姆
+,Moszkowski,莫里茨·莫什科夫斯基,莫里茨·莫什科夫斯基
+,Scott Joplin,乔普林,喬普林
+,Johannes Brahms,勃拉姆斯,勃拉姆斯
+,Frank Meacham,米查姆,米查姆
+,Bizet,比才,比才
+,Clementi,克莱门蒂,克萊門蒂
+,Gioachino Rossini,罗西尼,羅西尼
+,JerryC,张逸帆,張逸帆
+,Rimsky-Korsakov,里姆斯基·柯萨科夫,裡姆斯基·柯薩科夫
+,Wagner,瓦格纳,瓦格納
+,Joseph Kuffner,约瑟夫·库夫纳,約瑟夫·庫夫納
+,Handel,亨德尔,亨德爾
+,Franz Liszt,弗朗兹·李斯特,弗朗茲·李斯特
+,Antonio Vivaldi,安东尼奥·维瓦尔第,安東尼奧·維瓦爾第
+,C.P.E.Bach,C.P.E.巴赫,C.P.E.巴赫
+,Joseph Brackett,约瑟夫·布雷克特,約瑟夫·布雷克特
+,Mendelssohn,门德尔松,門德爾松
+,Rachmaninoff,拉赫玛尼诺夫,拉赫瑪尼諾夫
+,Gustav Holst,古斯塔夫·霍尔斯特,古斯塔夫·霍爾斯特
+,Prohaska,普罗修斯卡,普羅修斯卡
+,American Folk Music,美国民谣,美國民謠
+,English Folk Music,英国民谣,英國民謠
+,French Folk Music,法国民谣,法國民謠
+,Chinese Folk Music,中国民谣,中國民謠
+,Polish Folk Music,波兰民谣,波蘭民謠
+,Russian Folk Music,俄罗斯民谣,俄羅斯民謠
+,Korean Folk Music,韩国民谣,韓國民謠
+,Canadian Folk Music,加拿大民谣,加拿大民謠
+,Italian Folk Music,意大利民谣,意大利民謠
+,Shostakovich,肖斯塔科维奇,肖斯塔科維奇
+,Grieg,格里格,格里格
+,Dunayevsky,杜那耶夫斯基,杜那耶夫斯基
+,Emil Waldteufel,埃米尔·瓦尔德退费尔,埃米爾·瓦爾德退費爾
+,Thomas Moore,托马斯·莫尔,托馬斯·莫爾
+,Xian Xinghai,冼星海,冼星海
+,Weber,韦伯,韋伯
+,Faure,福莱,福萊
+,Walter,瓦尔特,瓦爾特
+,Scarlatti,斯卡拉蒂,斯卡拉蒂
+,Fibich,菲比赫,菲比赫
+,Berlioz,柏辽兹,柏遼茲
+,Diabelli,狄亚贝利,狄亞貝利
+,Pascual Marquina,马基纳,馬基納
+,Robert Burns,罗伯特·彭斯,羅伯特·彭斯
+,Tianhua Liu,刘天华,劉天華
+,Robert Schumann,舒曼,舒曼
+,Mendelssohn,门德尔松,門德爾松
+,Xinghai Xian,冼星海,冼星海
+,Giuseppe Verdi,威尔第,威爾第
+,Giacomo Puccini,贾科莫·普契尼,賈科莫·普契尼
+,Cilea,奇烈亚,奇烈亞
+,Bedrich Smetana,斯美塔那,斯美塔那
+,Ireland Folk Music,爱尔兰民谣,愛爾蘭民謠
+,Bedrich Smetana,斯美塔那,斯美塔那
+,Jean Sibelius,西贝柳斯,西貝柳斯
+,Albert Ellmenreich,爱尔门里奇,愛爾門里奇
+,Antonin Dvorak,安东宁·德沃夏克,安東寧·德沃夏克
+,Friedrich Burgnlueller,布格缪勒,布格繆勒
+,Edward Elgar,爱德华·埃尔加,愛德華·埃爾加
+,Ernesto De Curtis,埃尔内斯托·第·库尔蒂斯,埃爾內斯托·第·庫爾蒂斯
+,John Pond Ordway,约翰·奥德威,約翰·奧德威
+,Berkovich,别尔科维奇,別爾科維奇
+,Vincenzo di Chiara,V.奇阿拉,V.奇阿拉
+,Cramer,克拉莫,克拉莫
+,Er Nie,聂耳,聶耳
+,Shimizu,清水修,清水修
+,Japanese Folk Music,日本民谣,日本民謠
+,Sarah Josepha Hale,萨拉·约瑟法·黑尔,薩拉·約瑟法·黑爾
+,Oesten,奧斯丁,奧斯丁
+,Franz Gruber,弗朗茨·格鲁伯,弗朗茨·格魯伯
+,British carol,英国颂歌,英國頌歌
+,William Cowper,威廉·科伯,威廉·科伯
+,Adapted by Congfei Wei,魏琮霏改编,魏琮霏改編
+,Mikhail Glinka,格林卡,格林卡
+,M.P. Mussorgsky,穆索尔斯基,穆索爾斯基
+,Sergei Prokofiev,普罗科菲耶夫,普羅科菲耶夫
+,Eduardo di Capua,爱德华多·迪卡普阿,愛德華多·迪卡普阿
+,Yuxian Deng,邓雨贤,鄧雨賢
+,Scott Joplin,斯科特·乔普林,斯科特·喬普林
+,Sousa,苏萨,蘇薩
+,Kirchner,基希纳,基希納
+,Bela Bartok,巴托克,巴托克
+,Bazzini,巴奇尼,巴奇尼
+,Kabalevsky,卡巴列夫斯基,卡巴列夫斯基
+,Ravel,拉威尔,拉威爾
+,FR.Bell,FR.贝尔,FR.貝爾
+,Gexin Chen,陈歌辛,陳歌辛
+,Zhong Huang,黄钟,黃鐘
+,H. Lemoine,莱蒙,萊蒙
+,Karl Hans,卡尔·汉斯,卡爾·漢斯
+,Gullit,古利特,古利特
+,Narciso Yepes,那西索·叶佩斯,那西索·葉佩斯
+,Interlude of Online Drama,《喵星人抢不到》插曲,《喵星人搶不到》插曲
+,Scotland Folk Music,苏格兰民歌,蘇格蘭民歌
+,Danmark Folk Music,丹麦民歌,丹麥民歌
+,Gustav Merkel,默克尔,默克爾
+,Liliuokalani,里留卡拉尼,裡留卡拉尼
+,G. Lange,朗格,朗格
+,E.German,杰曼,傑曼
+,Ukrainian Carol,乌克兰颂歌,烏克蘭頌歌
+,Ancient Welsh Music,威尔士古曲,威爾士古曲
+,Boccherini,博凯里尼,博凱里尼
+,Otto Fischer,奥托·费舍尔,奧托·菲舍爾
+,D. Auber,D. 奥伯,D. 奧伯
+,Clack Chen,陈黑黑,陳黑黑
+,Thomas Haynes Bayly,托马斯·海恩斯·贝利,托馬斯·海恩斯·貝利
+,Johann Baptist Vanhal,约翰·巴蒂斯特·万哈尔,約翰·巴蒂斯特·萬哈爾
+,William J.Kirkpatrick,柯克帕特里克,柯克帕特里克
+,Vincenzo Bellini,贝里尼,貝里尼
+,Ede Poldini,波迪尼,波迪尼
+,John Worgan,沃根,沃根
+,Gesangbuch Wurttemberg,德国圣诗集,德國聖詩集
+,August Ludvig Storm,奥古斯·特斯顿,奧古斯·特斯頓
+,Stephen Adams,斯蒂芬·亚当斯,斯蒂芬·亞當斯
+,George F.Root,鲁特,魯特
+,L. Streabbog,L. 斯特里鲍 ,L. 斯特里鮑
+,Brazilian Children's Song,巴西儿歌,巴西兒歌
+,Shih Che Huang,黄士哲,黃士哲
+,Stephen C. Foster,福斯特,福斯特
+,C.W.von.Gluck,格鲁克 ,格魯克
+,C.S. Brainard,布雷纳德,布雷納德
+,David Lan Yiduo,蓝一多,藍一多
+,Kyrene,秋色,秋色
+,Georges Bachmann,巴赫曼,巴赫曼
+,Claude Debussy,德彪西,德彪西
+,Vittorio Monti,蒙蒂,蒙蒂
+,Jorge Monzon,豪尔赫·蒙松,豪爾赫·蒙松
+,Hua Feng,封铧,封鏵
+,Zi Huang,黄自,黃自
+,Julian Martinez,朱利安·马丁内斯,朱利安·馬丁內斯
+,Wu Judy Chin - tai,吴金黛,吳金黛
+,Daniel Powter,Daniel Powter,Daniel Powter
+,P!nk,P!nk,P!nk
+,Carl Reinecke,赖内克,賴內克
+,Fritz Kreisler,克莱斯勒,克萊斯勒
+,SuBin Lim,李素彬,李素彬
+,Spanish Folk Music,西班牙民谣,西班牙民謠
+,Alyfee,徐敬尧,徐敬堯
+,Gaetano Braga,G.布拉戈,G.布拉戈
+,Vietnamese Folk Music,越南民谣,越南民謠
+,Auguste Durand,杜让,杜讓
+,Louis-Claude Daquin,达坎,達坎
+,Edward MacDowell,麦克道尔,麥克道爾
+,Louis Liao,廖书伟,廖書偉
+,S. Yradier,伊拉迭埃尔,伊拉迭埃爾
+,Europa Huang,黄建为,黃建為
+,Kelly Clarkson,Kelly Clarkson,Kelly Clarkson
+,Feeder,Feeder,Feeder
+,Lee Ann Womack,Lee Ann Womack,Lee Ann Womack
+,Daniel Powter,Daniel Powter,Daniel Powter
+,Tears For Fears,Tears For Fears,Tears For Fears
+,Guns N'Roses,Guns N'Roses,Guns N'Roses
+,Adolf von Henselt,阿道夫·冯·亨泽尔特,阿道夫·馮·亨澤爾特
+,Jin Shi,石进,石進
+,Philippine Folk Song,菲律宾民谣,菲律賓民謠
+,Francisco Tarrega,塔雷加,塔雷加
+,Ambroise Thomas,安布鲁瓦兹·托马斯,安布魯瓦茲·托馬斯
+,Zequinha de Abreu,泽昆哈·阿布鲁,德昆哈·阿布魯
+,Nino Rota,尼诺·罗塔,尼諾·羅塔
+,Craig David,Craig David,Craig David
+,George W. Warren,沃伦,沃倫
+,Ernest Gillet,盖里,蓋里
+,Adolf Jensen,阿道夫·詹森,阿道夫·詹森
+,Indonesian Folk Song,印尼民谣,印尼民謠
+,H. Brinley Richards,亨利·理查兹布林利,亨利·理查茲布林利
+,Benjamin Godard,本杰明·戈达尔,本傑明·戈達爾
+,Leo Delibes,莱奥·德利布,萊奧·德利布
+,Chen-Chen Ho,何真真,何真真
+,Stephen Heller,斯蒂芬·海勒,斯蒂芬·海勒
+,Genari Karganov,卡岗诺夫,卡崗諾夫
+,Gustav Lange,古斯塔夫·兰格,古斯塔夫·蘭格
+,J.S. Bach,J.S. 巴赫,J.S. 巴赫
+,The Daydream,白日梦,白日夢
+,Firefly,萤火虫,螢火蟲
+,You Xue-zhi,游学志,遊學志
+,Handsome,曾帅,曾帥
+,Pianoboy,高至豪,高至豪
+,Sean,张康明,張康明
+,Pi,侯湃,侯湃
+,Adapted by Pi,侯湃改编,侯湃改編
+,TFBOYS,TFBOYS,TFBOYS
+,Theodore Lack,西奥多·拉克,西奧多·拉克
+,Brinley Richards,布林利·理查兹,布林利·理查茲
+,Ivan Castro,伊凡·卡斯特罗,伊凡·卡斯特羅
+,Julius Fucik,朱利叶斯·伏契克,朱利葉斯·伏契克
+,Leon Jessel,莱昂·杰塞尔,萊昂·傑塞爾
+,Jan Ladislav Dussek,扬·杜舍克,揚·杜舍克
+,Cesar Franck,赛萨尔·弗兰克,賽薩爾·弗蘭克
+,Anton Rubinstein,安东·鲁宾斯坦,安東·魯賓斯坦
+,Amilcare Ponchielli,蓬基耶利,蓬基耶利
+,Francois Couperin,弗朗索瓦·库普兰,弗朗索瓦·庫普蘭
+,Jean Gabriel Marie,加布里??埃尔·玛丽,加布里??埃爾·瑪麗
+,Louis Moreau Gottschalk,路易·莫罗戈特沙尔克,路易·莫羅戈特沙爾克
+,Jules Massenet,儒勒·马斯内,儒勒·馬斯內
+,J.E. Jonasson,乔纳森,喬納森
+,Vasily Agapkin,瓦西里·阿伽普庚,瓦西里·阿伽普庚
+,August Labitzky,拉比斯基,拉比斯基
+,Alfred Margis,阿尔弗雷德·马基思,阿爾弗雷德·馬基思
+,Alphons Czibulka,阿尔方斯·西波尔卡,阿爾方斯·西波爾卡
+,Joachim Raff,约阿希姆·拉夫,約阿希姆·拉夫
+,Jean-Philippe Rameau,让-菲利普·拉莫,讓-菲利普·拉莫
+,Hermann Fliege,赫尔曼·佛里格,赫爾曼·佛里格
+,Luo Ni,倪椤,倪欏
+,Erik Satie,埃里克·萨蒂,埃里克·薩蒂
+,Charles.D.Blake,查尔斯·D·布莱克,查爾斯·D·布萊克
+,Pablo de Sarasate,帕布罗·德·萨拉萨蒂,帕布羅·德·薩拉薩蒂
+,Leo Liu,刘加澳,劉加澳
+,Finnish Folk Music,芬兰民谣,芬蘭民謠
+,Australian Folk Music,澳洲民谣,澳洲民謠
+,Yiruma,Yiruma,Yiruma
+,C.R Lee,玺儿,璽兒
+,Ignacy Jan Paderewski,帕德雷夫斯基,帕德雷夫斯基
+,Carl Gottlieb Reissiger,卡尔·赖辛格,卡爾·賴辛格
+,Leonard Butler,伦纳德·巴特勒,倫納德·巴特勒
+,Kenneth Joseph Alford,肯耐·约瑟夫·奥尔福德,肯耐·約瑟夫·奧爾福德
+,Joseph Schiffmacher,约瑟夫·施夫马彻尔,約瑟夫·施夫馬徹爾
+,German Folk Music,德国民谣,德國民謠
+,Reinhold Gliere,莱因霍尔德·格里埃尔,萊因霍爾德·格里埃爾
+,Leopold Mozart,利奥波德·莫扎特,利奧波德·莫扎特
+,Arcangelo Corelli,阿尔坎杰罗·科雷利,阿爾坎杰羅·科雷利
+,Georges Delbruck,德尔布鲁克,德爾布魯克
+,Daniel,缪英臣,繆英臣
+,Georg Philipp Telemann,乔治.泰勒曼,喬治.泰勒曼
+,Robert Williams,罗伯特·威廉姆斯,羅伯特·威廉姆斯
+,John Field,约翰·菲尔德,約翰·菲爾德
+,Josef Strauss,约瑟夫·施特劳斯,約瑟夫·施特勞斯
+,Anderson Gilman,安德森·吉尔曼,安德森·吉爾曼
+,Baldassare Galuppi,巴尔达萨雷·加卢皮,巴爾達·薩雷·加盧皮
+,Arthur Sullivan,阿瑟·萨利文,阿瑟·薩利文
+,Harry Dacre,哈利·达克雷,哈利·達克雷
+,Grenville Dean Wilson,格伦维尔·迪恩·威尔逊,格倫維爾·迪恩·威爾遜
+,Heinrich Lichner,海因里希·里克纳,海因里希·里克納
+,Adapted by Luo Ni,倪椤改编,倪欏改編
+,Anatoly Lyadov,阿纳托利·利亚多夫,阿納托利·利亞多夫
+,Jeon Su Yeon,全素妍,全素妍
+,Original,原创,原創
+,Adapted,配器,配器
+,Zonshain,从尚,從尚
+,Evelyn Li,李想,李想
+,Ilya Polyakov,伊利亚·波亚科弗,伊利亞·波亞科弗
+,Takemura,武村,武村
+,Shuchen Zhang,张澍辰,張澍辰
+,Miu weiwei,缪薇薇,繆薇薇
+,G.Meyerbeer,梅耶贝尔,梅耶貝爾
+,Poulenc,弗朗西斯·普朗克,弗朗西斯·普朗克
+,Polka,波尔卡舞曲,波爾卡舞曲
+,Jeonghyun Yoon,Jeonghyun Yoon,Jeonghyun Yoon
+,Marta,Marta,Marta
+,C. Milok,C.米洛克,C.米洛克
+,Donizetti,多尼采蒂,多尼采蒂
+,Joseph Hellmesberger jun,小约瑟夫·赫尔梅斯伯格,小約瑟夫·赫爾梅斯伯格
+,Mario Tarenghi,Mario Tarenghi,Mario Tarenghi
+,Carl Albert Loeschhorn,卡尔·阿尔伯特·莱施霍恩,卡爾·阿爾伯特·萊施霍恩
+,R. Dellinger,R.戴林格,R.戴林格
+,Adapted by Miu weiwei,缪薇薇改编,繆薇薇改編
+,Shaun Gibson,逃跑计划,逃跑計畫

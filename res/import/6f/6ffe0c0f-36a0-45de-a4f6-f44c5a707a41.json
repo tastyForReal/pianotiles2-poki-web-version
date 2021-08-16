@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"fluent_btn_bigger","_duration":1.08,"sample":25,"wrapMode":"2","curveData":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2","x":1,"y":1}},{"frame":0.56,"value":{"__type__":"cc.Vec2","x":1.1,"y":1.1}},{"frame":1.08,"value":{"__type__":"cc.Vec2","x":1,"y":1}}]}}}

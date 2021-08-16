@@ -1,0 +1,59 @@
+{
+    "baseBpm":88,
+    "musics":[
+        {
+            "baseBeats":"0.25",
+"lowTrackGain":0.85,
+            "scores":[
+                "B-1[L]30,#f[L]50,b[L],#f[L]50,G-1[L]40,d[L]70,g[L],d[L]40;A-1[L]70,e[L]50,a[L],e[L]40,T,a1[M],d2[M],e2[M],#f2[M];e2[L],d2[M],d2[KM],T,a1[M],d2[M],e2[M],#f2[M];e2[L],d2[M],e2[L],#f2[L],#f2[KM],a1[M],d2[M],e2[M],#f2[M];e2[L],d2[M],d2[KM],T,a1[M],d2[M],e2[M],#f2[M];e2[L],d2[M],e2[L],a2[L],#f2[KM],#f2[L],g2[L]60;a2[L],a2[M]60,a2[LM]60,a2[L],a2[L],#f2[M],d2[LM]60,#f2[M],g2[M];a2[L],a2[M]60,a2[LM]60,a2[L]80,a2[L],#f2[M]70,d2[LM]50,d2[M],e2[M];#f2[L],#f2[M],#f2[LM],#f2[L],#f2[L],b2[L],b2[M],#f2[N],e2[N],d2[L];e2[K],e2[L],e2[M]70,e2[M]70,e2[L],#c2[L],a1[M],d2[M]70,e2[M]70,#f2[M];e2[L],d2[M],d2[KM],T,a1[M]60,d2[M],e2[M],#f2[M];e2[L],d2[M],e2[L],#f2[L],#f2[KM]60,a1[M],d2[M],e2[M],#f2[M];e2[L],d2[M],d2[KM],T,a1[M],d2[M]70,e2[M]70,#f2[M];e2[L],d2[M],e2[L],a2[L],#f2[KM]70,#f2[L]70,g2[L];",
+                "R;S,d[M],V,a[M],V,d1[M],V,a[M],V;B-1[M],V,#f[M],V,b[M],V,#f[M],V,G-1[M],V,d[M],V,g[M],V,d[M],V;A-1[M],V,e[M],V,a[M],V,e[M],V,d[M],V,a[M],V,d1[M],V,a[M],V;B-1[M],V,#f[M],V,b[M],V,#f[M],V,G-1[M],V,d[M],V,g[M],V,d[M],V;A-1[M],V,e[M],V,a[M],V,e[M],V,d[L],a[L],d1[L],a[L];A-1[L],e[L],a[L],e[L],G-1[L],d[L],g[L],d[L];#F-1[L],#c[L],#f[L],#c[L],B-1[L],#f[L],b[L],#f[L];E-1[L],B-1[L],e[L],B-1[L],G-1[L],d[L],g[L],d[L];A-1[L],e[L],a[L],e[L],A-1[L],e[L],a[L],e[L];B-1[M],V,#f[M],V,b[M],V,#f[M],V,G-1[M],V,d[M],V,g[M],V,d[M],V;A-1[M],V,e[M],V,a[M],V,e[M],V,d[M],V,a[M],V,d1[M],V,a[M],V;B-1[L],#f[L],b[L],#f[L],G-1[L],d[L],g[L],d[L];A-1[L],e[L],a[L],e[L],d[L],a[L],d1[L],a[L];"
+            ],
+            "instruments":[
+                "piano",
+                "piano"
+            ],
+            "alternatives":[
+                "",
+                ""
+            ],
+            "id":1,
+            "bpm":88
+        },
+        {
+            "baseBeats":"0.25",
+"lowTrackGain":0.85,
+            "scores":[
+                "a2[L],a2[M]70,a2[LM]70,a2[L],a2[L],#f2[M]70,d2[LM]50,#f2[M]60,g2[M];a2[L],a2[M]70,a2[LM]80,a2[L],a2[L],#f2[M],d2[LM]70,d2[M],e2[M];#f2[L],#f2[M]70,#f2[LM]70,#f2[L],#f2[K],b2[M],5<#f2[N],e2[N]>,d2[M],b1[M];d2[K],e1[L]60,a1[L],#f1[J];#f1[K],d1[L],#f1[L],e1[J];a1[K],a1[L],e1[M],d1[M]60,a1[K],a1[L],e1[M],d1[M]60;a1[K],a1[L],e1[M],d1[M],(#c1.e1)[J];a2[M],a1[M]70,d2[M],e2[M]70,a2[M],e2[M]70,d2[M],a1[M]70,a2[M],a1[M]70,d2[M],e2[M],a2[M],e2[M],d2[M],a1[M];a2[M],a1[M],d2[M],e2[M],a2[M],e2[M],d2[M],a1[M],a2[M],a1[M],d2[M],e2[M],a2[M],e2[M],d2[M],a1[M];d3[M],d2[M],g2[M],a2[M],d3[M],a2[M],g2[M],d2[M],d3[M],d2[M],g2[M],a2[M],d3[M],a2[M],g2[M],d2[M];d3[M],d2[M],g2[M],a2[M],d3[M],a2[M],g2[M],d2[M],d3[M],d2[M],g2[M],a2[M],d3[M],a2[M],g2[M],d2[M];a2[M],a1[M],d2[M],e2[M],a2[M],e2[M],d2[M],a1[M],a2[M],a1[M],d2[M],e2[M],a2[M],e2[M],d2[M],a1[M];a2[M],a1[M],d2[M],e2[M],a2[M],e2[M],d2[M],a1[M],a2[M],a1[M],d2[M],e2[M],a2[M],e2[M],d2[M],a1[M];",
+                "A-1[L],e[L],a[L],e[L],G-1[L],d[L],g[L],d[L];#F-1[L],#c[L],#f[L],#c[L],B-1[L],#f[L],b[L],#f[L];E-1[L],B-1[L],e[L],B-1[L],A-1[J];d[L],a[L],d1[L],a[L],B-1[L],#f[L],b[L],#f[L];G-1[L],d[L],g[L],d[L],A-1[L],e[L],a[L],e[L];d[L],a[L],d1[L],a[L],B-1[L],#f[L],b[L],#f[L];G-1[L],d[L],g[L],d[L],A-1[L],e[L],a[L],e[L];(d.a.d1)[L],U,T,(e.g.d1)[L],U,T;(#f.d1)[L],U,(#f.d1)[L],U,(g.d1)[L],V,(#f.d1)[L],V,(e.a.d1)[L];(g.d1.g1)[L],U,T,(a.c1.g1)[L],U,T;(b.g1)[L],U,(b.g1)[L],U,(c1.g1)[L],V,(b.g1)[L],V,(a.g1)[L];D-1[L],A-1[L],e[L],#f[L],E-1[L],e[L],g[L],a[L];#F-1[L],#f[L],a[L],d1[L],g[LM],#f[LM],e[L];"
+            ],
+            "instruments":[
+                "piano",
+                "piano"
+            ],
+            "alternatives":[
+                "",
+                ""
+            ],
+            "id":2,
+            "bpm":92
+        },
+        {
+            "baseBeats":0.25,
+"lowTrackGain":0.85,
+            "scores":[
+                "(#c2.a2)[L],(#c2.a2)[M],(#c2.a2)[LM],(#c2.a2)[L],(b1.a2)[L],(b1.#f2)[M],(b1.d2)[LM],#f2[M],g2[M];(#c2.a2)[L],(#c2.a2)[M],(#c2.a2)[LM],(#c2.a2)[L],(a1.a2)[L],(a1.#f2)[M],(a1.d2)[LM],(b1.d2)[M],e2[M];#f2[L],#f2[M],#f2[LM],#f2[L],#f2[K],b2[M],5<#f2[N],e2[N]>,d2[M],b1[M];d2[K],d3[K],#c3[KL],a2[L];#f2[K],d1[L],#f1[L],e1[K],a1[M],d2[M],e2[M],#f2[M];e2[L],d2[M],d2[M],d3[K],#c3[KL],a2[L];b2[K],b[M],#c1[M],d1[M],e1[M],#f1[M],g1[M],e1[L],a1[M],d2[M],e2[M],#f2[M];e2[L],d2[M],d2[M],d3[K],#c3[KL],a2[L];#f2[K],d1[L],#f1[L],e1[K],a1[M],d2[M],e2[M],#f2[M];e2[L],d2[M],d2[KM],b1[LM],a1[LM],g1[L];#f1[I];",
+                "A-1[K],(e.#c1)[K],G-1[K],(g.d1)[K];#F-1[K],(#f.#c1)[K],B-1[K],(#f.b)[K];E-1[L],B-1[L],e[L],B-1[L],A-1[J];d[L],a[L],d1[L],a[L],B-1[L],#f[L],b[L],#f[L];G-1[L],d[L],g[L],d[L],A-1[L],e[L],a[L],e[L];d[L],a[L],d1[L],a[L],B-1[L],#f[L],b[L],#f[L];G-1[L],d[L],g[L],d[L],A-1[L],e[L],a[L],e[L];d[L],a[L],d1[L],a[L],B-1[L],#f[L],b[L],#f[L];G-1[L],d[L],g[L],d[L],A-1[L],e[L],a[L],e[L];d[L],a[L],d1[K],G-1[LM],#F-1[LM],E-1[L];D-1[I];"
+            ],
+            "instruments":[
+                "piano",
+                "piano"
+            ],
+            "alternatives":[
+                "",
+                ""
+            ],
+            "id":3,
+            "bpm":95
+        }
+    ]
+}

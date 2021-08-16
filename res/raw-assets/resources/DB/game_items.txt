@@ -1,0 +1,56 @@
+id,item_id,name,key,pic,small_pic,buytype,buyprice,effect,desc
+,道具Id,道具名,,道具CDN大icon,道具CDN小Icon,购买道具类型,购买1个价格,道具效果,道具描述
+1,1-1-0,钻石,,/shop/recharge_result_diamonds,/shop/recharge_result_diamonds,,,,
+2,2-1-0,金币,,/shop/recharge_result_gold,/shop/recharge_result_gold,,,,
+3,3-1-0,体力,,/shop/recharge_result_hp,/shop/recharge_result_hp,,,,
+4,7-1-0,点券,,/shop/recharge_result_ticke,/shop/recharge_result_ticke,,,,
+5,5-1-0,系统皮肤,,,,,,,
+6,5-2-0,冰雪奇幻,ice,,/static_res/skin/skin_1,,,,
+7,5-3-0,樱花树下,sakura,,/static_res/skin/skin_2,,,,
+8,5-4-0,世界杯,worldcup,,/static_res/skin/skin_3,,,,
+9,5-4-1,世界杯(限时1天）,worldcup,,/static_res/skin/skin_3,,,,
+10,5-4-2,世界杯(限时2天）,worldcup,,/static_res/skin/skin_3,,,,
+11,5-4-3,世界杯(限时3天）,worldcup,,/static_res/skin/skin_3,,,,
+12,5-5-0,绿野仙踪,greenwild,,/static_res/skin/skin_4,,,,
+13,5-6-0,元气少女,girl,,/static_res/skin/skin_5,,,,
+14,5-6-1,元气少女(限时1天）,girl,,static_res/skin/skin_5,,,,
+15,5-6-2,元气少女(限时2天）,girl,,/static_res/skin/skin_5,,,,
+16,5-6-3,元气少女(限时3天）,girl,,/static_res/skin/skin_5,,,,
+17,5-7-0,星空环游,stars,,/static_res/skin/skin_6,,,,
+18,5-7-1,星空环游(限时1天）,stars,,/static_res/skin/skin_6,,,,
+19,5-7-2,星空环游(限时2天）,stars,,/static_res/skin/skin_6,,,,
+20,5-7-3,星空环游(限时3天）,stars,,/static_res/skin/skin_6,,,,
+21,6-1-0,冲刺,,dash,/static_res/property/dash_100,2-1-0,300,"{""speed"":8, ""permanentTime"":12, ""temporyTime"":5}",触发时机：游戏开始时;道具效果：自动冲刺12秒
+22,6-2-0,减速,,slow,/static_res/property/slow_100,1-1-0,5,"{""speed"":0.5, ""permanentTime"":15, ""temporyTime"":5}",触发时机：复活后选择使用;道具效果：15秒内钢琴块下落降速50%
+23,6-3-0,护盾,,shield,/static_res/property/shield_100,1-1-0,8,"{""permanentTime"":8, ""temporyTime"":5}",触发时机：操作失误时;道具效果：抵消失误并无敌8秒
+24,8-1-0,vip,,,,7-1-0,180,,
+25,5-8-0,糖果甜心,candy,skin_7,/static_res/skin/skin_7,,,,
+26,5-8-1,糖果甜心（限时1天）,candy,skin_7,/static_res/skin/skin_7,,,,
+27,5-8-2,糖果甜心（限时2天）,candy,skin_7,/static_res/skin/skin_7,,,,
+28,5-8-3,糖果甜心（限时3天）,candy,skin_7,/static_res/skin/skin_7,,,,
+29,6-4-0,回避,,propertyicon29,propertyicon29,1-1-0,3,"{""numberOfEffects"":1}",触发时机：对方施加道具攻击时;道具效果：免疫伤害1次
+30,6-5-0,转化,,propertyicon30,propertyicon30,1-1-0,3,"{""numberOfEffects"":3}",触发时机：游戏过程出现miss时;道具效果：抵消3次miss
+31,6-6-0,持久,,propertyicon31,propertyicon31,2-1-0,300,"{""duration"":5, ""numberOfEffects"":1}",触发时机：首次触发狂热状态时;道具效果：延长狂热时间
+32,6-7-0,迷雾,,propertyicon32,propertyicon32,1-1-0,5,"{""duration"":5 }",触发时机：点击有迷雾道具的钢琴块使用;道具效果：对手的屏幕出现迷雾，持续5秒
+33,6-8-0,控制,,propertyicon33,propertyicon33,2-1-0,300,"{""duration"":8 }",触发时机：点击有控制道具的钢琴块使用;道具效果：对手点击钢琴块无法增加狂热值，持续5秒
+34,6-9-0,障碍,,propertyicon34,propertyicon34,1-1-0,5,"{ ""duration"":5 , ""numberOfObstacles"": 10 }",触发时机：点击有障碍道具的钢琴块使用;道具效果：出现伪装成钢琴块的方块，点击会扣分
+35,5-9-0,雨后晴空,afterrain,,/static_res/skin/skin_8,,,,
+36,5-9-1,雨后晴空(限时1天）,afterrain,,/static_res/skin/skin_8,,,,
+37,5-9-2,雨后晴空(限时2天）,afterrain,,/static_res/skin/skin_8,,,,
+38,5-9-3,雨后晴空(限时3天）,afterrain,,/static_res/skin/skin_8,,,,
+39,9-2-99,冰雪奇幻碎片,piece_ice,,/static_res/skin_chip/piece_ice,,,,
+40,9-3-99,樱花树下碎片,piece_sakura,,/static_res/skin_chip/piece_sakura,,,,
+41,9-4-99,世界杯碎片,piece_worldcup,,/static_res/skin_chip/piece_world_cup,,,,
+42,9-5-99,绿野仙踪碎片,piece_greenwild,,/static_res/skin_chip/piece_green_wild,,,,
+43,9-6-99,元气少女碎片,piece_girl,,/static_res/skin_chip/piece_girl,,,,
+44,9-7-99,星空环游碎片,piece_star,,/static_res/skin_chip/piece_star,,,,
+45,9-8-99,糖果甜心碎片,piece_candy,,/static_res/skin_chip/piece_candy,,,,
+46,9-9-99,雨后晴空碎片,piece_afterrain,,/static_res/skin_chip/piece_after_rain,,,,
+47,5-10-0,家园守望,earth,,/static_res/skin/skin_9,,,,
+48,5-10-1,家园守望(限时1天）,earth,,/static_res/skin/skin_9,,,,
+49,5-10-2,家园守望(限时2天）,earth,,/static_res/skin/skin_9,,,,
+50,5-10-3,家园守望(限时3天）,earth,,/static_res/skin/skin_9,,,,
+51,9-10-99,家园守望碎片,piece_earth,,/static_res/skin_chip/piece_earth,,,,
+52,10-1-0,原版音色,piano,piano_default,,,,,
+53,10-2-0,电钢琴音色,piano2,piano_tone,,,,,
+54,10-3-0,唯美童话音色,piano3,piano_piano3,,,,,

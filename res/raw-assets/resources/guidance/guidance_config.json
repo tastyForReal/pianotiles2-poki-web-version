@@ -1,0 +1,309 @@
+{
+	"FirstGuide": [
+		{
+			"prefabName": "GameoverUpdate",
+			"items": [
+				{
+					"name": "ToHomePage",
+					"index": 0,
+					"position_1280": {
+						"y": 1136,
+						"x": 110
+					},
+					"position_1440": {
+						"y": 1296,
+						"x": 110
+					},
+					"position_1559": {
+						"y": 1412,
+						"x": 110
+					},
+					"isDown": true,
+					"isLeft": false,
+					"next": "",
+					"autoHide": false,
+					"isRichLabel": false,
+					"tipsPos": "right",
+					"text": "恭喜您完成一首歌曲的演奏！\r\n返回首页领取<color=#DC3DCF>新手奖励</color>吧",
+					"duration": 1
+				}
+			]
+		}
+	],
+	"NewPlayerTarget": [
+		{
+			"prefabName": "HomePagePreF",
+			"items": [
+				{
+					"name": "GuideToTarget",
+					"index": 0,
+					"position_1280": {
+						"y": 510,
+						"x": 646
+					},
+					"position_1440": {
+						"y": 550,
+						"x": 646
+					},
+					"position_1559": {
+						"y": 630,
+						"x": 646
+					},
+					"position2_1280": {
+						"y": 625,
+						"x": 646
+					},
+					"position2_1440": {
+						"y": 665,
+						"x": 646
+					},
+					"position2_1559": {
+						"y": 745,
+						"x": 646
+					},
+					"next": "",
+					"isDown": false,
+					"isLeft": true,
+					"autoHide": false,
+					"isRichLabel": false,
+					"text": "",
+					"tipsPos": "",
+					"duration": 1
+				},
+				{
+					"name": "GuideToPlay",
+					"index": 0,
+					"position_1280": {
+						"y": 690,
+						"x": 378
+					},
+					"position_1440": {
+						"y": 818,
+						"x": 378
+					},
+					"position_1559": {
+						"y": 898,
+						"x": 378
+					},
+					"next": "",
+					"isDown": false,
+					"isLeft": false,
+					"autoHide": false,
+					"isRichLabel": false,
+					"tipsPos": "down",
+					"text": "弹奏歌曲可获得金币和经验奖励",
+					"duration": 1
+				},
+				{
+					"name": "GuideToShare",
+					"index": 0,
+					"position_1280": {
+						"y": 140,
+						"x": 646
+					},
+					"position_1440": {
+						"y": 190,
+						"x": 646
+					},
+					"position_1559": {
+						"y": 260,
+						"x": 646
+					},
+					"position2_1280": {
+						"y": 255,
+						"x": 646
+					},
+					"position2_1440": {
+						"y": 305,
+						"x": 646
+					},
+					"position2_1559": {
+						"y": 375,
+						"x": 646
+					},
+					"isDown": false,
+					"isLeft": false,
+					"next": "",
+					"autoHide": false,
+					"isRichLabel": false,
+					"tipsPos": "left-down",
+					"text": "邀请好友玩游戏，钻石金币奖不停！",
+					"duration": 1
+				},
+				{
+					"name": "GuideToChallenge",
+					"index": 0,
+					"position_1280": {
+						"y": 966,
+						"x": 500
+					},
+					"position_1440": {
+						"y": 1094,
+						"x": 500
+					},
+					"position_1559": {
+						"y": 1174,
+						"x": 500
+					},
+					"next": "",
+					"isDown": false,
+					"isLeft": false,
+					"autoHide": false,
+					"isRichLabel": false,
+					"tipsPos": "top",
+					"text": "快来参加排位赛，和全国玩家实时对战哦！",
+					"duration": 1
+				},
+				{
+					"name": "GuideToHotMusic",
+					"index": 0,
+					"position_1280": {
+						"y": 966,
+						"x": 200
+					},
+					"position_1440": {
+						"y": 1094,
+						"x": 200
+					},
+					"position_1559": {
+						"y": 1174,
+						"x": 200
+					},
+					"next": "",
+					"isDown": false,
+					"isLeft": false,
+					"autoHide": false,
+					"tipsPos": "top",
+					"isRichLabel": true,
+					"text": "钻石解锁<color=#DC3DCF>热曲挑战\r\n页签</c>里的歌曲",
+					"duration": 1
+				}
+			]
+		},
+		{
+			"prefabName": "NewPlayerTargetPrefab",
+			"items": [
+				{
+					"name": "GuideTargetBtnPlay",
+					"index": 0,
+					"position_1280": {
+						"y": 121,
+						"x": 550
+					},
+					"position_1440": {
+						"y": 121,
+						"x": 550
+					},
+					"position_1559": {
+						"y": 121,
+						"x": 550
+					},
+					"next": "",
+					"isDown": false,
+					"isLeft": false,
+					"autoHide": false,
+					"tipsPos": "left-top",
+					"isRichLabel": false,
+					"text": "",
+					"duration": 1
+				},
+				{
+					"name": "GuideTargetBtnLevelThree",
+					"index": 0,
+					"position_1280": {
+						"y": 240,
+						"x": 550
+					},
+					"position_1440": {
+						"y": 240,
+						"x": 550
+					},
+					"position_1559": {
+						"y": 240,
+						"x": 550
+					},
+					"next": "",
+					"isDown": false,
+					"isLeft": false,
+					"autoHide": false,
+					"tipsPos": "left-top",
+					"isRichLabel": true,
+					"text": "",
+					"duration": 1
+				},
+				{
+					"name": "GuideToBtnChallenge",
+					"index": 0,
+					"position_1280": {
+						"y": 359,
+						"x": 550
+					},
+					"position_1440": {
+						"y": 359,
+						"x": 550
+					},
+					"position_1559": {
+						"y": 359,
+						"x": 550
+					},
+					"next": "",
+					"isDown": false,
+					"isLeft": false,
+					"autoHide": false,
+					"tipsPos": "left-top",
+					"isRichLabel": false,
+					"text": "",
+					"duration": 1
+				},
+				{
+					"name": "GuideToBtnShare",
+					"index": 0,
+					"position_1280": {
+						"y": 478,
+						"x": 550
+					},
+					"position_1440": {
+						"y": 478,
+						"x": 550
+					},
+					"position_1559": {
+						"y": 478,
+						"x": 550
+					},
+					"next": "",
+					"isDown": false,
+					"isLeft": false,
+					"autoHide": false,
+					"tipsPos": "left-top",
+					"isRichLabel": false,
+					"text": "",
+					"duration": 1
+				},
+				{
+					"name": "GuideHotMusicBtn",
+					"index": 0,
+					"position_1280": {
+						"y": 597,
+						"x": 550
+					},
+					"position_1440": {
+						"y": 597,
+						"x": 550
+					},
+					"position_1559": {
+						"y": 597,
+						"x": 550
+					},
+					"next": "",
+					"isDown": false,
+					"isLeft": false,
+					"autoHide": false,
+					"tipsPos": "",
+					"isRichLabel": false,
+					"text": "",
+					"duration": 1
+				}
+			]
+		}
+	]
+}

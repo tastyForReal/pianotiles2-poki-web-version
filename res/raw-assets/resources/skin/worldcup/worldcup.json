@@ -1,0 +1,2143 @@
+{
+    "atlas": [
+        {
+            "items": [
+                {
+                    "name": "bkgframe1",
+                    "rect": {
+                        "height": 1559,
+                        "width": 720,
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "name": "bkg",
+            "path": "bkg.png"
+        },
+        {
+            "items": [
+                {
+                    "name": "bkgframe2",
+                    "rect": {
+                        "height": 1559,
+                        "width": 720,
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "name": "bkg2",
+            "path": "bkg2.jpg"
+        },
+        {
+            "items": [
+                {
+                    "name": "bkgframe3",
+                    "rect": {
+                        "height": 1559,
+                        "width": 720,
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "name": "bkg3",
+            "path": "bkg3.jpg"
+        },
+        {
+            "items": [
+                {
+                    "name": "bkgframe4",
+                    "rect": {
+                        "height": 1559,
+                        "width": 720,
+                        "x": 0,
+                        "y": 0
+                    }
+                }
+            ],
+            "name": "bkg4",
+            "path": "bkg4.jpg"
+        },
+        {
+            "items": [
+                {
+                    "name": "button_start_pressed", 
+                    "rect": {
+                        "height": 99, 
+                        "width": 374, 
+                        "x": 625, 
+                        "y": 604
+                    }
+                }, 
+                {
+                    "name": "button_achievement_unpressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 727, 
+                        "y": 200
+                    }
+                }, 
+                {
+                    "name": "button_home_unpressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 3, 
+                        "y": 594
+                    }
+                }, 
+                {
+                    "name": "button_home_pressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 727, 
+                        "y": 397
+                    }
+                }, 
+                {
+                    "name": "home_star_unget", 
+                    "rect": {
+                        "height": 94, 
+                        "width": 79, 
+                        "x": 413, 
+                        "y": 904
+                    }
+                }, 
+                {
+                    "name": "bg_disc", 
+                    "rect": {
+                        "height": 499, 
+                        "width": 720, 
+                        "x": 3, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "button_music_pressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 3, 
+                        "y": 791
+                    }
+                }, 
+                {
+                    "name": "button_music_unpressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 247, 
+                        "y": 707
+                    }
+                }, 
+                {
+                    "name": "home_crown_unget", 
+                    "rect": {
+                        "height": 94, 
+                        "width": 79, 
+                        "x": 247, 
+                        "y": 904
+                    }
+                }, 
+                {
+                    "name": "button_achievement_pressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 727, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "rank_title_bg", 
+                    "rect": {
+                        "height": 78, 
+                        "width": 480, 
+                        "x": 3, 
+                        "y": 506
+                    }
+                }, 
+                {
+                    "name": "home_crown_get", 
+                    "rect": {
+                        "height": 94, 
+                        "width": 79, 
+                        "x": 625, 
+                        "y": 506
+                    }
+                }, 
+                {
+                    "name": "home_star_get", 
+                    "rect": {
+                        "height": 94, 
+                        "width": 79, 
+                        "x": 330, 
+                        "y": 904
+                    }
+                }, 
+                {
+                    "name": "button_start_normal", 
+                    "rect": {
+                        "height": 99, 
+                        "width": 374, 
+                        "x": 247, 
+                        "y": 588
+                    }
+                }
+            ], 
+            "name": "uielements", 
+            "path": "uielements.png"
+        },
+        {
+            "items": [
+                {
+                    "name": "tile_miss",
+                    "rect": {
+                        "height": 240,
+                        "width": 134,
+                        "x": 417,
+                        "y": 247
+                    }
+                },
+                {
+                    "name": "long_light",
+                    "rect": {
+                        "height": 217,
+                        "width": 134,
+                        "x": 555,
+                        "y": 247
+                    }
+                },
+                {
+                    "name": "finish_3",
+                    "rect": {
+                        "height": 240,
+                        "width": 134,
+                        "x": 417,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "finish_2",
+                    "rect": {
+                        "height": 240,
+                        "width": 134,
+                        "x": 279,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "finish_1",
+                    "rect": {
+                        "height": 240,
+                        "width": 134,
+                        "x": 141,
+                        "y": 331
+                    }
+                },
+                {
+                    "name": "long_finish",
+                    "rect": {
+                        "height": 474,
+                        "width": 134,
+                        "x": 3,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "long_tilelight",
+                    "rect": {
+                        "height": 240,
+                        "width": 134,
+                        "x": 279,
+                        "y": 247
+                    }
+                },
+                {
+                    "name": "finish_4",
+                    "rect": {
+                        "height": 240,
+                        "width": 134,
+                        "x": 555,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "long_dot",
+                    "rect": {
+                        "height": 30,
+                        "width": 30,
+                        "x": 141,
+                        "y": 636
+                    }
+                },
+                {
+                    "name": "start_label",
+                    "rect": {
+                        "height": 57,
+                        "width": 114,
+                        "x": 141,
+                        "y": 575
+                    }
+                },
+                {
+                    "name": "long_head",
+                    "rect": {
+                        "height": 324,
+                        "width": 134,
+                        "x": 141,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "tile_black",
+                    "rect": {
+                        "height": 240,
+                        "width": 134,
+                        "x": 279,
+                        "y": 491
+                    }
+                },
+                {
+                    "name": "tile_start",
+                    "rect": {
+                        "height": 240,
+                        "width": 134,
+                        "x": 417,
+                        "y": 491
+                    }
+                },
+                {
+                    "name": "black",
+                    "rect": {
+                        "height": 240,
+                        "width": 134,
+                        "x": 3,
+                        "y": 481
+                    }
+                }
+            ],
+            "name": "block",
+            "path": "block.png"
+        },
+        {
+            "items": [
+                {
+                    "name": "dianji_00003",
+                    "rect": {
+                        "height": 290,
+                        "width": 292,
+                        "x": 3,
+                        "y": 297
+                    }
+                },
+                {
+                    "name": "channgan_00004",
+                    "rect": {
+                        "height": 414,
+                        "width": 128,
+                        "x": 531,
+                        "y": 591
+                    }
+                },
+                {
+                    "name": "channgan_00005",
+                    "rect": {
+                        "height": 414,
+                        "width": 128,
+                        "x": 663,
+                        "y": 591
+                    }
+                },
+                {
+                    "name": "channgan_00000",
+                    "rect": {
+                        "height": 414,
+                        "width": 128,
+                        "x": 3,
+                        "y": 591
+                    }
+                },
+                {
+                    "name": "channgan_00001",
+                    "rect": {
+                        "height": 414,
+                        "width": 128,
+                        "x": 135,
+                        "y": 591
+                    }
+                },
+                {
+                    "name": "channgan_00002",
+                    "rect": {
+                        "height": 414,
+                        "width": 128,
+                        "x": 267,
+                        "y": 591
+                    }
+                },
+                {
+                    "name": "channgan_00003",
+                    "rect": {
+                        "height": 414,
+                        "width": 128,
+                        "x": 399,
+                        "y": 591
+                    }
+                },
+                {
+                    "name": "dianji_00004",
+                    "rect": {
+                        "height": 290,
+                        "width": 292,
+                        "x": 299,
+                        "y": 297
+                    }
+                },
+                {
+                    "name": "dianji_00005",
+                    "rect": {
+                        "height": 290,
+                        "width": 292,
+                        "x": 595,
+                        "y": 297
+                    }
+                },
+                {
+                    "name": "dianji_00001",
+                    "rect": {
+                        "height": 290,
+                        "width": 292,
+                        "x": 299,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "dianji_00000",
+                    "rect": {
+                        "height": 290,
+                        "width": 292,
+                        "x": 3,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "dianji_00002",
+                    "rect": {
+                        "height": 290,
+                        "width": 292,
+                        "x": 595,
+                        "y": 3
+                    }
+                }
+            ],
+            "name": "blockeffect",
+            "path": "blockeffect.png"
+        },
+        {
+            "items": [
+                {
+                    "name": "piaod_00132",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 833,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "piaod_00134",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 169,
+                        "y": 451
+                    }
+                },
+                {
+                    "name": "piaod_00129",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 335,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "piaod_00128",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 169,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "piaod_00124",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 3,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "piaod_00127",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 3,
+                        "y": 675
+                    }
+                },
+                {
+                    "name": "piaod_00126",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 3,
+                        "y": 451
+                    }
+                },
+                {
+                    "name": "piaod_00139",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 501,
+                        "y": 227
+                    }
+                },
+                {
+                    "name": "piaod_00143",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 501,
+                        "y": 675
+                    }
+                },
+                {
+                    "name": "piaod_00125",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 3,
+                        "y": 227
+                    }
+                },
+                {
+                    "name": "piaod_00137",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 335,
+                        "y": 451
+                    }
+                },
+                {
+                    "name": "piaod_00135",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 169,
+                        "y": 675
+                    }
+                },
+                {
+                    "name": "piaod_00142",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 501,
+                        "y": 451
+                    }
+                },
+                {
+                    "name": "piaod_00141",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 833,
+                        "y": 227
+                    }
+                },
+                {
+                    "name": "piaod_00140",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 667,
+                        "y": 227
+                    }
+                },
+                {
+                    "name": "piaod_00133",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 169,
+                        "y": 227
+                    }
+                },
+                {
+                    "name": "piaod_00130",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 501,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "piaod_00131",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 667,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "piaod_00136",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 335,
+                        "y": 227
+                    }
+                },
+                {
+                    "name": "piaod_00138",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 335,
+                        "y": 675
+                    }
+                },
+                {
+                    "name": "piaod_00146",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 667,
+                        "y": 675
+                    }
+                },
+                {
+                    "name": "piaod_00145",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 833,
+                        "y": 451
+                    }
+                },
+                {
+                    "name": "piaod_00144",
+                    "rect": {
+                        "height": 220,
+                        "width": 162,
+                        "x": 667,
+                        "y": 451
+                    }
+                }
+            ],
+            "name": "bkgeffect",
+            "path": "bkgeffect.png"
+        },
+        {
+            "items": [
+                {
+                    "name": "renying_00007",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 3,
+                        "y": 438
+                    }
+                },
+                {
+                    "name": "renying_00006",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 3,
+                        "y": 293
+                    }
+                },
+                {
+                    "name": "renying_00005",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 529,
+                        "y": 148
+                    }
+                },
+                {
+                    "name": "renying_00004",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 266,
+                        "y": 148
+                    }
+                },
+                {
+                    "name": "renying_00003",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 3,
+                        "y": 148
+                    }
+                },
+                {
+                    "name": "renying_00002",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 529,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "renying_00001",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 266,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "renying_00000",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 3,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "renying_00009",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 3,
+                        "y": 728
+                    }
+                },
+                {
+                    "name": "renying_00008",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 3,
+                        "y": 583
+                    }
+                },
+                {
+                    "name": "renying_00018",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 529,
+                        "y": 583
+                    }
+                },
+                {
+                    "name": "renying_00019",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 529,
+                        "y": 728
+                    }
+                },
+                {
+                    "name": "renying_00010",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 3,
+                        "y": 873
+                    }
+                },
+                {
+                    "name": "renying_00011",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 266,
+                        "y": 293
+                    }
+                },
+                {
+                    "name": "renying_00012",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 529,
+                        "y": 293
+                    }
+                },
+                {
+                    "name": "renying_00013",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 266,
+                        "y": 438
+                    }
+                },
+                {
+                    "name": "renying_00014",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 529,
+                        "y": 438
+                    }
+                },
+                {
+                    "name": "renying_00015",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 266,
+                        "y": 583
+                    }
+                },
+                {
+                    "name": "renying_00016",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 266,
+                        "y": 728
+                    }
+                },
+                {
+                    "name": "renying_00017",
+                    "rect": {
+                        "height": 141,
+                        "width": 259,
+                        "x": 266,
+                        "y": 873
+                    }
+                }
+            ],
+            "name": "bkgeffect2",
+            "path": "bkgeffect2.png"
+        },
+        {
+            "items": [
+                {
+                    "name": "yanh1_00005",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 3,
+                        "y": 185
+                    }
+                },
+                {
+                    "name": "yanh1_00006",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 206,
+                        "y": 185
+                    }
+                },
+                {
+                    "name": "yanh1_00007",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 409,
+                        "y": 185
+                    }
+                },
+                {
+                    "name": "yanh1_00000",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 3,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "yanh3_00003",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 371,
+                        "y": 731
+                    }
+                },
+                {
+                    "name": "yanh3_00000",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 815,
+                        "y": 549
+                    }
+                },
+                {
+                    "name": "yanh3_00001",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 3,
+                        "y": 731
+                    }
+                },
+                {
+                    "name": "yanh3_00011",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 3,
+                        "y": 1159
+                    }
+                },
+                {
+                    "name": "yanh2_00010",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 166,
+                        "y": 1818
+                    }
+                },
+                {
+                    "name": "yanh3_00008",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 371,
+                        "y": 945
+                    }
+                },
+                {
+                    "name": "yanh3_00009",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 555,
+                        "y": 945
+                    }
+                },
+                {
+                    "name": "yanh2_00006",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 492,
+                        "y": 1373
+                    }
+                },
+                {
+                    "name": "yanh2_00004",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 166,
+                        "y": 1373
+                    }
+                },
+                {
+                    "name": "yanh1_00004",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 815,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "yanh1_00012",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 409,
+                        "y": 367
+                    }
+                },
+                {
+                    "name": "yanh1_00002",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 409,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "yanh1_00010",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 3,
+                        "y": 367
+                    }
+                },
+                {
+                    "name": "yanh1_00018",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 612,
+                        "y": 549
+                    }
+                },
+                {
+                    "name": "yanh2_00009",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 166,
+                        "y": 1609
+                    }
+                },
+                {
+                    "name": "yanh2_00008",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 818,
+                        "y": 1400
+                    }
+                },
+                {
+                    "name": "yanh3_00007",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 187,
+                        "y": 945
+                    }
+                },
+                {
+                    "name": "yanh3_00004",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 555,
+                        "y": 731
+                    }
+                },
+                {
+                    "name": "yanh3_00005",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 739,
+                        "y": 763
+                    }
+                },
+                {
+                    "name": "yanh2_00002",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 3,
+                        "y": 1609
+                    }
+                },
+                {
+                    "name": "yanh2_00001",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 3,
+                        "y": 1400
+                    }
+                },
+                {
+                    "name": "yanh2_00000",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 739,
+                        "y": 1191
+                    }
+                },
+                {
+                    "name": "yanh2_00005",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 329,
+                        "y": 1373
+                    }
+                },
+                {
+                    "name": "yanh1_00016",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 206,
+                        "y": 549
+                    }
+                },
+                {
+                    "name": "yanh1_00015",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 3,
+                        "y": 549
+                    }
+                },
+                {
+                    "name": "yanh1_00014",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 815,
+                        "y": 367
+                    }
+                },
+                {
+                    "name": "yanh1_00013",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 612,
+                        "y": 367
+                    }
+                },
+                {
+                    "name": "yanh3_00014",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 555,
+                        "y": 1159
+                    }
+                },
+                {
+                    "name": "yanh3_00006",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 3,
+                        "y": 945
+                    }
+                },
+                {
+                    "name": "yanh2_00003",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 3,
+                        "y": 1818
+                    }
+                },
+                {
+                    "name": "yanh2_00007",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 655,
+                        "y": 1400
+                    }
+                },
+                {
+                    "name": "yanh1_00017",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 409,
+                        "y": 549
+                    }
+                },
+                {
+                    "name": "yanh1_00001",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 206,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "yanh1_00011",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 206,
+                        "y": 367
+                    }
+                },
+                {
+                    "name": "yanh1_00003",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 612,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "yanh1_00008",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 612,
+                        "y": 185
+                    }
+                },
+                {
+                    "name": "yanh1_00009",
+                    "rect": {
+                        "height": 178,
+                        "width": 199,
+                        "x": 815,
+                        "y": 185
+                    }
+                },
+                {
+                    "name": "yanh3_00002",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 187,
+                        "y": 731
+                    }
+                },
+                {
+                    "name": "yanh3_00010",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 739,
+                        "y": 977
+                    }
+                },
+                {
+                    "name": "yanh3_00013",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 371,
+                        "y": 1159
+                    }
+                },
+                {
+                    "name": "yanh3_00012",
+                    "rect": {
+                        "height": 210,
+                        "width": 180,
+                        "x": 187,
+                        "y": 1159
+                    }
+                },
+                {
+                    "name": "yanh2_00011",
+                    "rect": {
+                        "height": 205,
+                        "width": 159,
+                        "x": 329,
+                        "y": 1582
+                    }
+                }
+            ],
+            "name": "bkgeffect3",
+            "path": "bkgeffect3.png"
+        },
+        {
+            "items": [
+                {
+                    "name": "shang_00011",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 367,
+                        "y": 579
+                    }
+                },
+                {
+                    "name": "shang_00010",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 3,
+                        "y": 867
+                    }
+                },
+                {
+                    "name": "shang_00008",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 3,
+                        "y": 579
+                    }
+                },
+                {
+                    "name": "shang_00009",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 3,
+                        "y": 723
+                    }
+                },
+                {
+                    "name": "shang_00006",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 3,
+                        "y": 435
+                    }
+                },
+                {
+                    "name": "shang_00007",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 367,
+                        "y": 435
+                    }
+                },
+                {
+                    "name": "shang_00004",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 3,
+                        "y": 291
+                    }
+                },
+                {
+                    "name": "shang_00005",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 367,
+                        "y": 291
+                    }
+                },
+                {
+                    "name": "shang_00002",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 3,
+                        "y": 147
+                    }
+                },
+                {
+                    "name": "shang_00003",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 367,
+                        "y": 147
+                    }
+                },
+                {
+                    "name": "shang_00000",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 3,
+                        "y": 3
+                    }
+                },
+                {
+                    "name": "shang_00001",
+                    "rect": {
+                        "height": 140,
+                        "width": 360,
+                        "x": 367,
+                        "y": 3
+                    }
+                }
+            ],
+            "name": "bkgeffect4",
+            "path": "bkgeffect4.png"
+        }
+    ],
+    "backgroundEffects": {
+        "GameoverUpdate": [],
+        "game": [
+            {
+                "actions": [],
+                "node": {
+                    "type": "MUINode",
+                    "name": "HomeBackgroundEffectRoot",
+                    "rect": {
+                        "x": 0,
+                        "y": 0,
+                        "width": "scene.width",
+                        "height": "scene.height"
+                    },
+                    "children": []
+                }
+            },
+            {
+                "actions": [
+                    {
+                        "type": "MSequence",
+                        "params": [
+                            {
+                                "type": "MChildAction",
+                                "params": {
+                                    "child": "yanh1",
+                                    "action": {
+                                        "params": {
+                                            "duration": 1.5,
+                                            "frameCount": 19
+                                        },
+                                        "type": "MFrameSequence"
+                                    }
+                                }
+                            },
+                            {
+                                "type": "MDelay",
+                                "params": {
+                                    "duration": 2
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "MSequence",
+                        "params": [
+                            {
+                                "type": "MDelay",
+                                "params": {
+                                    "duration": 2
+                                }
+                            },
+                            {
+                                "type": "MChildAction",
+                                "params": {
+                                    "child": "yanh2",
+                                    "action": {
+                                        "params": {
+                                            "duration": 1,
+                                            "frameCount": 13
+                                        },
+                                        "type": "MFrameSequence"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "MSequence",
+                        "params": [
+                            {
+                                "type": "MDelay",
+                                "params": {
+                                    "duration": 2.5
+                                }
+                            },
+                            {
+                                "type": "MChildAction",
+                                "params": {
+                                    "child": "yanh3",
+                                    "action": {
+                                        "params": {
+                                            "duration": 1.2,
+                                            "frameCount": 15
+                                        },
+                                        "type": "MFrameSequence"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "MSequence",
+                        "params": [
+                            {
+                                "type": "MChildAction",
+                                "params": {
+                                    "child": "renying",
+                                    "action": {
+                                        "type": "MFadeTo",
+                                        "params": {
+                                            "opacity": 1,
+                                            "duration": 1
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "type": "MDelay",
+                                "params": {
+                                    "duration": 9999
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "MChildAction",
+                        "params": {
+                            "child": "renying",
+                            "action": {
+                                "params": {
+                                    "duration": 1.5,
+                                    "frameCount": 20
+                                },
+                                "type": "MFrameSequence"
+                            }
+                        }
+                    },
+                    {
+                        "type": "MChildAction",
+                        "params": {
+                            "child": "piaod",
+                            "action": {
+                                "params": {
+                                    "duration": 2,
+                                    "frameCount": 23
+                                },
+                                "type": "MFrameSequence"
+                            }
+                        }
+                    },
+                    {
+                        "type": "MChildAction",
+                        "params": {
+                            "child": "shang",
+                            "action": {
+                                "params": {
+                                    "duration": 2,
+                                    "frameCount": 12
+                                },
+                                "type": "MFrameSequence"
+                            }
+                        }
+                    }
+                ],
+                "node": {
+                    "type": "MUINode",
+                    "name": "HomeBackgroundEffectRoot",
+                    "rect": {
+                        "x": 0,
+                        "y": 0,
+                        "width": "scene.width",
+                        "height": "scene.height"
+                    },
+                    "children": [
+                        {
+                            "children": [],
+                            "frameSequence": [
+                                "yanh1_00000",
+                                "yanh1_00001",
+                                "yanh1_00002",
+                                "yanh1_00003",
+                                "yanh1_00004",
+                                "yanh1_00005",
+                                "yanh1_00006",
+                                "yanh1_00007",
+                                "yanh1_00008",
+                                "yanh1_00009",
+                                "yanh1_00010",
+                                "yanh1_00011",
+                                "yanh1_00012",
+                                "yanh1_00013",
+                                "yanh1_00014",
+                                "yanh1_00015",
+                                "yanh1_00016",
+                                "yanh1_00017",
+                                "yanh1_00018"
+                            ],
+                            "imageData": "bkgeffect3",
+                            "imageItem": "yanh1_00000",
+                            "name": "yanh1",
+                            "rect": {
+                                "height": 355,
+                                "width": 398,
+                                "x": 150,
+                                "y": "scene.height",
+                                "yAddtion": -500
+                            },
+                            "type": "MUISprite"
+                        },
+                        {
+                            "children": [],
+                            "frameSequence": [
+                                "yanh2_00000",
+                                "yanh2_00001",
+                                "yanh2_00002",
+                                "yanh2_00003",
+                                "yanh2_00004",
+                                "yanh2_00005",
+                                "yanh2_00006",
+                                "yanh2_00007",
+                                "yanh2_00008",
+                                "yanh2_00009",
+                                "yanh2_00010",
+                                "yanh2_00011",
+                                "yanh1_00018"
+                            ],
+                            "imageData": "bkgeffect3",
+                            "imageItem": "yanh2_00000",
+                            "name": "yanh2",
+                            "rect": {
+                                "height": 355,
+                                "width": 398,
+                                "x": 330,
+                                "y": "scene.height",
+                                "yAddtion": -400
+                            },
+                            "type": "MUISprite"
+                        },
+                        {
+                            "children": [],
+                            "frameSequence": [
+                                "yanh3_00000",
+                                "yanh3_00001",
+                                "yanh3_00002",
+                                "yanh3_00003",
+                                "yanh3_00004",
+                                "yanh3_00005",
+                                "yanh3_00006",
+                                "yanh3_00007",
+                                "yanh3_00008",
+                                "yanh3_00009",
+                                "yanh3_00010",
+                                "yanh3_00011",
+                                "yanh3_00012",
+                                "yanh3_00013",
+                                "yanh3_00014"
+                            ],
+                            "imageData": "bkgeffect3",
+                            "imageItem": "yanh3_00000",
+                            "name": "yanh3",
+                            "rect": {
+                                "height": 355,
+                                "width": 398,
+                                "x": 0,
+                                "y": "scene.height",
+                                "yAddtion": -400
+                            },
+                            "type": "MUISprite"
+                        },
+                        {
+                            "children": [],
+                            "frameSequence": [
+                                "renying_00000",
+                                "renying_00001",
+                                "renying_00002",
+                                "renying_00003",
+                                "renying_00004",
+                                "renying_00005",
+                                "renying_00006",
+                                "renying_00007",
+                                "renying_00008",
+                                "renying_00009",
+                                "renying_00010",
+                                "renying_00011",
+                                "renying_00012",
+                                "renying_00013",
+                                "renying_00014",
+                                "renying_00015",
+                                "renying_00016",
+                                "renying_00017",
+                                "renying_00018",
+                                "renying_00019"
+                            ],
+                            "imageData": "bkgeffect2",
+                            "imageItem": "renying_00000",
+                            "name": "renying",
+                            "opacity": 0,
+                            "rect": {
+                                "height": 392,
+                                "width": 720,
+                                "x": "0",
+                                "y": "0"
+                            },
+                            "type": "MUISprite"
+                        },
+                        {
+                            "children": [],
+                            "frameSequence": [
+                                "piaod_00124",
+                                "piaod_00125",
+                                "piaod_00126",
+                                "piaod_00127",
+                                "piaod_00128",
+                                "piaod_00129",
+                                "piaod_00130",
+                                "piaod_00131",
+                                "piaod_00132",
+                                "piaod_00133",
+                                "piaod_00134",
+                                "piaod_00135",
+                                "piaod_00136",
+                                "piaod_00137",
+                                "piaod_00138",
+                                "piaod_00139",
+                                "piaod_00140",
+                                "piaod_00141",
+                                "piaod_00142",
+                                "piaod_00143",
+                                "piaod_00144",
+                                "piaod_00145",
+                                "piaod_00146"
+                            ],
+                            "imageData": "bkgeffect",
+                            "imageItem": "piaod_00124",
+                            "name": "piaod",
+                            "rect": {
+                                "height": 978,
+                                "width": 720,
+                                "x": "0",
+                                "y": "scene.height",
+                                "yAddtion": -1200
+                            },
+                            "type": "MUISprite"
+                        },
+                        {
+                            "children": [],
+                            "frameSequence": [
+                                "shang_00000",
+                                "shang_00001",
+                                "shang_00002",
+                                "shang_00003",
+                                "shang_00004",
+                                "shang_00005",
+                                "shang_00006",
+                                "shang_00007",
+                                "shang_00008",
+                                "shang_00009",
+                                "shang_00010",
+                                "shang_00011"
+                            ],
+                            "imageData": "bkgeffect4",
+                            "imageItem": "shang_00000",
+                            "name": "shang",
+                            "rect": {
+                                "height": 280,
+                                "width": 720,
+                                "x": "0",
+                                "y": 350
+                            },
+                            "type": "MUISprite"
+                        }
+                    ]
+                }
+            }
+        ],
+        "home": [
+            {
+                "action": {},
+                "node": {
+                    "children": [
+                        {
+                            "imageData": "bkg",
+                            "imageItem": "bkgframe1",
+                            "name": "BackgroundImage",
+                            "rect": {
+                                "height": "adapter.height",
+                                "width": "adapter.width",
+                                "x": "adapter.x",
+                                "y": "adapter.y"
+                            },
+                            "type": "MUISprite"
+                        }
+                    ],
+                    "name": "HomeBackgroundEffectRoot",
+                    "rect": {
+                        "height": "scene.height",
+                        "width": "scene.width",
+                        "x": 0,
+                        "y": 0
+                    },
+                    "type": "MUINode"
+                }
+            }
+        ]
+    },
+    "backgroundImage": {
+        "node": {
+            "children": [
+                {
+                    "children": [],
+                    "imageData": "bkg2",
+                    "name": "BackroundReal",
+                    "rect": {
+                        "height": "adapter.height",
+                        "width": "adapter.width",
+                        "x": 0,
+                        "y": 0
+                    },
+                    "type": "MUISprite"
+                }
+            ],
+            "imageData": "bkg2",
+            "imageItem": "bkgframe2",
+            "name": "BackroundRoot",
+            "rect": {
+                "height": "adapter.height",
+                "width": "adapter.width",
+                "x": "adapter.x",
+                "y": "adapter.y"
+            },
+            "type": "MUISprite"
+        },
+        "switch": {
+            "actions": [
+                {
+                    "params": [
+                        {
+                            "params": {
+                                "imageData": "bkg2",
+                                "imageItem": "bkgframe2"
+                            },
+                            "type": "MSetProperty"
+                        },
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "imageData": "bkg3",
+                                        "imageItem": "bkgframe3",
+                                        "opacity": 0
+                                    },
+                                    "type": "MSetProperty"
+                                },
+                                "child": "BackroundReal"
+                            },
+                            "type": "MChildAction"
+                        },
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "duration": 1,
+                                        "opacity": 1
+                                    },
+                                    "type": "MFadeTo"
+                                },
+                                "child": "BackroundReal"
+                            },
+                            "type": "MChildAction"
+                        },
+                        {
+                            "params": {
+                                "imageItem": "null"
+                            },
+                            "type": "MSetProperty"
+                        }
+                    ],
+                    "type": "MSequence"
+                },
+                {
+                    "params": [
+                        {
+                            "params": {
+                                "imageData": "bkg3",
+                                "imageItem": "bkgframe3"
+                            },
+                            "type": "MSetProperty"
+                        },
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "imageData": "bkg4",
+                                        "imageItem": "bkgframe4",
+                                        "opacity": 0
+                                    },
+                                    "type": "MSetProperty"
+                                },
+                                "child": "BackroundReal"
+                            },
+                            "type": "MChildAction"
+                        },
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "duration": 1,
+                                        "opacity": 1
+                                    },
+                                    "type": "MFadeTo"
+                                },
+                                "child": "BackroundReal"
+                            },
+                            "type": "MChildAction"
+                        },
+                        {
+                            "params": {
+                                "imageItem": "null"
+                            },
+                            "type": "MSetProperty"
+                        }
+                    ],
+                    "type": "MSequence"
+                }
+            ]
+        }
+    },
+    "blockEffect": [
+        {
+            "action": {
+                "type": "MSpawn",
+                "params": [
+                    {
+                        "type": "MChildAction",
+                        "params": {
+                            "child": "BlockEffectChild",
+                            "action": {
+                                "params": {
+                                    "duration": 0.4,
+                                    "frameCount": 6
+                                },
+                                "type": "MFrameSequence"
+                            }
+                        }
+                    }
+                ]
+            },
+            "node": {
+                "children": [
+                    {
+                        "children": [],
+                        "frameSequence": [
+                            "dianji_00000",
+                            "dianji_00001",
+                            "dianji_00002",
+                            "dianji_00003",
+                            "dianji_00004",
+                            "dianji_00005"
+                        ],
+                        "imageData": "blockeffect",
+                        "imageItem": "dianji_00000",
+                        "name": "BlockEffectChild",
+                        "rect": {
+                            "height": 348,
+                            "width": 350,
+                            "x": "0",
+                            "y": "0"
+                        },
+                        "type": "MUISprite"
+                    }
+                ],
+                "name": "BlockEffectRoot",
+                "rect": {
+                    "height": 348,
+                    "width": 350,
+                    "x": "0",
+                    "y": "0"
+                },
+                "type": "MUINode"
+            }
+        }
+    ],
+    "blockImage": {
+        "imageData": "block"
+    },
+    "design": {
+        "height": 1559,
+        "vertical": {
+            "default": "center",
+            "s1": 87,
+            "s2": 35,
+            "s3": 0
+        },
+        "width": 720
+    },
+    "uiElementEffects": {
+        "GameEntranceScene": [
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "bottom_bg",
+                                "visible": false
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "imageData": "uielements",
+                                        "imageItem": [
+                                            "button_home_unpressed",
+                                            "button_home_pressed",
+                                            "button_home_pressed",
+                                            "button_home_unpressed"
+                                        ],
+                                        "name": "home_page_btn"
+                                    },
+                                    {
+                                        "name": "home_page_label",
+                                        "visible": false
+                                    }
+                                ],
+                                "name": "home_group"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "imageData": "uielements",
+                                        "imageItem": [
+                                            "button_music_unpressed",
+                                            "button_music_pressed",
+                                            "button_music_pressed",
+                                            "button_music_unpressed"
+                                        ],
+                                        "name": "music_library_btn"
+                                    },
+                                    {
+                                        "name": "music_library_page_label",
+                                        "visible": false
+                                    }
+                                ],
+                                "name": "music_lib_group"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "imageData": "uielements",
+                                        "imageItem": [
+                                            "button_achievement_unpressed",
+                                            "button_achievement_pressed",
+                                            "button_achievement_pressed",
+                                            "button_achievement_unpressed"
+                                        ],
+                                        "name": "ranking_btn"
+                                    },
+                                    {
+                                        "name": "ranking_page_label",
+                                        "visible": false
+                                    }
+                                ],
+                                "name": "ranking_group"
+                            }
+                        ],
+                        "name": "entra_bottom_layout"
+                    }
+                ],
+                "name": "parent"
+            },
+            {
+                "children": [
+                    {
+                        "imageData": "uielements",
+                        "imageItem": [
+                            "bg_disc"
+                        ],
+                        "name": "bg_piano",
+                        "children": [
+                            {
+                                "name": "disk_icon_2",
+                                "visible": false
+                            },
+                            {
+                                "name": "disk_icon_1",
+                                "visible": false
+                            }
+                        ]
+                    },
+                    {
+                        "color": "#ffffff",
+                        "name": "music_name"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "Label",
+                                "visible": false
+                            }
+                        ],
+                        "imageData": "uielements",
+                        "imageItem": [
+                            "button_start_normal",
+                            "button_start_pressed",
+                            "button_start_pressed"
+                        ],
+                        "name": "start_btn"
+                    },
+                    {
+                        "children": [
+                            {
+                                "imageData": "uielements",
+                                "imageItem": [
+                                    "home_star_unget",
+                                    "home_star_get"
+                                ],
+                                "name": "starFrames"
+                            },
+                            {
+                                "imageData": "uielements",
+                                "imageItem": [
+                                    "home_crown_unget",
+                                    "home_crown_get"
+                                ],
+                                "name": "crownFrames"
+                            }
+                        ],
+                        "name": "elementFrames"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "color": "#ffffff",
+                                                "name": "rank_title_label"
+                                            }
+                                        ],
+                                        "imageData": "uielements",
+                                        "imageItem": [
+                                            "rank_title_bg"
+                                        ],
+                                        "name": "rank_title_bg"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "color": "#ffffff",
+                                                "name": "rank_see_all_label"
+                                            }
+                                        ],
+                                        "name": "rank_see_all_group"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "color": "#ffffff",
+                                                "name": "invite_friend_label"
+                                            },
+                                            {
+                                                "color": "#ffffff",
+                                                "name": "pk_friend_label"
+                                            }
+                                        ],
+                                        "name": "invite_friend_layout"
+                                    }
+                                ],
+                                "name": "RnakGroupPrefb"
+                            }
+                        ],
+                        "name": "RankGroup"
+                    }
+                ],
+                "name": "ExtraMiddleMainPagePrefb"
+            }
+        ]
+    }
+}

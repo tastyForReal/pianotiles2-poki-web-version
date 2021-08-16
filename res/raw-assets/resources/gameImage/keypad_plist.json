@@ -1,0 +1,15 @@
+[
+{"rotated": false, "name": "d_white", "rect": {"x": 1, "y": 1,  "height": 63, "width": 63}},
+{"rotated": false, "name": "d_green", "rect": {"x": 1, "y": 65,  "height": 63, "width": 63}},
+{"rotated": false, "name": "d_red",   "rect": {"x": 1, "y": 129, "height": 63, "width": 63}},
+{"rotated": false, "name": "f_white", "rect": {"x": 65, "y": 1,  "height": 63, "width": 63}},
+{"rotated": false, "name": "f_green", "rect": {"x": 65, "y": 65, "height": 63, "width": 63}},
+{"rotated": false, "name": "f_red",   "rect": {"x": 65, "y": 129,"height": 63, "width": 63}},
+{"rotated": false, "name": "j_white", "rect": {"x": 129, "y": 1,  "height": 63, "width": 63}},
+{"rotated": false, "name": "j_green", "rect": {"x": 129, "y": 65, "height": 63, "width": 63}},
+{"rotated": false, "name": "j_red",   "rect": {"x": 129, "y": 129,"height": 63, "width": 63}},
+{"rotated": false, "name": "k_white", "rect": {"x": 193, "y": 1,  "height": 63, "width": 63}},
+{"rotated": false, "name": "k_green", "rect": {"x": 193, "y": 65, "height": 63, "width": 63}},
+{"rotated": false, "name": "k_red",   "rect": {"x": 193, "y": 129,"height": 63, "width": 63}},
+{"rotated": false, "name": "touch",   "rect": {"x": 1, "y": 193,"height": 83, "width": 83}}
+]

@@ -1,0 +1,56 @@
+id,item_id,name,key,pic,small_pic,buytype,buyprice,effect,desc
+,é“å…·Id,é“å…·å,,é“å…·CDNå¤§icon,é“å…·CDNå°Icon,è´­ä¹°é“å…·ç±»åž‹,è´­ä¹°1ä¸ªä»·æ ¼,é“å…·æ•ˆæžœ,é“å…·æè¿°
+1,1-1-0,Diamond,,/shop/recharge_result_diamonds,/shop/recharge_result_diamonds,,,,
+2,2-1-0,Coin,,/shop/recharge_result_gold,/shop/recharge_result_gold,,,,
+3,3-1-0,Vitality,,/shop/recharge_result_hp,/shop/recharge_result_hp,,,,
+4,7-1-0,Ticket,,/shop/recharge_result_ticke,/shop/recharge_result_ticke,,,,
+5,5-1-0,Default skin,,,,,,,
+6,5-2-0,Snow Skin,ice,,/static_res/skin/skin_1,,,,
+7,5-3-0,Romantic Cherry,sakura,,/static_res/skin/skin_2,,,,
+8,5-4-0,World Cup,worldcup,,/static_res/skin/skin_3,,,,
+9,5-4-1,World Cup(Limited timeï¼š1 day,worldcup,,/static_res/skin/skin_3,,,,
+10,5-4-2,World Cup(Limited timeï¼š2 day,worldcup,,/static_res/skin/skin_3,,,,
+11,5-4-3,World Cup(Limited timeï¼š3 day,worldcup,,/static_res/skin/skin_3,,,,
+12,5-5-0,Green Field,greenwild,,/static_res/skin/skin_4,,,,
+13,5-6-0,Vivacious Girl,girl,,/static_res/skin/skin_5,,,,
+14,5-6-1,Vivacious Girl(Limited timeï¼š1 dayï¼‰,girl,,static_res/skin/skin_5,,,,
+15,5-6-2,Vivacious Girl(Limited timeï¼š2 dayï¼‰,girl,,/static_res/skin/skin_5,,,,
+16,5-6-3,Vivacious Girl(Limited timeï¼š3 dayï¼‰,girl,,/static_res/skin/skin_5,,,,
+17,5-7-0,Space Journey,stars,,/static_res/skin/skin_6,,,,
+18,5-7-1,Space Journey(Limited timeï¼š1 dayï¼‰,stars,,/static_res/skin/skin_6,,,,
+19,5-7-2,Space Journey(Limited timeï¼š2 dayï¼‰,stars,,/static_res/skin/skin_6,,,,
+20,5-7-3,Space Journey(Limited timeï¼š3 dayï¼‰,stars,,/static_res/skin/skin_6,,,,
+21,6-1-0,Auto tap,,dash,/static_res/property/dash_100,2-1-0,300,"{""speed"":8, ""permanentTime"":12, ""temporyTime"":5}",Trigger timeï¼šAt the beginning of the game; Prop effectï¼šAuto tap 12s
+22,6-2-0,Speed â€‹â€‹reduction,,slow,/static_res/property/slow_100,1-1-0,5,"{""speed"":0.5, ""permanentTime"":15, ""temporyTime"":5}",Trigger timeï¼šChoose to use after reviving; Prop effectï¼šBlock falling speed -50% in 15s
+23,6-3-0,Shield,,shield,/static_res/property/shield_100,1-1-0,8,"{""permanentTime"":8, ""temporyTime"":5}",Trigger timeï¼šMISS the block; Prop effectï¼šOffset MISS and Invincible 8s
+24,8-1-0,vip,,,,7-1-0,180,,
+25,5-8-0,Sweet Candy,candy,skin_7,/static_res/skin/skin_7,,,,
+26,5-8-1,Sweet Candyï¼ˆLimited timeï¼š1 dayï¼‰,candy,skin_7,/static_res/skin/skin_7,,,,
+27,5-8-2,Sweet Candyï¼ˆLimited timeï¼š2 dayï¼‰,candy,skin_7,/static_res/skin/skin_7,,,,
+28,5-8-3,Sweet Candyï¼ˆLimited timeï¼š3 dayï¼‰,candy,skin_7,/static_res/skin/skin_7,,,,
+29,6-4-0,Dodge,,propertyicon29,propertyicon29,1-1-0,3,"{""numberOfEffects"":1}",Trigger timeï¼šThe opponent uses Props to attack; Prop effectï¼šThis Prop attack is invalid.
+30,6-5-0,Transform,,propertyicon30,propertyicon30,1-1-0,3,"{""numberOfEffects"":3}",Trigger timeï¼šMISS the block; Prop effectï¼šOffset MISS 3 times
+31,6-6-0,Enduring,,propertyicon31,propertyicon31,2-1-0,300,"{""duration"":5, ""numberOfEffects"":1}",Trigger timing: Fanatic state is triggered first time; Prop effect: Extend the frenzy time
+32,6-7-0,Foggy,,propertyicon32,propertyicon32,1-1-0,5,"{""duration"":5 }",Trigger timeï¼šTap the block with fog; Prop effectï¼šFog shades the screen of the opponent 5s
+33,6-8-0,Control,,propertyicon33,propertyicon33,2-1-0,300,"{""duration"":8 }",è§¦å‘æ—¶æœºï¼šç‚¹å‡»æœ‰æŽ§åˆ¶é“å…·çš„é’¢ç´å—ä½¿ç”¨;é“å…·æ•ˆæžœï¼šå¯¹æ‰‹ç‚¹å‡»é’¢ç´å—æ— æ³•å¢žåŠ ç‹‚çƒ­å€¼ï¼ŒæŒç»­5ç§’
+34,6-9-0,Barrier,,propertyicon34,propertyicon34,1-1-0,5,"{ ""duration"":5 , ""numberOfObstacles"": 10 }",Trigger timeï¼šTap the block with barrier; Prop effectï¼šGenerate barrier that are disguised as blocks,click these blocks will reduce score
+35,5-9-0,After Rain,afterrain,,/static_res/skin/skin_8,,,,
+36,5-9-1,After Rain(Limited timeï¼š1 dayï¼‰,afterrain,,/static_res/skin/skin_8,,,,
+37,5-9-2,After Rain(Limited timeï¼š2 dayï¼‰,afterrain,,/static_res/skin/skin_8,,,,
+38,5-9-3,After Rain(Limited timeï¼š3 dayï¼‰,afterrain,,/static_res/skin/skin_8,,,,
+39,9-2-99,Snow Skin Piece,piece_ice,,/static_res/skin_chip/piece_ice,,,,
+40,9-3-99,Romantic Cherry Piece,piece_sakura,,/static_res/skin_chip/piece_sakura,,,,
+41,9-4-99,World Cup Piece,piece_worldcup,,/static_res/skin_chip/piece_world_cup,,,,
+42,9-5-99,Green Field Piece,piece_greenwild,,/static_res/skin_chip/piece_green_wild,,,,
+43,9-6-99,Vivacious Girl Piece,piece_girl,,/static_res/skin_chip/piece_girl,,,,
+44,9-7-99,Space journey Piece,piece_star,,/static_res/skin_chip/piece_star,,,,
+45,9-8-99,Sweet Candy Piece,piece_candy,,/static_res/skin_chip/piece_candy,,,,
+46,9-9-99,After Rain Piece,piece_afterrain,,/static_res/skin_chip/piece_after_rain,,,,
+47,5-10-0,Earth,earth,,/static_res/skin/skin_9,,,,
+48,5-10-1,Earth(Limited timeï¼š1 dayï¼‰,earth,,/static_res/skin/skin_9,,,,
+49,5-10-2,Earth(Limited timeï¼š2 dayï¼‰,earth,,/static_res/skin/skin_9,,,,
+50,5-10-3,Earth(Limited timeï¼š3 dayï¼‰,earth,,/static_res/skin/skin_9,,,,
+51,9-10-99,Earth Piece,piece_earth,,/static_res/skin_chip/piece_earth,,,,
+52,10-1-0,Original timbre,piano,piano_default,,,,,
+53,10-2-0,Video piano timbre,piano2,piano_tone,,,,,
+54,10-3-0,Aesthetic Fairy Tale Timbre,piano3,piano_piano3,,,,,

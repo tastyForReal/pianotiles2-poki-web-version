@@ -1,0 +1,8 @@
+Id,holidayID,taskID,rewardID,total,showBtn,tryMusicId,qqShareImgUrl,taskKey,desc,step,reward,beginTime,endTime,refresh
+id,活动总ID表,任务ID,解锁物品,总共获得量,按钮是否显示,试玩歌曲的levelid,代码用,,,,,,
+1,1,1-1,10-2-0,20,1,9065,https://piano-weixin-game.cmcm.com/temp/share_for_charistmas.png,daily_login_game,累计登陆游戏%s天,1-2-4,1-4-8,1545667200000,1546271999000,0
+2,1,1-2,10-2-0,20,,,,play_rank_game,每日参加%s场排位赛,2,4,1545667200000,1546271999000,1
+3,1,1-3,10-2-0,20,,,,invite_new_player,邀请新玩家点入充能,1-2-3,10-6-6,1545667200000,1546271999000,0
+4,2,2-1,10-3-0,20,1,1,https://piano-weixin-game.cmcm.com/temp/share_for_yuandan_invite.png,daily_login_game,累计登陆游戏%s天,1-2-4,1-4-8,1546272000000,1546876740000,0
+5,2,2-2,10-3-0,20,,,,play_rank_game,每日参加%s场排位赛,2,4,1546272000000,1546876740000,1
+6,2,2-3,10-3-0,20,,,,invite_new_player,邀请新玩家点入充能,1-2-3,10-6-6,1546272000000,1546876740000,0

@@ -1,0 +1,490 @@
+{
+	"design":{"width":1522, "height":1559},
+	"atlas":[
+		{"name":"bkg", "path":"bkg.png", "items":[
+			{"name": "bkgframe3", "rect": {"y": 1, "x": 747, "height": 762, "width": 744}},
+			{"name": "bkgframe2", "rect": {"y": 765, "x": 1, "height": 762, "width": 744}},
+			{"name": "bkgframe1", "rect": {"y": 1, "x": 1, "height": 762, "width": 744}}
+		]},
+		{"name":"blockeffect", "path":"blockeffect.png", "items":[
+			{"name": "frame (4)", "rect": {"y": 531, "x": 489, "height": 528, "width": 486}},
+			{"name": "frame (5)", "rect": {"y": 1061, "x": 1, "height": 528, "width": 486}},
+			{"name": "frame (6)", "rect": {"y": 1061, "x": 489, "height": 528, "width": 486}},
+			{"name": "frame (1)", "rect": {"y": 1, "x": 1, "height": 528, "width": 486}},
+			{"name": "frame (3)", "rect": {"y": 531, "x": 1, "height": 528, "width": 486}},
+			{"name": "frame (2)", "rect": {"y": 1, "x": 489, "height": 528, "width": 486}}
+		]},
+		{"name":"bkgeffect", "path":"bkgeffect.png", "items":[
+			{"name": "dot1", "rect": {"y": 337, "x": 187, "height": 27, "width": 27}},
+			{"name": "dot2", "rect": {"y": 281, "x": 187, "height": 54, "width": 54}},
+			{"name": "dot3", "rect": {"y": 281, "x": 243, "height": 38, "width": 38}},
+			{"name": "dot4", "rect": {"y": 337, "x": 216, "height": 25, "width": 25}},
+			{"name": "dot5", "rect": {"y": 321, "x": 243, "height": 32, "width": 32}},
+			{"name": "star4", "rect": {"y": 421, "x": 187, "height": 138, "width": 139}},
+			{"name": "star5", "rect": {"y": 1, "x": 1, "height": 281, "width": 278}},
+			{"name": "star2", "rect": {"y": 1, "x": 284, "height": 216, "width": 216}},
+			{"name": "star3", "rect": {"y": 281, "x": 1, "height": 184, "width": 184}},
+			{"name": "star1", "rect": {"y": 219, "x": 284, "height": 202, "width": 200}}
+		]},
+		{"name":"bkgeffectcloud", "path":"cloud.png", "items":[
+			{"name": "cloud", "rect": {"y": 0, "x": 0, "height": 762, "width": 744}}
+		]},
+		{"name":"bkgeffectcloud2", "path":"cloud2.png", "items":[
+			{"name": "cloud2", "rect": {"y": 0, "x": 0, "height": 762, "width": 744}}
+		]},
+		{"name":"block", "path":"block.png", "items":[
+			{"name": "tile_miss", "rect": {"y": 244, "x": 555, "height": 238, "width": 132}},
+			{"name": "long_light", "rect": {"y": 491, "x": 279, "height": 217, "width": 134}},
+			{"name": "finish_3", "rect": {"y": 247, "x": 279, "height": 240, "width": 134}},
+			{"name": "finish_2", "rect": {"y": 3, "x": 279, "height": 240, "width": 134}},
+			{"name": "finish_1", "rect": {"y": 331, "x": 141, "height": 240, "width": 134}},
+			{"name": "long_finish", "rect": {"y": 3, "x": 3, "height": 474, "width": 134}},
+			{"name": "long_tilelight", "rect": {"y": 247, "x": 417, "height": 240, "width": 134}},
+			{"name": "finish_4", "rect": {"y": 3, "x": 417, "height": 240, "width": 134}},
+			{"name": "long_dot", "rect": {"y": 3, "x": 693, "height": 30, "width": 30}},
+			{"name": "start_label", "rect": {"y": 575, "x": 141, "height": 57, "width": 114}},
+			{"name": "long_head", "rect": {"y": 3, "x": 141, "height": 324, "width": 134}},
+			{"name": "tile_black", "rect": {"y": 3, "x": 555, "height": 237, "width": 134}},
+			{"name": "tile_start", "rect": {"y": 486, "x": 555, "height": 238, "width": 132}},
+			{"name": "black", "rect": {"y": 481, "x": 3, "height": 240, "width": 134}}
+		]},
+		{"name":"uiElements", "path":"uiElements.png", "items":[
+			{"name": "button_start_pressed", "rect": {"y": 103, "x": 557, "height": 96, "width": 374}},
+			{"name": "button_achievement_unpressed", "rect": {"y": 399, "x": 557, "height": 192, "width": 240}},
+			{"name": "button_home_unpressed", "rect": {"y": 639, "x": 247, "height": 192, "width": 240}},
+			{"name": "button_home_pressed", "rect": {"y": 639, "x": 3, "height": 192, "width": 240}},
+			{"name": "home_star_unget", "rect": {"y": 203, "x": 801, "height": 94, "width": 79}},
+			{"name": "bg_disc", "rect": {"y": 3, "x": 3, "height": 550, "width": 550}},
+			{"name": "button_music_pressed", "rect": {"y": 595, "x": 491, "height": 192, "width": 240}},
+			{"name": "button_music_unpressed", "rect": {"y": 791, "x": 491, "height": 192, "width": 240}},
+			{"name": "home_crown_unget", "rect": {"y": 101, "x": 935, "height": 94, "width": 79}},
+			{"name": "button_achievement_pressed", "rect": {"y": 203, "x": 557, "height": 192, "width": 240}},
+			{"name": "rank_title_bg", "rect": {"y": 557, "x": 3, "height": 78, "width": 480}},
+			{"name": "home_crown_get", "rect": {"y": 3, "x": 935, "height": 94, "width": 79}},
+			{"name": "home_star_get", "rect": {"y": 199, "x": 935, "height": 94, "width": 79}},
+			{"name": "button_start_normal", "rect": {"y": 3, "x": 557, "height": 96, "width": 374}}
+		]}
+	],
+	
+	"uiElementEffects":{
+		"GameEntranceScene":[
+			{"name":"parent", "children":[
+				
+				{"name":"entra_bottom_layout", "children":[
+					
+					{"name":"bottom_bg", "visible":false},
+					{"name":"home_group", "children":[
+						{"name":"home_page_btn", "imageData":"uiElements", "imageItem":["button_home_unpressed", "button_home_pressed", "button_home_pressed", "button_home_unpressed"]},
+						{"name":"home_page_label", "visible":false}
+					]},
+					{"name":"music_lib_group", "children":[
+						{"name":"music_library_btn", "imageData":"uiElements", "imageItem":["button_music_unpressed", "button_music_pressed", "button_music_pressed", "button_music_unpressed"]},
+						{"name":"music_library_page_label", "visible":false}
+					]},
+					{"name":"ranking_group", "children":[
+						{"name":"ranking_btn", "imageData":"uiElements", "imageItem":["button_achievement_unpressed", "button_achievement_pressed", "button_achievement_pressed", "button_achievement_unpressed"]},
+						{"name":"ranking_page_label", "visible":false}
+					]}
+				]}
+			]},
+			
+			{"name":"ExtraMiddleMainPagePrefb", "children":[
+					{"name":"bg_piano", "imageData":"uiElements", "imageItem":["bg_disc"], "children":[
+						{"name":"disk_icon_2", "visible":false},
+						{"name":"disk_icon_1", "visible":false}
+					]},
+					{"name":"music_name", "color":"#ffffff"},
+					{"name":"start_btn", "imageData":"uiElements", "imageItem":["button_start_normal", "button_start_pressed", "button_start_pressed"], "children":[
+						{"name":"Label", "visible":false}
+					]},
+					{"name":"elementFrames", "children":[
+						{"name":"starFrames", "imageData":"uiElements", "imageItem":["home_star_unget", "home_star_get"]},
+						{"name":"crownFrames", "imageData":"uiElements", "imageItem":["home_crown_unget", "home_crown_get"]}
+					]},
+					{"name":"RankGroup", "children":[
+						{"name":"RnakGroupPrefb", "children":[
+							{"name":"rank_title_bg", "imageData":"uiElements", "imageItem":["rank_title_bg"], "children":[
+								{"name":"rank_title_label", "color":"#ffffff"}
+							]},
+							{"name":"rank_see_all_group", "children":[
+								{"name":"rank_see_all_label", "color":"#ffffff"}
+							]},
+							{"name":"invite_friend_layout", "children":[
+								{"name":"invite_friend_label", "color":"#ffffff"},
+								{"name":"pk_friend_label", "color":"#ffffff"}
+							]}
+						]}
+					]}
+			]}
+		]
+	},
+
+	"blockImage":{
+		"imageData":"block"
+	},
+
+	"blockEffect": [
+		{
+			"node":{
+				"type":"MUISprite", 
+				"name":"BlockEffectRoot", 
+				"rect":{"x":0, "y":0, "width":360, "height":390}, 
+				"imageData":"blockeffect",
+				"imageItem":"frame (1)", 
+				"frameSequence":["frame (2)", "frame (3)", "frame (4)", "frame (5)", "frame (6)"], 
+				"children":[]
+			},
+			"action":{
+				"type":"MFrameSequence", 
+				"params":{"frameCount":5, "duration":0.35}
+			}
+		}
+	],
+	
+	"backgroundImage": {
+		"node":{
+			"type":"MUISprite", 
+			"name":"BackroundRoot", 
+			"imageData":"bkg",
+			"rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"},
+			"children":[
+				{
+					"type":"MUISprite", 
+					"name":"BackroundReal",
+					"imageData":"bkg",
+					"imageItem":"bkgframe1",
+					"rect":{"x":0, "y":0, "width":"adapter.width", "height":"adapter.height"},
+					"children":[]
+				}
+			]
+		},
+
+		"switch":{
+			"actions":[
+				{
+					"type":"MSequence",
+					"params":[
+						{"type":"MPropValue", "params":{"prop":"imageItem", "value":"bkgframe1", "imageData":"bkg"}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MPropValue", "params":{"prop":"imageItem", "value":"bkgframe2", "imageData":"bkg"}}}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MPropValue", "params":{"prop":"opacity", "value":0}}}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MFadeTo", "params":{"opacity":1, "duration":1}}}},
+						{"type":"MPropValue", "params":{"prop":"imageItem", "value":"null"}}
+					]
+				},
+				{
+					"type":"MSequence",
+					"params":[
+						{"type":"MPropValue", "params":{"prop":"imageItem", "value":"bkgframe2", "imageData":"bkg"}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MPropValue", "params":{"prop":"imageItem", "value":"bkgframe3", "imageData":"bkg"}}}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MPropValue", "params":{"prop":"opacity", "value":0}}}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MFadeTo", "params":{"opacity":1, "duration":1}}}},
+						{"type":"MPropValue", "params":{"prop":"imageItem", "value":"null"}}
+					]
+				}
+			]
+		},
+
+		"loop":{
+			"actions":[
+			]
+		}
+	},
+
+	"backgroundEffects":{
+		"game":[
+			{
+				"node":{
+					"type":"MUINode",
+					"name":"HomeBackgroundEffectRoot", 
+					"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"},
+					"children":[
+						{"type":"MUISprite", "name":"BackgroundCloud1", "imageData":"bkgeffectcloud", "imageItem":"cloud", "rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"}},
+						{"type":"MUISprite", "name":"BackgroundCloud2", "imageData":"bkgeffectcloud2", "imageItem":"cloud2", "rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"}},
+						
+						{"type":"MUISprite", "name":"star1", "rect":{"x":0, "y":500, "width":200, "height":202}, "rect_max":{"x":500, "y":1000, "width":400, "height":400}, "imageData":"bkgeffect", "imageItem":"star5"},
+						{"type":"MUISprite", "name":"star2", "rect":{"x":0, "y":500, "width":216, "height":216}, "rect_max":{"x":500, "y":1000, "width":400, "height":400}, "imageData":"bkgeffect", "imageItem":"star5"},
+						{"type":"MUISprite", "name":"star3", "rect":{"x":0, "y":500, "width":184, "height":184}, "rect_max":{"x":500, "y":1000, "width":400, "height":400}, "imageData":"bkgeffect", "imageItem":"star5"},
+						{"type":"MUISprite", "name":"star4", "rect":{"x":0, "y":500, "width":138, "height":138}, "rect_max":{"x":500, "y":1000, "width":400, "height":400}, "imageData":"bkgeffect", "imageItem":"star5"},
+						{"type":"MUISprite", "name":"star5", "rect":{"x":0, "y":500, "width":278, "height":278}, "rect_max":{"x":500, "y":1000, "width":400, "height":400}, "imageData":"bkgeffect", "imageItem":"star5"},
+
+						{"type":"MUISprite", "name":"dot1", "rect":{"x":0, "y":100, "width":27, "height":27}, "rect_max":{"x":500, "y":1000, "width":27, "height":27}, "imageData":"bkgeffect", "imageItem":"dot1"},
+						{"type":"MUISprite", "name":"dot2", "rect":{"x":0, "y":100, "width":54, "height":54}, "rect_max":{"x":500, "y":1000, "width":54, "height":54}, "imageData":"bkgeffect", "imageItem":"dot2"},
+						{"type":"MUISprite", "name":"dot3", "rect":{"x":0, "y":100, "width":38, "height":38}, "rect_max":{"x":500, "y":1000, "width":38, "height":38}, "imageData":"bkgeffect", "imageItem":"dot3"},
+						{"type":"MUISprite", "name":"dot4", "rect":{"x":0, "y":100, "width":25, "height":25}, "rect_max":{"x":500, "y":1000, "width":25, "height":25}, "imageData":"bkgeffect", "imageItem":"dot4"},
+						{"type":"MUISprite", "name":"dot5", "rect":{"x":0, "y":100, "width":32, "height":32}, "rect_max":{"x":500, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"dot5"}
+					]
+				},
+				
+				"action":{
+					"type":"MSpawn",
+					"params":[
+						{"type":"MAdvanceAnimation", "params":{"animation":"backgroundEffect"}},
+						
+				
+						{"type":"MChildAction", "params":{
+							"child":"BackgroundCloud1", "action":{
+								"type":"MCircleMoveBy",
+								"params":{"centerX":-6, "centerY":-6, "angle":360, "duration":3.5}
+							}
+						}},
+						
+						{"type":"MChildAction", "params":{
+							"child":"BackgroundCloud2", "action":{
+								"type":"MCircleMoveBy",
+								"params":{"centerX":-10, "centerY":-10, "angle":360, "duration":3.5}
+							}
+						}},
+						
+						{"type":"MChildAction", "params":{
+							"child":"dot1", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":0, "width":720, "height":1200}, "scaleMin":1, "scaleMax":1, "duration":3.5}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"dot2", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":0, "width":720, "height":1200}, "scaleMin":1, "scaleMax":1, "duration":3.5}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"dot3", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":0, "width":720, "height":1200}, "scaleMin":1, "scaleMax":1, "duration":3.5}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"dot4", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":0, "width":720, "height":1200}, "scaleMin":1, "scaleMax":1, "duration":3.5}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"dot5", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":0, "width":720, "height":1200}, "scaleMin":1, "scaleMax":1, "duration":3.5}
+							}
+						}}
+					]
+				}
+			}
+		],
+		
+		"home":[
+			{
+				"node":{
+					"type":"MUINode",
+					"name":"HomeBackgroundEffectRoot", 
+					"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"},
+					"children":[
+						{"type":"MUISprite", "name":"BackgroundImage", "imageData":"bkg", "imageItem":"bkgframe1", "rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"}},
+						{"type":"MUISprite", "name":"BackgroundCloud1", "imageData":"bkgeffectcloud", "imageItem":"cloud", "rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"}},
+						{"type":"MUISprite", "name":"BackgroundCloud2", "imageData":"bkgeffectcloud2", "imageItem":"cloud2", "rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"}},
+						
+						{"type":"MUISprite", "name":"star1", "rect":{"x":0, "y":500, "width":200, "height":202}, "rect_max":{"x":500, "y":1000, "width":400, "height":400}, "imageData":"bkgeffect", "imageItem":"star5"},
+						{"type":"MUISprite", "name":"star2", "rect":{"x":0, "y":500, "width":216, "height":216}, "rect_max":{"x":500, "y":1000, "width":400, "height":400}, "imageData":"bkgeffect", "imageItem":"star5"},
+						{"type":"MUISprite", "name":"star3", "rect":{"x":0, "y":500, "width":184, "height":184}, "rect_max":{"x":500, "y":1000, "width":400, "height":400}, "imageData":"bkgeffect", "imageItem":"star5"},
+						{"type":"MUISprite", "name":"star4", "rect":{"x":0, "y":500, "width":138, "height":138}, "rect_max":{"x":500, "y":1000, "width":400, "height":400}, "imageData":"bkgeffect", "imageItem":"star5"},
+						{"type":"MUISprite", "name":"star5", "rect":{"x":0, "y":500, "width":278, "height":278}, "rect_max":{"x":500, "y":1000, "width":400, "height":400}, "imageData":"bkgeffect", "imageItem":"star5"},
+
+						{"type":"MUISprite", "name":"dot1", "rect":{"x":0, "y":100, "width":27, "height":27}, "rect_max":{"x":500, "y":1000, "width":27, "height":27}, "imageData":"bkgeffect", "imageItem":"dot1"},
+						{"type":"MUISprite", "name":"dot2", "rect":{"x":0, "y":100, "width":54, "height":54}, "rect_max":{"x":500, "y":1000, "width":54, "height":54}, "imageData":"bkgeffect", "imageItem":"dot2"},
+						{"type":"MUISprite", "name":"dot3", "rect":{"x":0, "y":100, "width":38, "height":38}, "rect_max":{"x":500, "y":1000, "width":38, "height":38}, "imageData":"bkgeffect", "imageItem":"dot3"},
+						{"type":"MUISprite", "name":"dot4", "rect":{"x":0, "y":100, "width":25, "height":25}, "rect_max":{"x":500, "y":1000, "width":25, "height":25}, "imageData":"bkgeffect", "imageItem":"dot4"},
+						{"type":"MUISprite", "name":"dot5", "rect":{"x":0, "y":100, "width":32, "height":32}, "rect_max":{"x":500, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"dot5"}
+					]
+				},
+				
+				"action":{
+					"type":"MSpawn",
+					"params":[
+						{"type":"MAdvanceAnimation", "params":{"animation":"backgroundEffect"}},
+						
+				
+						{"type":"MChildAction", "params":{
+							"child":"BackgroundCloud1", "action":{
+								"type":"MCircleMoveBy",
+								"params":{"centerX":-6, "centerY":-6, "angle":360, "duration":3.5}
+							}
+						}},
+						
+						{"type":"MChildAction", "params":{
+							"child":"BackgroundCloud2", "action":{
+								"type":"MCircleMoveBy",
+								"params":{"centerX":-10, "centerY":-10, "angle":360, "duration":3.5}
+							}
+						}},
+						
+						{"type":"MChildAction", "params":{
+							"child":"dot1", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":0, "width":720, "height":1200}, "scaleMin":1, "scaleMax":1, "duration":3.5}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"dot2", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":0, "width":720, "height":1200}, "scaleMin":1, "scaleMax":1, "duration":3.5}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"dot3", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":0, "width":720, "height":1200}, "scaleMin":1, "scaleMax":1, "duration":3.5}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"dot4", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":0, "width":720, "height":1200}, "scaleMin":1, "scaleMax":1, "duration":3.5}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"dot5", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":0, "width":720, "height":1200}, "scaleMin":1, "scaleMax":1, "duration":3.5}
+							}
+						}}
+					]
+				}
+			}
+		]
+	},
+	
+	
+	"animationWorks":
+[
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "backgroundEffect",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "star5": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "star3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": 255
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": 255
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "star2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.48333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "star1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 1.4833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 3.5166666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "star4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
+]
+
+}

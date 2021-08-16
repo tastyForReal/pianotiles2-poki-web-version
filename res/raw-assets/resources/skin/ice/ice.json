@@ -1,0 +1,299 @@
+{
+	"design":{"width":720, "height":1559, "vertical":{"s1":87, "s2":35, "s3":0, "default":"center"}},
+	"atlas":[
+		{"name":"bkg", "path":"bkg.png", "items":[
+			{"name":"bkgframe1", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkg2", "path":"bkg2.png", "items":[
+			{"name":"bkgframe2", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkg3", "path":"bkg3.png", "items":[
+			{"name":"bkgframe3", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkg4", "path":"bkg4.png", "items":[
+			{"name":"bkgframe4", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkgeffect", "path":"bkgeffect.png", "items":[
+			{"name": "xh_00012", "rect": {"y": 3, "x": 883, "height": 384, "width": 216}},
+			{"name": "xh_00002", "rect": {"y": 779, "x": 3, "height": 384, "width": 216}},
+			{"name": "xh_00003", "rect": {"y": 1167, "x": 3, "height": 384, "width": 216}},
+			{"name": "xh_00000", "rect": {"y": 3, "x": 3, "height": 384, "width": 216}},
+			{"name": "xh_00027", "rect": {"y": 391, "x": 1323, "height": 384, "width": 216}},
+			{"name": "xh_00033", "rect": {"y": 779, "x": 1103, "height": 384, "width": 216}},
+			{"name": "xh_00031", "rect": {"y": 1167, "x": 883, "height": 384, "width": 216}},
+			{"name": "xh_00009", "rect": {"y": 1555, "x": 223, "height": 384, "width": 216}},
+			{"name": "xh_00028", "rect": {"y": 391, "x": 1543, "height": 384, "width": 216}},
+			{"name": "xh_00011", "rect": {"y": 3, "x": 663, "height": 384, "width": 216}},
+			{"name": "xh_00010", "rect": {"y": 3, "x": 443, "height": 384, "width": 216}},
+			{"name": "xh_00013", "rect": {"y": 3, "x": 1103, "height": 384, "width": 216}},
+			{"name": "xh_00022", "rect": {"y": 779, "x": 663, "height": 384, "width": 216}},
+			{"name": "xh_00001", "rect": {"y": 391, "x": 3, "height": 384, "width": 216}},
+			{"name": "xh_00019", "rect": {"y": 1167, "x": 443, "height": 384, "width": 216}},
+			{"name": "xh_00018", "rect": {"y": 779, "x": 443, "height": 384, "width": 216}},
+			{"name": "xh_00035", "rect": {"y": 1555, "x": 1103, "height": 384, "width": 216}},
+			{"name": "xh_00023", "rect": {"y": 1167, "x": 663, "height": 384, "width": 216}},
+			{"name": "xh_00032", "rect": {"y": 1555, "x": 883, "height": 384, "width": 216}},
+			{"name": "xh_00038", "rect": {"y": 779, "x": 1763, "height": 384, "width": 216}},
+			{"name": "xh_00037", "rect": {"y": 779, "x": 1543, "height": 384, "width": 216}},
+			{"name": "xh_00005", "rect": {"y": 3, "x": 223, "height": 384, "width": 216}},
+			{"name": "xh_00015", "rect": {"y": 3, "x": 1543, "height": 384, "width": 216}},
+			{"name": "xh_00014", "rect": {"y": 3, "x": 1323, "height": 384, "width": 216}},
+			{"name": "xh_00017", "rect": {"y": 391, "x": 443, "height": 384, "width": 216}},
+			{"name": "xh_00036", "rect": {"y": 779, "x": 1323, "height": 384, "width": 216}},
+			{"name": "xh_00034", "rect": {"y": 1167, "x": 1103, "height": 384, "width": 216}},
+			{"name": "xh_00020", "rect": {"y": 1555, "x": 443, "height": 384, "width": 216}},
+			{"name": "xh_00008", "rect": {"y": 1167, "x": 223, "height": 384, "width": 216}},
+			{"name": "xh_00030", "rect": {"y": 779, "x": 883, "height": 384, "width": 216}},
+			{"name": "xh_00006", "rect": {"y": 391, "x": 223, "height": 384, "width": 216}},
+			{"name": "xh_00007", "rect": {"y": 779, "x": 223, "height": 384, "width": 216}},
+			{"name": "xh_00004", "rect": {"y": 1555, "x": 3, "height": 384, "width": 216}},
+			{"name": "xh_00016", "rect": {"y": 3, "x": 1763, "height": 384, "width": 216}},
+			{"name": "xh_00024", "rect": {"y": 1555, "x": 663, "height": 384, "width": 216}},
+			{"name": "xh_00025", "rect": {"y": 391, "x": 883, "height": 384, "width": 216}},
+			{"name": "xh_00026", "rect": {"y": 391, "x": 1103, "height": 384, "width": 216}},
+			{"name": "xh_00021", "rect": {"y": 391, "x": 663, "height": 384, "width": 216}},
+			{"name": "xh_00029", "rect": {"y": 391, "x": 1763, "height": 384, "width": 216}}
+		]},
+		{"name":"blockeffect", "path":"blockeffect.png", "items":[
+			{"name": "dianjxg_00024", "rect": {"y": 777, "x": 745, "height": 192, "width": 184}},
+			{"name": "dianjxg_00020", "rect": {"y": 777, "x": 1, "height": 192, "width": 184}},
+			{"name": "dianjxg_00021", "rect": {"y": 777, "x": 187, "height": 192, "width": 184}},
+			{"name": "dianjxg_00023", "rect": {"y": 777, "x": 559, "height": 192, "width": 184}},
+			{"name": "dianjxg_00028", "rect": {"y": 971, "x": 559, "height": 192, "width": 184}},
+			{"name": "dianjxg_00029", "rect": {"y": 971, "x": 745, "height": 192, "width": 184}},
+			{"name": "dianjxg_00000", "rect": {"y": 1, "x": 1, "height": 192, "width": 184}},
+			{"name": "dianjxg_00006", "rect": {"y": 195, "x": 187, "height": 192, "width": 184}},
+			{"name": "dianjxg_00007", "rect": {"y": 195, "x": 373, "height": 192, "width": 184}},
+			{"name": "dianjxg_00005", "rect": {"y": 195, "x": 1, "height": 192, "width": 184}},
+			{"name": "dianjxg_00032", "rect": {"y": 1165, "x": 373, "height": 192, "width": 184}},
+			{"name": "dianjxg_00026", "rect": {"y": 971, "x": 187, "height": 192, "width": 184}},
+			{"name": "dianjxg_00030", "rect": {"y": 1165, "x": 1, "height": 192, "width": 184}},
+			{"name": "dianjxg_00022", "rect": {"y": 777, "x": 373, "height": 192, "width": 184}},
+			{"name": "dianjxg_00018", "rect": {"y": 583, "x": 559, "height": 192, "width": 184}},
+			{"name": "dianjxg_00002", "rect": {"y": 1, "x": 373, "height": 192, "width": 184}},
+			{"name": "dianjxg_00010", "rect": {"y": 389, "x": 1, "height": 192, "width": 184}},
+			{"name": "dianjxg_00012", "rect": {"y": 389, "x": 373, "height": 192, "width": 184}},
+			{"name": "dianjxg_00004", "rect": {"y": 1, "x": 745, "height": 192, "width": 184}},
+			{"name": "dianjxg_00033", "rect": {"y": 1165, "x": 559, "height": 192, "width": 184}},
+			{"name": "dianjxg_00019", "rect": {"y": 583, "x": 745, "height": 192, "width": 184}},
+			{"name": "dianjxg_00013", "rect": {"y": 389, "x": 559, "height": 192, "width": 184}},
+			{"name": "dianjxg_00015", "rect": {"y": 583, "x": 1, "height": 192, "width": 184}},
+			{"name": "dianjxg_00014", "rect": {"y": 389, "x": 745, "height": 192, "width": 184}},
+			{"name": "dianjxg_00016", "rect": {"y": 583, "x": 187, "height": 192, "width": 184}},
+			{"name": "dianjxg_00025", "rect": {"y": 971, "x": 1, "height": 192, "width": 184}},
+			{"name": "dianjxg_00031", "rect": {"y": 1165, "x": 187, "height": 192, "width": 184}},
+			{"name": "dianjxg_00027", "rect": {"y": 971, "x": 373, "height": 192, "width": 184}},
+			{"name": "dianjxg_00008", "rect": {"y": 195, "x": 559, "height": 192, "width": 184}},
+			{"name": "dianjxg_00009", "rect": {"y": 195, "x": 745, "height": 192, "width": 184}},
+			{"name": "dianjxg_00011", "rect": {"y": 389, "x": 187, "height": 192, "width": 184}},
+			{"name": "dianjxg_00003", "rect": {"y": 1, "x": 559, "height": 192, "width": 184}},
+			{"name": "dianjxg_00001", "rect": {"y": 1, "x": 187, "height": 192, "width": 184}},
+			{"name": "dianjxg_00017", "rect": {"y": 583, "x": 373, "height": 192, "width": 184}}
+		]},
+		
+		{"name":"block", "path":"block.png", "items":[
+			{"name": "tile_miss", "rect": {"y": 247, "x": 417, "height": 240, "width": 134}},
+			{"name": "long_light", "rect": {"y": 491, "x": 279, "height": 217, "width": 134}},
+			{"name": "finish_3", "rect": {"y": 3, "x": 417, "height": 240, "width": 134}},
+			{"name": "finish_2", "rect": {"y": 3, "x": 279, "height": 240, "width": 134}},
+			{"name": "finish_1", "rect": {"y": 331, "x": 141, "height": 240, "width": 134}},
+			{"name": "long_finish", "rect": {"y": 3, "x": 3, "height": 474, "width": 134}},
+			{"name": "long_tilelight", "rect": {"y": 491, "x": 417, "height": 217, "width": 134}},
+			{"name": "finish_4", "rect": {"y": 3, "x": 555, "height": 240, "width": 134}},
+			{"name": "long_dot", "rect": {"y": 636, "x": 141, "height": 30, "width": 30}},
+			{"name": "start_label", "rect": {"y": 575, "x": 141, "height": 57, "width": 114}},
+			{"name": "long_head", "rect": {"y": 3, "x": 141, "height": 324, "width": 134}},
+			{"name": "tile_black", "rect": {"y": 247, "x": 279, "height": 240, "width": 134}},
+			{"name": "tile_start", "rect": {"y": 247, "x": 555, "height": 240, "width": 134}},
+			{"name": "black", "rect": {"y": 481, "x": 3, "height": 240, "width": 134}}
+		]},
+		{"name":"uielements", "path":"uielements.png", "items":[
+			{"name": "button_start_pressed", "rect": {"y": 188, "x": 492, "height": 99, "width": 374}},
+			{"name": "button_achievement_unpressed", "rect": {"y": 379, "x": 736, "height": 193, "width": 240}},
+			{"name": "button_home_unpressed", "rect": {"y": 576, "x": 736, "height": 193, "width": 240}},
+			{"name": "button_home_pressed", "rect": {"y": 488, "x": 492, "height": 193, "width": 240}},
+			{"name": "home_star_unget", "rect": {"y": 773, "x": 247, "height": 94, "width": 79}},
+			{"name": "bg_disc", "rect": {"y": 3, "x": 3, "height": 485, "width": 485}},
+			{"name": "button_music_pressed", "rect": {"y": 773, "x": 3, "height": 193, "width": 240}},
+			{"name": "button_music_unpressed", "rect": {"y": 492, "x": 247, "height": 193, "width": 240}},
+			{"name": "home_crown_unget", "rect": {"y": 183, "x": 870, "height": 94, "width": 79}},
+			{"name": "button_achievement_pressed", "rect": {"y": 291, "x": 492, "height": 193, "width": 240}},
+			{"name": "rank_title_bg", "rect": {"y": 3, "x": 492, "height": 78, "width": 480}},
+			{"name": "home_crown_get", "rect": {"y": 85, "x": 870, "height": 94, "width": 79}},
+			{"name": "home_star_get", "rect": {"y": 281, "x": 870, "height": 94, "width": 79}},
+			{"name": "button_start_normal", "rect": {"y": 85, "x": 492, "height": 99, "width": 374}}
+		]}
+	],
+
+	
+	"uiElementEffects":{
+		"GameEntranceScene":[
+			{"name":"parent", "children":[
+				
+				{"name":"entra_bottom_layout", "children":[
+					
+					{"name":"bottom_bg", "visible":false},
+					{"name":"home_group", "children":[
+						{"name":"home_page_btn", "imageData":"uielements", "imageItem":["button_home_unpressed", "button_home_pressed", "button_home_pressed", "button_home_unpressed"]},
+						{"name":"home_page_label", "visible":false}
+					]},
+					{"name":"music_lib_group", "children":[
+						{"name":"music_library_btn", "imageData":"uielements", "imageItem":["button_music_unpressed", "button_music_pressed", "button_music_pressed", "button_music_unpressed"]},
+						{"name":"music_library_page_label", "visible":false}
+					]},
+					{"name":"ranking_group", "children":[
+						{"name":"ranking_btn", "imageData":"uielements", "imageItem":["button_achievement_unpressed", "button_achievement_pressed", "button_achievement_pressed", "button_achievement_unpressed"]},
+						{"name":"ranking_page_label", "visible":false}
+					]}
+				]}
+			]},
+			
+			{"name":"ExtraMiddleMainPagePrefb", "children":[
+					{"name":"bg_piano", "imageData":"uielements", "imageItem":["bg_disc"], "children":[
+						{"name":"disk_icon_2", "visible":false},
+						{"name":"disk_icon_1", "visible":false}
+					]},
+					{"name":"music_name", "color":"#ffffff"},
+					{"name":"start_btn", "imageData":"uielements", "imageItem":["button_start_normal", "button_start_pressed", "button_start_pressed"], "children":[
+						{"name":"Label", "visible":false}
+					]},
+					{"name":"elementFrames", "children":[
+						{"name":"starFrames", "imageData":"uielements", "imageItem":["home_star_unget", "home_star_get"]},
+						{"name":"crownFrames", "imageData":"uielements", "imageItem":["home_crown_unget", "home_crown_get"]}
+					]},
+					{"name":"RankGroup", "children":[
+						{"name":"RnakGroupPrefb", "children":[
+							{"name":"rank_title_bg", "imageData":"uielements", "imageItem":["rank_title_bg"], "children":[
+								{"name":"rank_title_label", "color":"#ffffff"}
+							]},
+							{"name":"rank_see_all_group", "children":[
+								{"name":"rank_see_all_label", "color":"#ffffff"}
+							]},
+							{"name":"invite_friend_layout", "children":[
+								{"name":"invite_friend_label", "color":"#ffffff"},
+								{"name":"pk_friend_label", "color":"#ffffff"}
+							]}
+						]}
+					]}
+			]}
+		]
+	},
+	
+	"blockImage":{
+		"imageData":"block"
+	},
+	
+	"blockEffect": [
+		{
+			"node":{
+				"type":"MUINode",
+				"name":"BlockEffectRoot", 
+				"rect":{"x":0, "y":0, "width":734, "height":769}, 
+				"children":[
+					{
+						"type":"MUISprite", 
+						"name":"BlockEffectChild", 
+						"rect":{"x":-22, "y":-200, "width":734, "height":769}, 
+						"imageData":"blockeffect",
+						"imageItem":"dianjxg_00000", 
+						"frameSequence":["dianjxg_00000", "dianjxg_00001", "dianjxg_00002", "dianjxg_00003", "dianjxg_00004", "dianjxg_00005", "dianjxg_00006", "dianjxg_00007", "dianjxg_00008", "dianjxg_00009", "dianjxg_00010", "dianjxg_00011", "dianjxg_00012", "dianjxg_00013", "dianjxg_00014", "dianjxg_00015", "dianjxg_00016", "dianjxg_00017", "dianjxg_00018", "dianjxg_00019", "dianjxg_00020", "dianjxg_00021", "dianjxg_00022", "dianjxg_00023", "dianjxg_00024", "dianjxg_00025", "dianjxg_00026", "dianjxg_00027", "dianjxg_00028", "dianjxg_00029", "dianjxg_00030", "dianjxg_00031", "dianjxg_00032", "dianjxg_00033"], 
+						"children":[]
+					}
+				]
+				
+			},
+			"action":{
+				"type":"MChildAction", "params":{
+					"child":"BlockEffectChild", "action":{"type":"MFrameSequence", "params":{"frameCount":34, "duration":0.6}}
+				}
+			}
+		}
+	],
+	
+	"backgroundImage": {
+		"node":{
+			"type":"MUISprite", 
+			"name":"BackroundRoot", 
+			"imageData":"bkg2",
+			"imageItem":"bkgframe2",
+			"rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"},
+			"children":[
+				{
+					"type":"MUISprite", 
+					"name":"BackroundReal",
+					"imageData":"bkg2",
+					"rect":{"x":0, "y":0, "width":"adapter.width", "height":"adapter.height"},
+					"children":[]
+				}
+			]
+		},
+		"switch": {
+			"actions":[
+				{
+					"type":"MSequence",
+					"params":[
+						{"type":"MSetProperty", "params":{"imageItem":"bkgframe2", "imageData":"bkg2"}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MSetProperty", "params":{"opacity":0, "imageItem":"bkgframe3", "imageData":"bkg3"}}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MFadeTo", "params":{"opacity":1, "duration":1}}
+						}},
+						{"type":"MSetProperty", "params":{"imageItem":"null"}}
+					]
+				},
+				{
+					"type":"MSequence",
+					"params":[
+						{"type":"MSetProperty", "params":{"imageItem":"bkgframe3", "imageData":"bkg3"}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MSetProperty", "params":{"opacity":0, "imageItem":"bkgframe4", "imageData":"bkg4"}}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MFadeTo", "params":{"opacity":1, "duration":1}}
+						}},
+						{"type":"MSetProperty", "params":{"imageItem":"null"}}
+					]
+				}
+			]
+		}
+		
+	},
+	
+	"backgroundEffects":{
+		"home":[
+			{
+				"node":{
+					"type":"MUINode",
+					"name":"HomeBackgroundEffectRoot", 
+					"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"},
+					"children":[
+						{"type":"MUISprite", "name":"BackgroundImage", "imageData":"bkg", "imageItem":"bkgframe1", "rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"}}
+					]
+				},
+				
+				"action":{
+					
+				}
+			}
+		],
+
+		"game":[
+			{
+				"node":{
+					"type":"MUISprite", 
+					"name":"GameBackgroundEffectRoot", 
+					"rect":{"x":"0", "y":"0", "width":"scene.width", "height":"scene.height"},
+					"imageData":"bkgeffect",
+					"imageItem":"xh_00000", 
+					"frameSequence":["xh_00000", "xh_00001", "xh_00002", "xh_00003", "xh_00004", "xh_00005", "xh_00006", "xh_00007", "xh_00008", "xh_00009", "xh_00010", "xh_00011", "xh_00012", "xh_00013", "xh_00014", "xh_00015", "xh_00016", "xh_00017", "xh_00018", "xh_00019", "xh_00020", "xh_00021", "xh_00022", "xh_00023", "xh_00024", "xh_00025", "xh_00026", "xh_00027", "xh_00028", "xh_00029", "xh_00030", "xh_00031", "xh_00032", "xh_00033", "xh_00034", "xh_00035", "xh_00036", "xh_00037", "xh_00038"], 
+					"children":[]
+				},
+				
+				"actions":[
+					{"type":"MFrameSequence", "params":{"frameCount":39, "duration": 2}}
+				]
+			}
+		]
+	}
+}

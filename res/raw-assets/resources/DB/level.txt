@@ -1,0 +1,451 @@
+Id,Mid,Type,Lock,NeedLv,NeedGold,NeedDiamond,NeedCrow,NeedCrow2,Musiclevel,RewarID,LocalMusicVer,Recommend,MusicCard,FavoriteRate,Playmark,Stylelabel,Fallingrate,TID,,GoldenSong,MusicTime,HomeOrder,VipMusicVersion,VipCn,MusicJson,Musician
+序号,唯一标识,歌曲类型:1=等级 2=购买 3=竞技场 10=班级歌曲 15=FB 16=流行 19=热曲,解锁方式 1等级 2金币 13钻石 14VIP 15FB 16视频 17等级歌音乐钥匙 18音乐钥匙,所需等级,解锁需花费金币,解锁需要钻石数,解锁所需星星,解锁所需皇冠,X=（歌曲速度-60）/40,关卡100X 购买200X,判断是否为最新歌曲,推荐歌曲,对应头部卡片,热门指数,玩法备注：1黑块2长条3双黑4狂戳5滑块,风格备注：1民谣 2奏鸣曲 3练习曲  4艺术歌曲 5夜曲 6进行曲 7舞曲 8探戈歌曲 9钢琴小品  10交响曲 11变奏曲 12小奏鸣曲 13小夜曲 14回旋曲 15拉格泰姆  16歌剧序曲 17创意曲 18幽默曲 19组曲 20未知 21即兴曲 22管弦乐曲 23协奏曲 24狂想曲 25赋格 26前奏曲 27歌剧选段  28浪漫曲 29重奏曲  30大提琴组曲 31小佐达坎  32中国乐曲  33沉思曲 34安魂曲  35托卡塔 36梦幻曲   37间奏曲 38宗教歌曲 39康塔塔  40帕蒂塔 41随想曲 42沉重  43急促 44欢快 45活泼 46抒情 47中性 48忧伤  49明亮 50热烈 51清新,备注：X表示试玩片段降速的百分比，0表示试玩片段不降速,,难度分档1：X<=300，2：300<X<=360，3：X>360,首页歌曲推荐标记（1 有效）,歌曲生效时间戳,Home页排序,VIP歌曲期数,国内版VIP处理,音乐JSON文件[string],音乐家
+400,200004,1,1,0,,,7,,2,2002,9,,,50,2,,,,1,,,,,,Trial,Light Your Fire
+1,100001,1,1,1,,,,,1,1,,,,50,1,1,,song_tag_1,1,,,,,,Little Star,English Folk Music
+2,100002,1,1,2,,,,,2,2,,,,97,1,1,,song_tag_1,1,,,,,,Jingle Bells,James Lord Pierpont
+3,100003,1,1,2,,,,,2,2,,1,,112,2,25,,song_tag_8,1,,,,,,Canon,Johann Pachelbel
+4,100004,1,1,2,,,,,2,2,,,,66,2,1,,song_tag_1,1,,,,,,Two Tigers,French Folk Music
+5,100614,1,17,2,,,7,,2,2002,9,,,50,2,,,,1,,,,,,Kiss The Rain,Yiruma
+401,200001,1,17,2,,,3,,2,2002,9,,,50,2,,,,1,,,,,,Light Your Fire,Shaun Gibson
+6,100005,1,1,3,,,,,2,3,,,,67,2,1,,song_tag_1,1,,,,,,Happy New Year,English Folk Music
+7,100006,1,1,3,,,,,3,4,,,,50,3,3,,song_tag_6,1,,,,,,Beyer No.8,Ferdinand Beyer
+8,100007,1,1,3,,,,,3,4,,1,,89,1,46,,song_tag_11,1,,,,,,Bluestone Alley,Congfei Wei
+9,100409,1,17,3,,,7,,3,2003,3,1,,114,5,9,,song_tag_22,1,1,,,,,Warblings At Eve,Brinley Richards
+10,100008,1,1,4,,,,,3,5,,1,,57,2,1,,song_tag_1,1,,,,,,Jasmine,Chinese Folk Music
+11,100009,1,1,4,,,,,3,5,,1,,44,3,1,,song_tag_1,1,,,,,,Dolls and Bear Dancing,Polish Folk Music
+12,100010,1,1,4,,,,,4,6,,,,70,2,1,,song_tag_1,1,,,,,,Happy Birthday to You,American Folk Music
+13,100613,1,17,4,,,8,,6,2006,9,,,50,2,,,,1,,,,,,River Flows In You,Yiruma
+402,200002,1,17,4,,,5,,6,2006,9,,,50,2,,,,1,,,,,,Manual of Youth,TFBOYS
+403,200003,1,17,4,,,5,,6,2006,9,,,50,2,,,,1,,,,,,SLAMDUNK,Die For You
+14,100011,1,1,5,,,,,3,7,,1,,46,2,4,,song_tag_3,1,,,,,,Heidenroslein,Schubert
+15,100012,1,1,5,,,,,4,8,,1,,40,1,1,,song_tag_1,1,,,,,,The Painter,Polish Folk Music
+16,100013,1,1,5,,,,,4,8,,,,73,2,5,,song_tag_21,1,,,,,,Nocturne Op.9 No.2,Chopin
+17,100140,1,17,5,,,8,,2,2002,,1,,56,1,7,,song_tag_5,1,1,,,,,The Blue Danube,Johann Strauss II
+18,100014,1,1,6,,,,,4,9,,,,46,3,6,,song_tag_4,1,,,,,,The Ruins of Athens No.4,Beethoven
+19,100015,1,1,6,,,,,5,10,,1,,49,1,7,,song_tag_5,1,,,,,,Waltz in A minor,Chopin
+20,100016,1,1,6,,,,,5,10,,1,,47,3,7,,song_tag_5,1,,,,,,Gavotte,Francois Joseph Gossec
+21,100073,1,17,6,,,9,,2,2002,,1,,49,1,10,,song_tag_23,1,1,,,,,Ode An Die Freude,Beethoven
+22,100017,1,1,7,,,,,4,11,,,,52,1,8,,song_tag_5,1,,,,,,Por Una Cabeza,Carlos Gardel
+23,100020,1,1,7,,,,,4,14,,,,40,2,7,,song_tag_5,1,,,,,,Waltz Op.64 No.1,Chopin
+24,100018,1,1,7,,,,,5,12,,,,47,2,9,10,song_tag_22,2,,,,,,Moments Musicaux,Schubert
+25,100084,1,17,7,,,9,,2,2002,,1,,34,3,1,,song_tag_1,1,1,,,,,Oh! Susanna,American Folk Music
+26,100023,1,1,8,,,,,7,16,,1,,42,1,38,,song_tag_14,1,,,,,,Prelude in C Major No.1,J.S. Bach
+27,100024,1,1,8,,,,,7,16,,1,,45,1,7,,song_tag_5,1,,,,,,Tritsch Tratsch Polka,Johann Strauss II
+28,100021,1,1,8,,,,,6,15,,,,61,2,7,,song_tag_5,2,,,,,,Dance of the Sugar Fairy,Tchaikovsky
+29,100139,1,17,8,,,,3,2,2002,,1,,49,1,4,,song_tag_3,1,1,,,,,Auld Lang Syne,Robert Burns
+30,100026,1,1,9,,,,,7,17,,,,39,1,2,,song_tag_2,1,,,,,,Sonata in D Major K311,Mozart
+31,100057,1,1,9,,,,,5,42,,1,,42,3,20,,song_tag_25,1,,,,,,Bridal Chorus,Wagner
+32,100025,1,1,9,,,,,7,16,,1,,66,1,7,10,song_tag_5,2,,,,,,Cancan,Jacques Offenbach
+33,100428,1,17,9,,,,3,3,2003,1,,12,143,1,9,,song_tag_22,1,1,,,,,Piano Tiles,Congfei Wei
+34,100060,1,1,10,,,,,5,44,,,,36,2,7,,song_tag_5,1,,,,,,Minuet in G,J.S. Bach
+35,100063,1,1,10,,,,,6,1005,,,,26,1,22,,song_tag_4,1,,,,,,Harmonious Blacksmith,Handel
+36,100027,1,1,10,,,,,8,18,,,,51,2,10,,song_tag_23,2,,,,,,Symphony No.40 in g,Mozart
+37,100681,1,17,10,,,,3,4,2004,12,,,50,,,,,1,,,,,,Between the lines,Pi
+38,100066,1,1,11,,,,,5,1005,,1,,38,1,23,,song_tag_4,1,,,,,,Four Seasons - Spring,Antonio Vivaldi
+39,100029,1,1,11,,,,,8,20,,,,32,1,12,,song_tag_2,2,,,,,,Sonatina Op.36 No.3,Kuhlau
+40,100030,1,1,11,,,,,8,20,,,,34,1,3,10,song_tag_6,2,,,,,,Etude Op.299 No.39,Czerny
+41,100433,1,17,11,,,,3,5,2005,1,,7,133,3,9,,song_tag_22,1,1,,,,,Build The Dream,Shih Che Huang
+42,100069,1,1,12,,,,,2,1002,,,,28,1,1,,song_tag_1,1,,,,,,A La Claire Fontaine,French Folk Music
+43,100032,1,1,12,,,,,8,22,,1,,45,3,9,10,song_tag_22,2,,,,,,Csikos Post,Hermann Necke
+44,100033,1,1,12,,,,,7,23,,,,57,1,13,10,song_tag_21,2,,,,,,Eine Kleine Nachtmusik,Mozart
+45,100430,1,17,12,,,,4,4,2004,1,,14,164,1,9,,song_tag_22,1,1,,,,,Solitary Awakening,Kyrene
+46,100070,1,1,13,,,,,3,1003,,,,27,1,1,,song_tag_1,1,,,,,,Simple Gifts,Joseph Brackett
+47,100035,1,1,13,,,,,7,24,,,,30,1,3,10,song_tag_6,2,,,,,,Etude Op.10 No.4,Chopin
+48,100038,1,1,13,,,,,7,27,,,,24,1,2,10,song_tag_2,2,,,,,,Prelude in E Major BWV 937,J.S. Bach
+49,100343,1,17,13,,,,4,4,2004,,1,,138,1,45,,song_tag_17,1,1,,,,,Try,P!nk
+50,100080,1,1,14,,,,,6,1005,,1,,25,1,2,,song_tag_2,1,,,,,,Sonata Pathetique Mvt.1,Beethoven
+51,100041,1,1,14,,,,,7,30,,,,50,1,15,10,song_tag_24,2,,,,,,The Entertainer,Scott Joplin
+52,100044,1,1,14,,,,,8,33,,1,,36,2,6,10,song_tag_4,2,,,,,,American Patrol,Frank Meacham
+53,100441,1,17,14,,,,4,5,2005,1,,3,129,2,9,,song_tag_22,1,1,,,,,Stepping On The Rainy Street,The Daydream
+54,100089,1,1,15,,,,,8,1008,,,,23,1,7,,song_tag_5,1,,,,,,Lyric Waltz,Shostakovich
+55,100058,1,1,15,,,,,7,47,,1,,50,2,18,10,song_tag_9,2,,,,,,Humoresque No.7,Antonin Dvorak
+56,100028,1,1,15,,,,,9,19,,1,,58,1,11,10,song_tag_4,3,,,,,,G minor Bach,Luo Ni
+57,100072,1,17,15,,,,4,2,2002,,,,22,1,1,,song_tag_1,1,1,,,,,Yankee Doodle,American Folk Music
+58,100103,1,1,16,,,,,4,1004,,,,24,1,7,,song_tag_5,1,,,,,,The Skater's Waltz,Emil Waldteufel
+59,100061,1,1,16,,,,,6,45,,1,,29,1,19,10,song_tag_10,2,,,,,,Xinjiang Suite,Adapted by Congfei Wei
+60,100031,1,1,16,,,,,9,21,,,,43,1,2,10,song_tag_2,3,,,,,,Sonata in C Major K545,Mozart
+61,100176,1,17,16,,,,5,3,2003,,1,,35,1,1,,song_tag_1,1,1,,,,,Dreaming of Home and Mother,John Pond Ordway
+62,100112,1,1,17,,,,,4,1004,,,,25,1,11,,song_tag_4,1,,,,,,Sweet Bye and Bye,Walter
+63,100064,1,1,17,,,,,7,1006,,,,32,1,20,10,song_tag_25,2,,,,,,Liebestraum No.3,Franz Liszt
+64,100034,1,1,17,,,,,8,22,,1,,51,1,9,10,song_tag_22,3,,,,,,The Fountain,Carl Bohm
+65,100074,1,17,17,,,,5,2,2002,,1,,29,1,4,,song_tag_3,1,1,,,,,Auf Flugeln Des Gesanges,Mendelssohn
+66,100129,1,1,18,,,,,6,1006,,1,,24,2,20,,song_tag_25,1,,,,,,Tzigane Dance,Carl Bohm
+67,100067,1,1,18,,,,,6,1005,,1,,45,1,3,10,song_tag_6,2,,,,,,La Campanella,Franz Liszt
+68,100036,1,1,18,,,,,8,25,,1,,32,1,14,10,song_tag_5,3,,,,,,Gypsy Rondo,Haydn
+69,100704,1,17,18,,,,5,5,2005,14,,,50,,,,,1,,,,,,Simple Gift,Miu weiwei
+70,100145,1,1,19,,,,,6,1006,,,,24,3,3,10,song_tag_6,1,,,,,,Etude Op.34 No.10,Shostakovich
+71,100081,1,1,19,,,,,7,1007,,,,27,1,7,10,song_tag_5,2,,,,,,Waltz in E minor,Chopin
+72,100037,1,1,19,,,,,10,26,,1,,42,1,7,10,song_tag_5,3,,,,,,Spanish Dances,Shostakovich
+73,100358,1,17,19,,,,5,6,2006,,1,,59,2,49,,song_tag_17,1,1,,,,,Spirits Of The Wetlands,Wu Judy Chin - tai
+74,100148,1,1,20,,,,,5,1005,,1,,22,3,17,,song_tag_8,1,,,,,,Inventions No.15,J.S. Bach
+75,100104,1,1,20,,,,,8,48,,1,,23,1,1,10,song_tag_1,2,,,,,,Breeze,Chinese Folk Music
+76,100039,1,1,20,,,,,8,28,,,,30,1,2,10,song_tag_2,3,,,,,,Sonata in A Major K331,Mozart
+77,100661,1,17,20,,,,6,3,2003,11,,,50,1,,,,1,,,,,,Wiegenlied Op.49 No.4,Johannes Brahms
+78,100157,1,1,21,,,,,6,1006,,,,20,1,7,,song_tag_5,1,,,,,,Waltz No.16,Chopin
+79,100113,1,1,21,,,,,8,1008,,1,,21,1,7,10,song_tag_5,2,,,,,,Allemande,Handel
+80,100040,1,1,21,,,,,10,29,,1,,43,2,7,10,song_tag_5,3,,,,,,Hungarian Dance No.5,Johannes Brahms
+81,100087,1,17,21,,,,6,3,2003,,,,32,1,1,,song_tag_1,1,1,,,,,Red River Valley,Canadian Folk Music
+82,100166,1,1,22,,,,,6,1006,,1,,18,1,9,,song_tag_22,1,,,,,,Carnaval Op.9 No.14,Robert Schumann
+83,100121,1,1,22,,,,,7,1007,,,,23,2,2,10,song_tag_2,2,,,,,,Sonata in F Major Mvt.3,Mozart
+84,100042,1,1,22,,,,,8,31,,,,32,2,1,10,song_tag_1,3,,,,,,Santa Lucia,Italian Folk Music
+85,100432,1,17,22,,,,6,7,2007,1,1,6,176,1,9,,song_tag_22,1,1,,,,,Sitting Next To You,Handsome
+86,100168,1,1,23,,,,,5,1005,,1,,31,3,7,,song_tag_5,1,,,,,,Bagpipe Dance,Leopold Mozart
+87,100122,1,1,23,,,,,8,1008,,1,,22,1,3,10,song_tag_6,2,,,,,,Etude Op.10 No.8,Chopin
+88,100043,1,1,23,,,,,10,32,,1,,47,2,1,10,song_tag_1,3,,,,,,Horse Racing,Chinese Folk Music
+89,100342,1,17,23,,,,6,5,2005,,1,,55,2,46,,song_tag_11,1,1,,,,,Free Loop,Daniel Powter
+90,100178,1,1,24,,,,,3,1003,,,,17,1,9,,song_tag_22,1,,,,,,The Happy Farmer,Robert Schumann
+91,100130,1,1,24,,,,,7,1007,,,,21,1,2,10,song_tag_2,2,,,,,,Sonata in E minor Mvt.1,Haydn
+92,100045,1,1,24,,,,,9,34,,,,27,2,2,10,song_tag_2,3,,,,,,Sonata No.34 - Finale,Haydn
+93,100314,1,17,24,,,,7,6,2006,,1,,41,3,2,,song_tag_2,1,1,,,,,Longing for Spring K596,Mozart
+94,100184,1,1,25,,,,,6,1006,,,,20,1,9,,song_tag_22,1,,,,,,The Wild Horseman,Robert Schumann
+95,100131,1,1,25,,,,,8,1008,,1,,20,1,9,10,song_tag_22,2,,,,,,Knecht Ruprecht,Robert Schumann
+96,100046,1,1,25,,,,,10,35,,,,31,2,7,10,song_tag_5,3,,,,,,Polka,Joseph Kuffner
+97,100344,1,17,25,,,,7,6,2006,,1,,110,2,45,,song_tag_17,2,1,,,,,Bad Day,Daniel Powter
+98,100185,1,1,26,,,,,6,1006,,,,18,2,3,,song_tag_6,1,,,,,,Etude No.23,Cramer
+99,100146,1,1,26,,,,,7,1007,,1,,27,1,25,10,song_tag_8,2,,,,,,Fugue No.16 in G minor,J.S. Bach
+100,100047,1,1,26,,,,,8,36,,,,25,2,7,10,song_tag_5,3,,,,,,Minuet No.3,J.S. Bach
+101,100437,1,17,26,,,,7,8,2008,1,,4,121,2,9,,song_tag_22,2,1,,,,,If You Were By My Side,Chen-Chen Ho
+102,100186,1,1,27,,,,,4,1004,,1,,22,1,7,,song_tag_5,1,,,,,,French Suite No.4-Gigue,J.S. Bach
+103,100147,1,1,27,,,,,8,1008,,1,,20,2,2,10,song_tag_2,2,,,,,,Sonata in D Major K284,Mozart
+104,100048,1,1,27,,,,,9,37,,,,34,1,6,10,song_tag_4,3,,,,,,Radetzky March,Johann Strauss
+105,100594,1,17,27,,,,7,7,2007,8,1,,50,2,9,,song_tag_22,1,1,,,,,Miss Fox,Luo Ni
+106,100201,1,1,28,,,,,2,1002,,,,17,1,11,,song_tag_4,1,,,,,,The Nightingale,Mikhail Glinka
+107,100149,1,1,28,,,,,8,1008,,1,,20,1,3,10,song_tag_6,2,,,,,,Etude Op.6 No.8,Franz Liszt
+108,100049,1,1,28,,,,,10,38,,,,46,2,16,10,song_tag_3,3,,,,,,Carmen Overture,Bizet
+109,100350,1,17,28,,,,8,7,2007,,1,,75,1,45,,song_tag_17,2,1,,,,,Elves of Night,Wu Judy Chin - tai
+110,100202,1,1,29,,,,,6,1006,,,,21,3,7,,song_tag_5,1,,,,,,Gertrude's dream waltz,Beethoven
+111,100158,1,1,29,,,,,7,1007,,1,,20,1,26,,song_tag_6,2,,,,,,WTC1 No.3,J.S. Bach
+112,100050,1,1,29,,,,,8,40,,,,26,1,17,10,song_tag_8,3,,,,,,Invention No.13,J.S. Bach
+113,100466,1,17,29,,,,8,7,2007,2,1,,180,1,10,,song_tag_23,2,1,,,,,Symphony No.5 Mvt.1,Beethoven
+114,100203,1,1,30,,,,,6,1006,,,,18,1,7,,song_tag_5,1,,,,,,Loure,J.S. Bach
+115,100159,1,1,30,,,,,8,1008,,1,,24,1,27,10,song_tag_26,2,,,,,,Der Vogelfaenger bin ich ja,Mozart
+116,100051,1,1,30,,,,,8,40,,,,28,2,12,10,song_tag_2,3,,,,,,Sonatina Op.36-3,Clementi
+117,100412,1,17,30,,,,8,8,2008,,,,48,2,9,,song_tag_22,2,1,,,,,Interplanetary Wandering,Chen-Chen Ho
+118,100210,1,1,31,,,,,2,1002,,,,23,3,4,,song_tag_3,1,,,,,,Craving for the Spring Wind,Yuxian Deng
+119,100167,1,1,31,,,,,7,1007,,1,,20,1,9,10,song_tag_22,2,,,,,,Arabesque Op.76 No.9,Jean Sibelius
+120,100052,1,1,31,,,,,10,41,,,,47,1,16,10,song_tag_3,3,,,,,,William Tell Overture,Gioachino Rossini
+121,100697,1,17,31,,,,8,8,2008,13,,,50,,,,,3,,,,,,Smile Smile Smile,Jeon Su Yeon
+122,100179,1,1,32,,,,,6,1006,,,,23,1,11,,song_tag_4,2,,,,,,Variations of Paganini,Berkovich
+123,100180,1,1,32,,,,,8,1008,,1,,43,3,20,10,song_tag_25,2,,,,,,Penguin's Game,Unknown
+124,100059,1,1,32,,,,,10,43,,,,71,1,2,10,song_tag_2,3,,,,,,Moonlight Sonata Mvt.3,Beethoven
+125,100212,1,1,33,,,,,5,1005,,1,,27,3,2,10,song_tag_2,1,,,,,,Sonata in C Major K330 Mvt.1,Mozart
+126,100211,1,1,33,,,,,7,1006,,,,24,2,7,10,song_tag_5,2,,,,,,Neopolitan Dance,Tchaikovsky
+127,100062,1,1,33,,,,,10,1010,,1,,50,1,21,10,song_tag_11,3,,,,,,Fantaisie - Impromptu,Chopin
+128,100221,1,1,34,,,,,1,1001,,,,18,1,9,10,song_tag_22,2,,,,,,Album Leaf,Kirchner
+129,100065,1,1,34,,,,,9,1009,,1,,35,1,2,10,song_tag_2,3,,,,,,Appassionata Mvt.3,Beethoven
+130,100068,1,1,34,,,,,9,1009,,,,36,1,20,10,song_tag_25,3,,,,,,Solfeggietto,C.P.E.Bach
+131,100219,1,1,35,,,,,5,1005,,,,17,1,17,,song_tag_8,1,,,,,,Invention No.2,J.S. Bach
+132,100071,1,1,35,,,,,8,1008,,1,,32,1,24,10,song_tag_1,3,,,,,,Hungarian Rhapsody No.6,Franz Liszt
+133,100082,1,1,35,,,,,9,1009,,,,26,1,7,10,song_tag_5,3,,,,,,Clarinet Polka,Prohaska
+134,100220,1,1,36,,,,,4,1004,,,,18,3,6,,song_tag_4,1,,,,,,Hands Across The Sea,Sousa
+135,100222,1,1,36,,,,,8,1008,,,,18,1,9,10,song_tag_22,2,,,,,,Moment Musical Op.94 No.4,Schubert
+136,100085,1,1,36,,,,,5,1005,,,,24,2,12,10,song_tag_2,3,,,,,,Sonatina Op.88 No.3,Kuhlau
+137,100232,1,1,37,,,,,5,1005,,,,19,1,15,,song_tag_24,1,,,,,,Searchlight Rag,Scott Joplin
+138,100233,1,1,37,,,,,6,1006,,,,20,1,23,,song_tag_4,2,,,,,,Bach Piano Concerto No.1,J.S. Bach
+139,100090,1,1,37,,,,,9,1009,,,,41,1,14,10,song_tag_5,3,,,,,,Rondo A Capriccio Op.129,Beethoven
+140,100105,1,1,38,,,,,10,1010,,1,,40,1,3,10,song_tag_6,3,,,,,,Etude de Virtuosite in E,Moszkowski
+141,100114,1,1,38,,,,,9,1009,,,,24,1,11,10,song_tag_4,3,,,,,,Goldberg Variations,J.S. Bach
+142,100132,1,1,38,,,,,9,1009,,1,,25,1,12,10,song_tag_2,3,,,,,,Sonatina Op.88 No.3 Mvt.3,Kuhlau
+143,100240,1,1,39,,,,,1,1001,,,,16,1,7,,song_tag_5,1,,,,,,Walzer,FR.Bell
+144,100241,1,1,39,,,,,7,1007,,,,19,1,9,10,song_tag_22,2,,,,,,Lively Spring Festival,Unknown
+145,100242,1,1,39,,,,,8,1008,,1,,20,1,3,10,song_tag_6,2,,,,,,Etude Op.740 No.31,Czerny
+146,100253,1,1,40,,,,,7,1007,,,,15,1,9,,song_tag_22,2,,,,,,Melody,Robert Schumann
+147,100254,1,1,40,,,,,7,1007,,1,,22,3,3,,song_tag_6,2,,,,,,Etude Op.37 No.29,H. Lemoine
+148,100150,1,1,40,,,,,9,1009,,1,,19,1,3,10,song_tag_6,3,,,,,,Etude Op.849 No.16,Czerny
+149,100263,1,1,41,,,,,5,1005,,1,,19,3,9,,song_tag_22,1,,,,,,Heather Rose,G. Lange
+150,100223,1,1,41,,,,,9,1009,,1,,20,2,7,10,song_tag_5,3,,,,,,Romanian Folk Dances No.6,Bela Bartok
+151,100231,1,1,41,,,,,10,1010,,1,,28,2,7,10,song_tag_5,3,,,,,,3 Ecossaises Op.72 No.3,Chopin
+152,100252,1,1,42,,,,,6,1006,,,,17,2,9,,song_tag_22,1,,,,,,Market,Gullit
+153,100266,1,1,42,,,,,9,1009,,1,,18,1,15,10,song_tag_2,3,,,,,,Palm Leaf Rag,Scott Joplin
+154,100281,1,1,42,,,,,9,1009,,1,,26,1,6,10,song_tag_4,3,,,,,,Soldaten Marsch,Robert Schumann
+155,100262,1,1,43,,,,,6,1006,,,,17,1,26,,song_tag_18,1,,,,,,The Hebrides Overture,Mendelssohn
+156,100261,1,1,43,,,,,6,1006,,,,40,2,9,,song_tag_22,2,,,,,,Carol of the Bells,Ukrainian Carol
+157,100224,1,1,43,,,,,8,1008,,1,,27,1,26,10,song_tag_18,3,,,,,,Prelude Op.12 No.7,Sergei Prokofiev
+158,100264,1,1,44,,,,,6,1006,,,,16,1,1,,song_tag_1,1,,,,,,"Home, Sweet home",Scotland Folk Music
+159,100265,1,1,44,,,,,7,1007,,,,17,2,7,10,song_tag_5,2,,,,,,Mazurka Op.39 No.11,Tchaikovsky
+160,100298,1,1,44,,,,,8,1008,,,,16,2,9,10,song_tag_22,3,,,,,,The music box,Ede Poldini
+161,100276,1,1,45,,,,,4,1004,,,,14,1,1,,song_tag_1,1,,,,,,Old Folks at Home,American Folk Music
+162,100277,1,1,45,,,,,4,1004,,,,15,1,9,,song_tag_22,1,,,,,,Troika E Major,Tchaikovsky
+163,100278,1,1,45,,,,,5,1005,,,,15,1,9,,song_tag_22,1,,,,,,Hunting Song,Mendelssohn
+164,100279,1,1,46,,,,,2,1002,,,,47,1,20,,song_tag_12,1,,,,,,Fall,Clack Chen
+165,100280,1,1,46,,,,,6,1006,,,,18,1,28,,song_tag_21,2,,,,,,Romance,D. Auber
+166,100308,1,1,46,,,,,9,1009,,1,,21,1,15,10,song_tag_2,3,,,,,,Elite Syncopations,Scott Joplin
+167,100288,1,1,47,,,,,5,1005,,,,20,2,27,,song_tag_3,1,,,,,,Non Piu Andrai,Mozart
+168,100289,1,1,47,,,,,6,1006,,,,18,1,1,,song_tag_1,1,,,,,,"Long, Long Ago",Thomas Haynes Bayly
+169,100290,1,1,47,,,,,6,1006,,1,,33,3,14,,song_tag_5,2,,,,,,Rondo A Major,Johann Baptist Vanhal
+170,100297,1,1,48,,,,,6,1006,,,,16,1,6,,song_tag_4,1,,,,,,March from Norma,Vincenzo Bellini
+171,100299,1,1,48,,,,,5,1005,,,,16,3,27,,song_tag_26,1,,,,,,Barcarolle d'Hoffmann,Jacques Offenbach
+172,100316,1,1,48,,,,,8,1008,,,,16,1,15,10,song_tag_24,3,,,,,,Magnetic Rag,Scott Joplin
+173,100306,1,1,49,,,,,6,1006,,,,14,1,7,,song_tag_5,1,,,,,,Restless Galop,L. Streabbog
+174,100307,1,1,49,,,,,6,1006,,,,16,1,26,,song_tag_18,1,,,,,,Prelude in g minor BWV930,J.S. Bach
+175,100326,1,1,49,,,,,9,1009,,1,,17,2,6,10,song_tag_4,3,,,,,,Wiener March,Czerny
+176,100315,1,1,50,,,,,6,1006,,,,14,1,27,,song_tag_3,1,,,,,,Andante from Orfeo ed Euridice,C.W.von.Gluck
+177,100317,1,1,50,,,,,7,1007,,1,,20,1,7,10,song_tag_5,2,,,,,,Starlight Waltz,C.S. Brainard
+178,100346,1,1,50,,,,,8,1008,,,,19,2,14,10,song_tag_5,3,,,,,,Rondo in C Major Op.51 No.1,Beethoven
+179,100324,1,1,51,,,,,5,1005,,,,15,1,9,,song_tag_22,1,,,,,,Les Sylphes,Georges Bachmann
+180,100325,1,1,51,,,,,6,1006,,,,15,1,27,,song_tag_26,1,,,,,,Va pensiero,Giuseppe Verdi
+181,100352,1,1,51,,,,,8,1008,,,,20,2,1,10,song_tag_1,3,,,,,,Old King Cole,English Folk Music
+182,100333,1,1,52,,,,,7,1007,,,,17,1,7,10,song_tag_5,2,,,,,,Emperor Waltz Op.437,Johann Strauss II
+183,100334,1,1,52,,,,,5,1005,,,,16,1,14,,song_tag_5,1,,,,,,Rondo allegretto Op.168 No.1,Diabelli
+184,100335,1,1,52,,,,,6,1006,,,,19,1,23,,song_tag_4,1,,,,,,Andante from Concerto No.21,Mozart
+185,100347,1,1,53,,,,,5,1005,,,,23,3,14,,song_tag_5,1,,,,,,Rondo alla Turca Op.68 No.3,Friedrich Burgnlueller
+186,100345,1,1,53,,,,,7,1007,,,,19,1,27,,song_tag_26,2,,,,,,Alles fuhlt der Liebe Freuden,Mozart
+187,100388,1,1,53,,,,,8,1008,,,,31,2,7,10,song_tag_5,3,,,,,,Waltz in E flat Op.18 No.1,Chopin
+188,100351,1,1,54,,,,,6,1006,,,,16,2,9,,song_tag_22,1,,,,,,Remembrance Op.68 No.28,Robert Schumann
+189,100353,1,1,54,,,,,6,1006,,,,18,1,29,,song_tag_4,1,,,,,,String Quartet No.13 D.804,Schubert
+190,100389,1,1,54,,,,,8,1008,,1,,30,1,9,10,song_tag_22,3,,,,,,Murmuring Brook,Ede Poldini
+191,100360,1,1,55,,,,,7,1007,,,,20,2,7,,song_tag_5,2,,,,,,Anita's Dance,Grieg
+192,100361,1,1,55,,,,,4,1004,,,,17,3,9,,song_tag_22,1,,,,,,Chanson Triste Op.40 No.2,Tchaikovsky
+193,100362,1,1,55,,,,,8,1008,,,,22,2,13,10,song_tag_21,2,,,,,,La Serenata,Gaetano Braga
+194,100369,1,1,56,,,,,7,1007,,,,19,1,7,,song_tag_5,2,,,,,,Valse Op.83 No.1,Auguste Durand
+195,100370,1,1,56,,,,,8,1008,,1,,22,1,9,10,song_tag_22,2,,,,,,Le Coucou,Louis-Claude Daquin
+196,100359,1,1,56,,,,,4,1004,,,,16,3,7,,song_tag_5,1,,,,,,Gavotte from Op.183 No.1,Carl Reinecke
+197,100383,1,1,57,,,,,6,1006,,,,15,1,7,,song_tag_5,1,,,,,,Courante HWV 440,Handel
+198,100384,1,1,57,,,,,5,1005,,,,16,3,27,,song_tag_26,1,,,,,,The Laughing Song,Johann Strauss II
+199,100385,1,1,57,,,,,6,1006,,,,21,3,2,,song_tag_2,1,,,,,,Sonata in d minor K.9,Scarlatti
+200,100387,1,1,58,,,,,7,1007,,,,19,2,13,,song_tag_21,2,,,,,,Serenata Op.15 No.1,Moszkowski
+201,100396,1,1,58,,,,,8,1008,,,,17,1,7,10,song_tag_5,3,,,,,,Gavotte from Mignon,Ambroise Thomas
+202,100405,1,1,58,,,,,8,1008,,1,,21,3,4,10,song_tag_3,3,,,,,,The Song of the Robin,George W. Warren
+203,100382,1,1,59,,,,,7,1007,,,,16,1,3,,song_tag_6,2,,,,,,La Candeur Op.100 No.1,Friedrich Burgnlueller
+204,100395,1,1,59,,,,,8,1008,,,,20,2,15,10,song_tag_24,2,,,,,,Sunflower Slow Drag,Scott Joplin
+205,100415,1,1,59,,,,,8,1008,,,,21,1,9,10,song_tag_22,3,,,,,,Sylvia-Pizzicato,Leo Delibes
+206,100406,1,1,60,,,,,5,1005,,1,,25,3,37,,song_tag_6,1,,,,,,Entr'acte-Gavotte Op.13,Ernest Gillet
+207,100404,1,1,60,,,,,7,1007,,,,19,2,7,,song_tag_5,2,,,,,,A Concert Waltz,Scott Joplin
+208,100445,1,1,60,,,,,8,1008,,,,16,2,30,10,song_tag_10,3,,,,,,Suite BWV 1012-3.Courante,J.S. Bach
+209,100416,1,1,61,,,,,5,1005,,,,18,3,9,,song_tag_22,1,,,,,,Gypsies Op.138 No.19,Stephen Heller
+210,100414,1,1,61,,,,,8,1008,,,,17,1,15,10,song_tag_2,2,,,,,,The Easy Winners,Scott Joplin
+211,100019,1,1,61,,,,,6,13,,,,70,4,1,,song_tag_1,2,,,,,,Korobeiniki,Russian Folk Music
+212,100417,1,1,62,,,,,6,1006,,,,18,1,15,,song_tag_24,1,,,,,,A Real Slow Drag,Scott Joplin
+213,100418,1,1,62,,,,,8,1008,,1,,26,1,30,10,song_tag_10,2,,,,,,Cello Suite No.1 in G,J.S. Bach
+214,100419,1,1,62,,,,,6,1006,,,,18,3,2,,song_tag_2,1,,,,,,Sonata in E Major K.20,Scarlatti
+215,100420,1,1,63,,,,,6,1006,,,,18,2,7,,song_tag_5,1,,,,,,Coppelia-Waltz,Leo Delibes
+216,100421,1,1,63,,,,,8,1008,,,,16,1,17,10,song_tag_8,2,,,,,,Two Part Invention No.8,J.S. Bach
+217,100422,1,1,63,,,,,4,1004,,,,18,3,7,,song_tag_5,1,,,,,,Petite Valse Op.10 No.2,Genari Karganov
+218,100423,1,1,64,,,,,5,1005,,,,16,3,31,,song_tag_25,1,,,,,,Canzonetta,Benjamin Godard
+219,100424,1,1,64,,,,,7,1007,,,,19,2,7,10,song_tag_5,2,,,,,,Hungarian Dance No.7,Johannes Brahms
+220,100425,1,1,64,,,,,5,1005,,,,20,3,9,,song_tag_22,1,,,,,,Thine Alone Op.54,Gustav Lange
+221,100443,1,1,65,,,,,7,1007,,,,17,1,15,10,song_tag_24,2,,,,,,Something Doing,Scott Joplin
+222,100444,1,1,65,,,,,8,1008,,,,20,1,12,10,song_tag_2,2,,,,,,Sonatina Op.20 No.1 Mvt.3,Kuhlau
+223,100022,1,1,65,,,,,6,15,,,,52,2,7,,song_tag_5,2,,,,,,The Swan,Saint-Seans
+224,100446,1,1,66,,,,,8,1008,,,,18,2,6,10,song_tag_4,2,,,,,,The Parade Of The Tin Soldiers,Leon Jessel
+225,100447,1,1,66,,,,,5,1005,,,,31,3,4,,song_tag_3,1,,,,,,Lieder Op.52 No.7,Beethoven
+226,100448,1,1,66,,,,,7,1007,,1,,39,2,6,,song_tag_4,2,,,,,,Entry Of The Gladiators,Julius Fucik
+227,100449,1,1,67,,,,,7,1007,,,,17,1,15,,song_tag_2,2,,,,,,Swipesy Cakewalk,Scott Joplin
+228,100450,1,1,67,,,,,8,1008,,,,18,3,7,10,song_tag_5,2,,,,,,Polka Op.39 No.14,Tchaikovsky
+229,100451,1,1,67,,,,,6,1006,,,,25,3,2,,song_tag_2,1,,,,,,Sonata in C Major K309 Mvt.1,Mozart
+230,100452,1,1,68,,,,,7,1007,,,,18,2,12,,song_tag_2,2,,,,,,Sonatina Op.36-2 Mvt.3,Clementi
+231,100453,1,1,68,,,,,5,1005,,,,16,1,21,,song_tag_11,1,,,,,,Impromptu Op.142 No.3,Schubert
+232,100454,1,1,68,,,,,4,1004,,,,20,3,4,,song_tag_3,1,,,,,,Italian Song Op.39 No.15,Tchaikovsky
+233,100455,1,1,69,,,,,6,1006,,,,15,1,9,,song_tag_22,1,,,,,,Cabaletta Op.83,Theodore Lack
+234,100456,1,1,69,,,,,9,1009,,1,,30,1,3,10,song_tag_6,3,,,,,,Etude Op.25 No.9,Chopin
+235,100457,1,1,69,,,,,5,1006,,,,17,1,7,,song_tag_5,1,,,,,,Tempo di Ballo,Scarlatti
+236,100470,1,1,70,,,,,7,1007,,,,21,2,15,,song_tag_24,2,,,,,,A Breeze From Alabama,Scott Joplin
+237,100471,1,1,70,,,,,6,1006,,,,20,2,7,,song_tag_5,1,,,,,,6 Ecossaises WoO 83,Beethoven
+238,100472,1,1,70,,,,,5,1005,,,,17,1,9,,song_tag_22,1,,,,,,Trompeter Op.33 No.2,Adolf Jensen
+239,100473,1,1,71,,,,,4,1004,,,,16,3,9,,song_tag_22,1,,,,,,Album-leaf Op.12 No.7,Grieg
+240,100474,1,1,71,,,,,7,1007,,,,17,1,12,,song_tag_2,2,,,,,,Sonatina Op.20 No.1 Mvt.2,Jan Ladislav Dussek
+241,100475,1,1,71,,,,,6,1006,,,,15,1,2,,song_tag_2,1,,,,,,Sonata Hob.27 Mvt.3,Haydn
+242,100476,1,1,72,,,,,3,1003,,,,35,2,5,,song_tag_17,1,,,,,,Nocturne Op.55 No.1,Chopin
+243,100477,1,1,72,,,,,8,1008,,,,18,1,12,10,song_tag_2,2,,,,,,Sonatina Op.55 No.2 Mvt.3,Kuhlau
+244,100478,1,1,72,,,,,6,1006,,,,21,1,3,,song_tag_6,1,,,,,,L'adieu Op.100 No.12,Friedrich Burgnlueller
+245,100479,1,1,73,,,,,6,1006,,,,17,1,30,,song_tag_10,1,,,,,,Suite BWV 1009 Bourree,J.S. Bach
+246,100480,1,1,73,,,,,9,1009,,,,19,2,14,10,song_tag_5,3,,,,,,Rondo Op.88 No.1 Mvt.3,Kuhlau
+247,100481,1,1,73,,,,,4,1004,,,,19,3,12,,song_tag_2,1,,,,,,Sonatina Op.36-2 Mvt.1,Clementi
+248,100482,1,1,74,,,,,6,1006,,,,23,1,9,,song_tag_22,1,,,,,,Songs Without Words Op.19 No.2,Mendelssohn
+249,100483,1,1,74,,,,,5,1005,,,,19,1,9,,song_tag_22,1,,,,,,The Doll's Complaint,Cesar Franck
+250,100484,1,1,74,,,,,7,1007,,,,27,1,3,,song_tag_6,2,,,,,,La Chevaleresque,Friedrich Burgnlueller
+251,100490,1,1,75,,,,,5,1005,,,,26,1,7,,song_tag_5,1,,,,,,Waltz Op.69 No.2,Chopin
+252,100491,1,1,75,,,,,6,1006,,,,21,2,7,,song_tag_5,1,,,,,,Walzer Op.12 No.2,Grieg
+253,100492,1,1,75,,,,,4,1004,,,,20,3,9,,song_tag_22,1,,,,,,Spring Song,Mendelssohn
+254,100493,1,1,76,,,,,5,1005,,,,18,1,9,,song_tag_22,1,,,,,,Melody in F Op.3 No.1,Anton Rubinstein
+255,100494,1,1,76,,,,,9,1009,,,,39,3,7,10,song_tag_5,3,,,,,,Dance Of The Hours,Amilcare Ponchielli
+256,100495,1,1,76,,,,,4,1004,,,,22,3,7,,song_tag_5,1,,,,,,Polonaise in A Flat Major B.5,Chopin
+257,100496,1,1,77,,,,,6,1006,,,,16,3,2,,song_tag_2,1,,,,,,Sonata in F Major Hob.23 Mvt.1,Haydn
+258,100497,1,1,77,,,,,4,1004,,,,20,3,7,,song_tag_5,1,,,,,,Walzer Op.325,Johann Strauss II
+259,100498,1,1,77,,,,,8,1008,,,,27,2,7,10,song_tag_5,3,,,,,,Valse Brillante Op.34 No.1,Chopin
+260,100499,1,1,78,,,,,7,1007,,,,17,2,9,,song_tag_22,2,,,,,,Le Petit Rien,Francois Couperin
+261,100500,1,1,78,,,,,4,1004,,,,17,1,2,,song_tag_2,1,,,,,,Sonata in Flat B Major K570 Mvt.2,Mozart
+262,100501,1,1,78,,,,,6,1006,,,,24,3,30,,song_tag_10,1,,,,,,Suite HWV 442 G major Chaconne,Handel
+263,100502,1,1,79,,,,,6,1006,,,,15,1,2,,song_tag_2,1,,,,,,Sonata in D Major K284 Mvt.3,Mozart
+264,100503,1,1,79,,,,,5,1005,,,,13,1,9,,song_tag_22,1,,,,,,Derniere Pensee Musicale,Weber
+265,100504,1,1,79,,,,,6,1006,,,,27,2,44,,song_tag_25,1,,,,,,La Cinquantaine,Jean Gabriel Marie
+266,100515,1,1,80,,,,,6,1006,,,,50,1,19,,song_tag_10,1,,,,,,Suite in D minor HWV 448 Courante,Handel
+267,100516,1,1,80,,,,,7,1007,,,,50,1,7,,song_tag_5,2,,,,,,Waltz Op.64 No.3 in A Flat,Chopin
+268,100517,1,1,80,,,,,9,1009,,,,50,1,3,10,song_tag_6,3,,,,,,The Chatterbox Op.100 No.17,Friedrich Burgnlueller
+269,100518,1,1,81,,,,,6,1006,,,,50,2,7,,song_tag_5,1,,,,,,Valse Bleue,Alfred Margis
+270,100519,1,1,81,,,,,5,1005,,,,50,1,9,,song_tag_22,1,,,,,,Traum der Sennerin Op.45,August Labitzky
+271,100520,1,1,81,,,,,8,1008,,,,50,1,14,10,song_tag_5,3,,,,,,Rondo in C Major WoO 48,Beethoven
+272,100521,1,1,82,,,,,5,1005,,,,50,1,28,,song_tag_21,1,,,,,,Fleurette-Romance Op.75 No.1,Joachim Raff
+273,100522,1,1,82,,,,,4,1004,,,,50,1,7,,song_tag_5,1,,,,,,Love's Dream After the Ball,Alphons Czibulka
+274,100523,1,1,82,,,,,8,1008,,,,50,1,9,10,song_tag_22,2,,,,,,Le Rappel des oiseaux,Jean-Philippe Rameau
+275,100524,1,1,83,,,,,6,1006,,,,50,2,7,,song_tag_5,1,,,,,,Bourree in G Major Op.1 No.5,Handel
+276,100525,1,1,83,,,,,5,1005,,,,50,3,7,,song_tag_5,1,,,,,,Poupee valsante,Ede Poldini
+277,100526,1,1,83,,,,,6,1006,,,,50,1,13,,song_tag_21,2,,,,,,The Chinese Serenade,Hermann Fliege
+278,100527,1,1,84,,,,,4,1004,,,,50,1,9,,song_tag_22,1,,,,,,Douze Etudes de Salon Op.5 No.11,Adolf von Henselt
+279,100528,1,1,84,,,,,7,1007,,,,50,1,7,,song_tag_5,2,,,,,,Waltz Op.70 No.3 in D flat,Chopin
+280,100529,1,1,84,,,,,6,1006,,,,50,1,7,,song_tag_5,1,,,,,,Stephanie-Gavotte Op.312,Alphons Czibulka
+281,100539,1,1,85,,,,,6,1006,,,,50,1,4,,song_tag_3,1,,,,,,Clair de lune Op.46 No.2,Faure
+282,100540,1,1,85,,,,,8,1008,,1,,50,1,3,10,song_tag_6,3,,,,,,Hasche-Mann Op.15 No.3,Robert Schumann
+283,100541,1,1,85,,,,,8,1008,,1,,50,1,9,10,song_tag_22,3,,,,,,Madding Wind,Clack Chen
+284,100542,1,1,86,,,,,5,1005,,,,50,1,3,,song_tag_6,1,,,,,,By the Fireside Op.15 No.8,Robert Schumann
+285,100543,1,1,86,,,,,5,1005,,,,50,2,7,,,1,,,,,,La Czarine-Mazurka,Louis Ganne
+286,100544,1,1,86,,,,,6,1006,,,,50,1,7,,song_tag_5,2,,,,,,Gavotte en Rondeau,Jean-Baptiste Lully
+287,100545,1,1,87,,,,,6,1006,,,,50,1,3,,song_tag_6,1,,,,,,The Shepherd's Return Op.109 No.3,Friedrich Burgnlueller
+288,100546,1,1,87,,,,,6,1006,,,,50,2,13,,song_tag_21,1,,,,,,Serenade Op.19 No.2,Ole Olsen
+289,100547,1,1,87,,,,,8,1008,,1,,50,2,7,10,,3,,,,,,Mazurka in B flat Op.7 No.1,Chopin
+290,100548,1,1,88,,,,,6,1006,,,,50,1,7,,song_tag_5,1,,,,,,Divertimento K.334 Menuetto,Mozart
+291,100549,1,1,88,,,,,4,1004,,,,50,1,45,,song_tag_17,1,,,,,,Con Amore,Sydney Smith
+292,100550,1,1,88,,,,,7,1007,,1,,50,2,9,10,song_tag_22,2,,,,,,Puerta de tierra Op.71 No.5,Isaac Albeniz
+293,100551,1,1,89,,,,,5,1005,,,,50,1,7,,,1,,,,,,Mazurka in D Op.33 No.2,Chopin
+294,100552,1,1,89,,,,,8,1008,,,,50,2,12,10,song_tag_2,3,,,,,,Sonatina Op.55 No.3 Mvt.1,Kuhlau
+295,100553,1,1,89,,,,,5,1005,,,,50,3,12,,song_tag_2,1,,,,,,Sonatina Op.36 No.5 Mvt.3,Clementi
+296,100563,1,1,90,,,,,4,1004,,,,50,1,9,,song_tag_22,1,,,,,,Je te veux,Erik Satie
+297,100564,1,1,90,,,,,9,1009,,1,,50,1,3,10,song_tag_6,3,,,,,,Etude Op.10 No.5,Chopin
+298,100565,1,1,90,,,,,4,1004,,,,50,3,12,,song_tag_2,1,,,,,,Sonatina Op.55 No.2 Mvt.2,Kuhlau
+299,100566,1,1,91,,,,,5,1005,,,,50,1,13,,song_tag_21,1,,,,,,Serenade No.13 K.525 Mvt.4,Mozart
+300,100567,1,1,91,,,,,4,1004,,,,50,3,9,,song_tag_22,1,,,,,,Waves Of The Ocean,Charles.D.Blake
+301,100568,1,1,91,,,,,4,1004,,,,50,3,10,,song_tag_23,1,,,,,,Zigeunerweisen Op.20,Pablo de Sarasate
+302,100582,1,1,92,,,,,6,1006,,,,50,3,12,,song_tag_2,1,,,,,,Sonatina in D Op.168 No.5,Diabelli
+303,100583,1,1,92,,,,,8,1008,,,,50,2,7,10,song_tag_5,2,,,,,,Polish Dance Op.3 No.1,Franz Xaver Scharwenka
+304,100584,1,1,92,,,,,4,1004,,,,50,3,9,,song_tag_22,1,,,,,,The Turkish Patrol Op.83,Theodor Michaelis
+305,100585,1,1,93,,,,,4,1004,,,,50,3,9,,song_tag_22,1,,,,,,Souvenir de Porto Rico,Louis Moreau Gottschalk
+306,100586,1,1,93,,,,,9,1009,,,,50,1,7,10,song_tag_5,3,,,,,,Minuetto,Francisco Tarrega
+307,100587,1,1,93,,,,,6,1006,,,,50,3,23,,song_tag_4,1,,,,,,Trumpet Concerto Mvt.3,Haydn
+308,100588,1,1,94,,,,,9,1009,,,,50,1,27,10,song_tag_26,3,,,,,,Arrival of the Queen of Sheba,Handel
+309,100589,1,1,94,,,,,8,1008,,1,,50,1,7,10,song_tag_5,3,,,,,,Waltz Op.70 No.1,Chopin
+310,100590,1,1,94,,,,,6,1006,,1,,50,3,7,,song_tag_5,1,,,,,,Polonaise Op.53,Chopin
+311,100598,1,1,95,,,,,4,1004,,,,50,3,9,,song_tag_22,1,,,,,,Piece in F Major K.33b,Mozart
+312,100599,1,1,95,,,,,5,1005,,,,50,1,14,,song_tag_5,1,,,,,,Rondo in D K.485,Mozart
+313,100600,1,1,95,,,,,7,1007,,,,50,3,7,,song_tag_5,2,,,,,,Menuet celebre Op.14 No.1,Ignacy Jan Paderewski
+314,100601,1,1,96,,,,,6,1006,,,,50,1,7,,song_tag_5,1,,,,,,Fairy Waltz,Carl Gottlieb Reissiger
+315,100602,1,1,96,,,,,8,1008,,,,50,1,2,10,song_tag_2,3,,,,,,Sonata WoO 47 No.3 Mvt.1,Beethoven
+316,100603,1,1,96,,,,,3,1003,,1,,50,1,5,,song_tag_21,1,,,,,,Nocturne in B Op.32 No.1,Chopin
+317,100604,1,1,97,,,,,5,1005,,,,50,3,12,,song_tag_2,1,,,,,,Sonatina in B flat Op.168 No.4,Diabelli
+318,100605,1,1,97,,,,,8,1008,,,,50,2,41,10,song_tag_9,2,,,,,,Two Caprices No.2,Leonard Butler
+319,100606,1,1,97,,,,,7,1007,,1,,50,3,36,,song_tag_8,2,,,,,,Fantaisies Op.16 No.1,Mendelssohn
+320,100607,1,1,98,,,,,5,1005,,,,50,3,6,,song_tag_4,1,,,,,,Colonel Bogey March,Kenneth Joseph Alford
+321,100608,1,1,98,,,,,8,1008,,1,,50,1,3,10,song_tag_6,3,,,,,,Etude Op.109 No.10,Friedrich Burgnlueller
+322,100609,1,1,98,,,,,5,1005,,,,50,1,7,,song_tag_5,1,,,,,,Pizzicato Polka Op.234,Johann Strauss II
+323,100610,1,1,99,,,,,5,1005,,,,50,1,9,,song_tag_6,1,,,,,,Old French Song Op.39 No.16,Tchaikovsky
+324,100611,1,1,99,,,,,7,1007,,1,,50,1,7,10,song_tag_5,2,,,,,,Valse Ballet,Erik Satie
+325,100612,1,1,99,,,,,7,1007,,1,,50,3,7,,song_tag_5,2,,,,,,Bella Riva Op.87 - Mazurka,Joseph Schiffmacher
+326,100625,1,1,100,,,,,4,1004,,,,50,1,9,,song_tag_22,1,,,,,,Pastoral,Reinhold Gliere
+327,100626,1,1,100,,,,,6,1006,,,,50,3,7,,song_tag_5,1,,,,,,Pepita Polka Op.138,Johann Strauss II
+328,100627,1,1,100,,,,,8,1008,,,,50,2,7,10,song_tag_5,2,,,,,,Gavotte1,Arcangelo Corelli
+329,100628,1,1,101,,,,,4,1004,,,,50,1,9,,song_tag_22,1,,,,,,Berceuse,Georges Delbruck
+330,100629,1,1,101,,,,,8,1008,,,,50,2,15,10,song_tag_2,2,,,,,,The Chrysanthemum,Scott Joplin
+331,100630,1,1,101,,,,,9,1009,,,,50,1,9,10,song_tag_22,3,,,,,,Hexentanz Op.17 No.2,Edward MacDowell
+332,100631,1,1,102,,,,,5,1005,,,,50,1,7,,song_tag_5,1,,,,,,Concerto Grosso Op.6 No.9 IV.Gavotte,Arcangelo Corelli
+333,100632,1,1,102,,,,,7,1007,,,,50,1,3,,song_tag_6,2,,,,,,L'enjouee Op.109 No.6,Friedrich Burgnlueller
+334,100633,1,1,102,,,,,9,1009,,,,50,2,29,10,song_tag_4,3,,,,,,Quartet in C Major WoO 36 No.3,Beethoven
+335,100651,1,1,103,,,,,8,1008,,,,50,1,9,,song_tag_22,2,,,,,,Auf dem Wasser zu singen,Franz Liszt
+336,100652,1,1,103,,,,,6,1006,,,,50,1,7,,song_tag_5,1,,,,,,Bink's Waltz,Scott Joplin
+337,100653,1,1,103,,,,,6,1006,,,,50,3,7,,song_tag_5,1,,,,,,Danse Russe Op.68 No.4,Moszkowski
+338,100654,1,1,104,,,,,4,1004,,,,50,3,4,,song_tag_3,1,,,,,,Chanson De Matin Op.15 No.2,Edward Elgar
+339,100655,1,1,104,,,,,5,1005,,,,50,3,4,,song_tag_3,1,,,,,,Battle Of Waterloo,Anderson Gilman
+340,100656,1,1,104,,,,,4,1004,,,,50,3,23,,song_tag_4,1,,,,,,Concerto Grosso Op.6 No.9 Allemanda,Arcangelo Corelli
+341,100657,1,1,105,,,,,4,1004,,,,50,3,2,,song_tag_3,1,,,,,,Sonate No.5 Mvt.1,Baldassare Galuppi
+342,100658,1,1,105,,,,,6,1006,,,,50,3,2,,song_tag_3,1,,,,,,Sonata No.13 D.664 Mvt.3,Schubert
+343,100659,1,1,105,,,,,7,1007,,,,50,1,9,,song_tag_22,2,,,,,,Allemande in A Major WoO 81,Beethoven
+344,100675,1,1,106,,,,,4,1004,,,,50,1,4,,song_tag_3,1,,,,,,My Heart At Thy Sweet Voice,Saint-Seans
+345,100676,1,1,106,,,,,8,1008,,,,50,1,9,,song_tag_22,2,,,,,,7 Landler WoO 11 No.7,Beethoven
+346,100677,1,1,106,,,,,5,1005,,,,50,3,7,,song_tag_5,1,,,,,,Slavonic Dances Op.46 No.7,Antonin Dvorak
+347,100678,1,1,107,,,,,5,1005,,,,50,3,9,,song_tag_22,1,,,,,,Morceau de Salon Op.55 No.2,Carl Bohm
+348,100679,1,1,107,,,,,8,1008,,,,50,1,9,,song_tag_22,2,,,,,,La Jongleuse Op.52 No.4,Moszkowski
+349,100680,1,1,107,,,,,7,1007,,,,50,1,9,,song_tag_22,2,,,,,,7 Landler WoO 11 No.2,Beethoven
+350,100691,1,1,108,,,,,7,1007,,,,50,3,,,,2,,,,,,Auf der Jagd Op.373,Johann Strauss II
+351,100692,1,1,108,,,,,6,1006,,,,50,1,,,,1,,,,,,7 Landler WoO 11 No.6,Beethoven
+352,100693,1,1,108,,,,,4,1004,,,,50,3,,,,1,,,,,,Beliebte Annen-Polka Op.137,Johann Strauss
+353,100694,1,1,109,,,,,6,1006,,,,50,3,,,,1,,,,,,The Music Box Op.32,Anatoly Lyadov
+354,100695,1,1,109,,,,,5,1005,,,,50,3,,,,1,,,,,,Chanson Boheme From Carmen,Moszkowski
+355,100696,1,1,109,,,,,8,1008,,,,50,1,,,,3,,,,,,Rondo in A Major WoO 49,Beethoven
+356,100718,1,1,110,,,,,5,1005,,,,50,,,,,1,,,,,,3 Polkas de salon Op.7 No.3,Bedrich Smetana
+357,100719,1,1,110,,,,,3,1003,,,,50,,,,,1,,,,,,Polka in D minor,Mikhail Glinka
+358,100720,1,1,110,,,,,7,1007,,,,50,,,,,2,,,,,,Sonatina in G Op.144,Grenville Dean Wilson
+359,100721,1,1,111,,,,,6,1006,,,,50,,,,,2,,,,,,Rakoczy March,Berlioz
+360,100722,1,1,111,,,,,8,1008,,,,50,,,,,3,,,,,,Sonata in C major KV 545-3,Mozart
+361,100723,1,1,111,,,,,7,1007,,,,50,,,,,2,,,,,,Schattentanz,G.Meyerbeer
+362,100724,1,1,112,,,,,7,1007,,,,50,,,,,2,,,,,,Cantate BWV 68-2,J.S. Bach
+363,100725,1,1,112,,,,,9,1009,,,,50,,,,,1,,,,,,Standchen von Shakespeare,Franz Liszt
+364,100726,1,1,112,,,,,10,1010,,,,50,,,,,3,,,,,,Rondo Brillante Op.62,Weber
+365,100727,1,1,113,,,,,8,1008,,,,50,,,,,1,,,,,,King Cotton,Sousa
+366,100728,1,1,113,,,,,5,1005,,,,50,,,,,1,,,,,,Ecossaise D.735,Schubert
+367,100729,1,1,113,,,,,2,1002,,,,50,,,,,1,,,,,,Sonata Op.1 No.3-2,Baldassare Galuppi
+368,100730,1,1,114,,,,,3,1003,,,,50,,,,,1,,,,,,Bagatelles Op.126 No.5,Beethoven
+369,100731,1,1,114,,,,,5,1005,,,,50,,,,,1,,,,,,Polka in A major JB157,Bedrich Smetana
+370,100732,1,1,114,,,,,5,1005,,,,50,,,,,1,,,,,,Concerto Grosso No.9 in F major,Arcangelo Corelli
+371,100733,1,1,115,,,,,4,1004,,,,50,,,,,1,,,,,,Harpsichord Sonata in A major,Baldassare Galuppi
+372,100734,1,1,115,,,,,6,1006,,,,50,,,,,1,,,,,,Galop D.735,Schubert
+373,100735,1,1,115,,,,,6,1006,,,,50,,,,,1,,,,,,Hungarian Dance No.3,Johannes Brahms
+374,100751,1,1,116,,,,,3,1003,,,,50,,,,,1,,,,,,Winter is not cold,Clack Chen
+375,100752,1,1,116,,,,,6,1006,,,,50,,,,,1,,,,,,Galuppi Sonata,Beethoven
+376,100753,1,1,116,,,,,3,1003,,,,50,,,,,1,,,,,,Bagatelles Op.119 No.4,Beethoven
+377,100754,1,1,117,,,,,7,1007,,,,50,,,,,2,,,,,,Lied ohne Worte Op.30 No.3,Mendelssohn
+378,100755,1,1,117,,,,,3,1003,,,,50,,,,,1,,,,,,Four Pieces Op.68 No.4,Moszkowski
+379,100756,1,1,117,,,,,9,1009,,,,50,,,,,3,,,,,,Bagatelles Op.33 II,Beethoven
+380,100768,1,1,118,,,,,3,1003,,,,50,,,,,1,,,,,,Romance Op.5,Tchaikovsky
+381,100769,1,1,118,,,,,7,1007,,,,50,,,,,1,,,,,,Ancient eighteenth century,Clack Chen
+382,100770,1,1,118,,,,,9,1009,,,,50,,,,,1,,,,,,Morceau de Salon Op.55 No.1,Carl Bohm
+383,100776,1,1,119,,,,,5,1005,,,,50,,,,,1,,,,,,Bagpipe Waltz,Giacomo Puccini
+384,100777,1,1,119,,,,,6,1006,,,,50,,,,,1,,,,,,Serenade num.1,R. Dellinger
+385,100778,1,1,119,,,,,7,1007,,,,50,,,,,2,,,,,,Bagatelles Op.33 IV,Beethoven
+386,100779,1,1,120,,,,,6,1006,,,,50,,,,,1,,,,,,Souvenir Op.4 No.3,Bedrich Smetana
+387,100780,1,1,120,,,,,6,1006,,,,50,,,,,1,,,,,,Rondo,Jacques Offenbach
+388,100781,1,1,120,,,,,8,1008,,,,50,,,,,3,,,,,,Bacon song,Johann Strauss II
+389,100785,1,1,121,,,,,5,1005,,,,50,,,,,1,,,,,,Bagatelles Op.33. III Allegretto,Beethoven 
+390,100786,1,1,121,,,,,1,1001,,,,50,,,,,2,,,,,,3 Poetic Polkas Op.8 No.1,Bedrich Smetana
+391,100787,1,1,121,,,,,1,1001,,,,50,,,,,3,,,,,,Andante in G minor. BWV 969,J.S.Bach
+9007,400007,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,Cold Love,张碧晨、杨宗纬
+9026,400026,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,Mundane World,《扶摇》插曲
+9003,400003,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,The Wind Rises,爆火网络神曲
+9030,400030,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,Answer,《答案》
+9031,400031,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,Then,刘若英
+9032,400032,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Golden Snake Dance,聂耳
+9033,400033,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Defend the Yellow River,冼星海
+9018,400018,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,Dignity,于文文
+9027,400027,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,Summer,久石让
+9028,400028,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,If Only,林俊杰
+9029,400029,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,Lake Baikal,李健
+9014,400014,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,Now It's Time,JC
+9019,400019,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,Little Luck,田馥甄
+9020,400020,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,A Liar Of Love,爆火网络神曲
+9021,400021,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,Havana,爆火网络神曲
+9022,400022,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,Romance De Amor,经典钢琴曲
+9023,400023,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,Flight of the Bumblebee,经典钢琴曲
+9006,400006,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,Get Rid Of Blues,毛不易
+9024,400024,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,Espana Cani,经典钢琴曲
+9001,400001,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,PLANET,爆火网络神曲
+9025,400025,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,Sonata Pathetique Mvt.3,经典钢琴曲
+9005,400005,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,PANAMA,爆火网络神曲
+9008,400008,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,That Girl,爆火网络神曲
+9015,400015,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Breakaway,金志文
+9016,400016,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Ten Years,陈奕迅
+9002,400002,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Half Moon Serenade,李克勤
+9009,400009,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Fleet of Time,王菲
+9010,400010,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,Fur Elise,经典钢琴曲
+9017,400017,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Fairy Tale,光良
+9011,400011,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,Melody of the Night No.5,经典钢琴曲
+9012,400012,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,Wedding March,经典钢琴曲
+9004,400004,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Take Me To Your Heart,张学友
+9013,400013,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,The Seasons Op.37,经典钢琴曲
+9034,400034,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,If You,BIGBANG
+9035,400035,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,When,《还珠格格》主题曲
+9036,400036,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,Tears,白日梦
+9037,400037,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,"Wind,leave",陈黑黑
+9038,400038,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,Maiden of the Buddha,冯提莫
+9039,400039,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,Exist,汪峰
+9040,400040,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,Star dreams,刘加澳
+9041,400041,19,13,1,,15,,,1,2002,,,,0,,,,,,,,,,,Serenade Op.19 No.2,舒伯特
+9055,400055,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,Bubbles,邓紫棋
+9056,400056,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,A Spray of Plum Blossoms,费玉清
+9048,400048,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Nessun Dorma,贾科莫·普契尼
+9044,400044,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,The Truth That You Leave,高至豪
+9057,400057,19,13,1,,60,,,1,2002,,,,0,,,,,,,,,,,Us and Them,后来的我们 五月天
+9058,400058,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,Butterfly Love,梁祝
+9059,400059,19,13,1,,24,,,1,2002,,,,0,,,,,,,,,,,Traceless Star,星无痕
+9060,400060,19,13,1,,50,,,1,2002,,,,0,,,,,,,,,,,Stay With Each Other,多远都要在一起
+9061,400061,19,13,1,,40,,,1,2002,,,,0,,,,,,,,,,,Butterfly,Butterfly
+9062,400062,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Christmas Rhapsody,侯湃改编
+9063,400063,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Jingle Bells Christmas Edition,魏琮霏改编
+9064,400064,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Forest Of Blocks,魏琮霏
+9065,400065,19,13,1,,25,,,1,2002,,,,0,,,,,,,,,,,Little Star Try,小星星试玩

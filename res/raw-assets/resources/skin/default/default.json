@@ -1,0 +1,132 @@
+{
+	"design":{"longBlockDotAnimaion":true},
+	"atlas":[
+		{"name":"bkg", "path":"bkg.png", "items":[
+			{"name": "bkgframe1", "rect": {"y": 487, "x": 3, "height": 480, "width": 270}},
+			{"name": "bkgframe3", "rect": {"y": 3, "x": 277, "height": 480, "width": 270}},
+			{"name": "bkgframe2", "rect": {"y": 3, "x": 3, "height": 480, "width": 270}}]
+		},
+		{"name":"block", "path":"block.png", "items":[
+			{"name": "tile_miss", "rect": {"y": 224, "x": 555, "height": 238, "width": 132}},
+			{"name": "long_light", "rect": {"y": 3, "x": 555, "height": 217, "width": 134}},
+			{"name": "finish_3", "rect": {"y": 735, "x": 141, "height": 240, "width": 134}},
+			{"name": "finish_2", "rect": {"y": 491, "x": 141, "height": 240, "width": 134}},
+			{"name": "finish_1", "rect": {"y": 247, "x": 141, "height": 240, "width": 134}},
+			{"name": "long_finish", "rect": {"y": 3, "x": 3, "height": 474, "width": 134}},
+			{"name": "long_tilelight", "rect": {"y": 3, "x": 417, "height": 237, "width": 134}},
+			{"name": "finish_4", "rect": {"y": 3, "x": 279, "height": 240, "width": 134}},
+			{"name": "long_dot", "rect": {"y": 870, "x": 3, "height": 30, "width": 30}},
+			{"name": "start_label", "rect": {"y": 809, "x": 3, "height": 57, "width": 114}},
+			{"name": "long_head", "rect": {"y": 481, "x": 3, "height": 324, "width": 134}},
+			{"name": "tile_black", "rect": {"y": 3, "x": 693, "height": 238, "width": 132}},
+			{"name": "tile_start", "rect": {"y": 244, "x": 417, "height": 238, "width": 132}},
+			{"name": "black", "rect": {"y": 3, "x": 141, "height": 240, "width": 134}}]
+		},
+		{"name":"uiElements", "path":"uiElements.png", "items":[
+			{"name": "home_disk_circle_png", "rect": {"y": 3, "x": 3, "height": 371, "width": 371}},
+			{"name": "home_star_unget_png", "rect": {"y": 199, "x": 448, "height": 74, "width": 61}},
+			{"name": "home_crown_unget_png", "rect": {"y": 101, "x": 378, "height": 94, "width": 79}},
+			{"name": "home_start_btn_press_png", "rect": {"y": 523, "x": 3, "height": 141, "width": 370}},
+			{"name": "home_crown_get_png", "rect": {"y": 3, "x": 378, "height": 94, "width": 79}},
+			{"name": "home_star_get_png", "rect": {"y": 199, "x": 378, "height": 79, "width": 66}},
+			{"name": "home_start_btn_png", "rect": {"y": 378, "x": 3, "height": 141, "width": 370}}]}
+		],
+
+	
+	"uiElementEffects":{
+		"GameEntranceScene":[
+			{"name":"parent", "children":[
+				
+				{"name":"entra_bottom_layout", "children":[
+					
+					{"name":"bottom_bg", "visible":false},
+					{"name":"home_group", "children":[
+						{"name":"home_page_btn", "imageData":"uiElements", "imageItem":["button_home_unpressde", "button_home_pressde", "button_home_pressde", "button_home_unpressde"]},
+						{"name":"home_page_label", "visible":false}
+					]},
+					{"name":"music_lib_group", "children":[
+						{"name":"music_library_btn", "imageData":"uiElements", "imageItem":["button_music_unpressed", "button_music_pressed", "button_music_pressed", "button_music_unpressed"]},
+						{"name":"music_library_page_label", "visible":false}
+					]},
+					{"name":"ranking_group", "children":[
+						{"name":"ranking_btn", "imageData":"uiElements", "imageItem":["button_achievement_unpressed", "button_achievement_pressed", "button_achievement_pressed", "button_achievement_unpressed"]},
+						{"name":"ranking_page_label", "visible":false}
+					]}
+				]}
+			]},
+			
+			{"name":"ExtraMiddleMainPagePrefb", "children":[
+					{"name":"bg_piano", "imageData":"uiElements", "imageItem":["home_disk_circle_png"], "children":[
+						{"name":"disk_icon_2", "visible":true},
+						{"name":"disk_icon_1", "visible":true}
+					]},
+					{"name":"music_name", "color":"#ffffff"},
+					{"name":"start_btn", "imageData":"uiElements", "imageItem":["home_start_btn_png", "home_start_btn_press_png", "home_start_btn_press_png"]},
+					{"name":"elementFrames", "children":[
+						{"name":"starFrames", "imageData":"uiElements", "imageItem":["home_star_unget_png", "home_star_get_png"]},
+						{"name":"crownFrames", "imageData":"uiElements", "imageItem":["home_crown_unget_png", "home_crown_get_png"]}
+					]},
+					{"name":"RankGroup", "children":[
+						{"name":"RnakGroupPrefb", "children":[
+							{"name":"rank_title_bg", "imageData":"uiElements", "imageItem":["rank_title_bg"], "children":[
+								{"name":"rank_title_label", "color":"#ffffff"}
+							]},
+							{"name":"rank_see_all_group", "children":[
+								{"name":"rank_see_all_label", "color":"#ffffff"}
+							]},
+							{"name":"invite_friend_layout", "children":[
+								{"name":"invite_friend_label", "color":"#ffffff"},
+								{"name":"pk_friend_label", "color":"#ffffff"}
+							]}
+						]}
+					]}
+			]}
+		]
+	},
+	
+	"blockImage":{
+		"imageData":"block"
+	},
+	"backgroundImage": {
+		"node":{
+			"type":"MUISprite", 
+			"name":"BackroundRoot", 
+			"imageData":"bkg",
+			"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"},
+			"children":[
+				{
+					"type":"MUISprite", 
+					"name":"BackroundReal",
+					"imageData":"bkg",
+					"imageItem":"bkgframe1",
+					"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"},
+					"children":[]
+				}
+			]
+		},
+		"switch":{
+			"actions":[
+				{
+					"type":"MSequence",
+					"params":[
+						{"type":"MPropValue", "params":{"prop":"imageItem", "value":"bkgframe1", "imageData":"bkg"}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MPropValue", "params":{"prop":"imageItem", "value":"bkgframe2", "imageData":"bkg"}}}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MPropValue", "params":{"prop":"opacity", "value":0}}}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MFadeTo", "params":{"opacity":1, "duration":1}}}},
+						{"type":"MPropValue", "params":{"prop":"imageItem", "value":"null"}}
+					]
+				},
+				{
+					"type":"MSequence",
+					"params":[
+						{"type":"MPropValue", "params":{"prop":"imageItem", "value":"bkgframe2", "imageData":"bkg"}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MPropValue", "params":{"prop":"imageItem", "value":"bkgframe3", "imageData":"bkg"}}}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MPropValue", "params":{"prop":"opacity", "value":0}}}},
+						{"type":"MChildAction", "params":{"child":"BackroundReal", "action":{"type":"MFadeTo", "params":{"opacity":1, "duration":1}}}},
+						{"type":"MPropValue", "params":{"prop":"imageItem", "value":"null"}}
+					]
+				}
+			]
+		}
+	}
+}

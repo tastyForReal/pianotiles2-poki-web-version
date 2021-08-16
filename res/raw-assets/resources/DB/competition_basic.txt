@@ -1,0 +1,3 @@
+Id,NeedLv,ShareRaise,ChallengeTimes,SpendType,SpendEnergy,SpendGold,SpendDiamond
+标识,所需等级,分享可获取的挑战次数,挑战次数,挑战花费的资源类型 3=体力， 4=金币，5=钻石,挑战需要花费的体力（用;进行分割）,挑战需要花费的金币（用;进行分割）,挑战需要花费的钻石（用;进行分割）
+1,3,3,3,4,,50;100;150;150;150;150,

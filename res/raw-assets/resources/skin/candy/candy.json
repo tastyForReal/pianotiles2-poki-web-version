@@ -1,0 +1,1495 @@
+{
+    "atlas": [
+        {
+            "items": [
+                {
+                    "name": "bkgframe1", 
+                    "rect": {
+                        "height": 1559, 
+                        "width": 720, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "name": "bkg", 
+            "path": "bkg.png"
+        }, 
+        {
+            "items": [
+                {
+                    "name": "bkgframe2", 
+                    "rect": {
+                        "height": 1559, 
+                        "width": 720, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "name": "bkg2", 
+            "path": "bkg2.png"
+        }, 
+        {
+            "items": [
+                {
+                    "name": "bkgframe3", 
+                    "rect": {
+                        "height": 1559, 
+                        "width": 720, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "name": "bkg3", 
+            "path": "bkg3.jpg"
+        }, 
+        {
+            "items": [
+                {
+                    "name": "bkgframe4", 
+                    "rect": {
+                        "height": 1559, 
+                        "width": 720, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "name": "bkg4", 
+            "path": "bkg4.jpg"
+        }, 
+        {
+            "items": [
+                {
+                    "name": "bkgframe5", 
+                    "rect": {
+                        "height": 1559, 
+                        "width": 720, 
+                        "x": 0, 
+                        "y": 0
+                    }
+                }
+            ], 
+            "name": "bkg5", 
+            "path": "bkg5.png"
+        }, 
+        {
+            "items": [
+                {
+                    "name": "button_start_pressed", 
+                    "rect": {
+                        "height": 99, 
+                        "width": 374, 
+                        "x": 492, 
+                        "y": 188
+                    }
+                }, 
+                {
+                    "name": "button_achievement_unpressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 736, 
+                        "y": 379
+                    }
+                }, 
+                {
+                    "name": "button_home_unpressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 736, 
+                        "y": 576
+                    }
+                }, 
+                {
+                    "name": "button_home_pressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 492, 
+                        "y": 488
+                    }
+                }, 
+                {
+                    "name": "home_star_unget", 
+                    "rect": {
+                        "height": 94, 
+                        "width": 79, 
+                        "x": 247, 
+                        "y": 773
+                    }
+                }, 
+                {
+                    "name": "bg_disc", 
+                    "rect": {
+                        "height": 485, 
+                        "width": 485, 
+                        "x": 3, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "button_music_pressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 3, 
+                        "y": 773
+                    }
+                }, 
+                {
+                    "name": "button_music_unpressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 247, 
+                        "y": 492
+                    }
+                }, 
+                {
+                    "name": "home_crown_unget", 
+                    "rect": {
+                        "height": 94, 
+                        "width": 79, 
+                        "x": 870, 
+                        "y": 183
+                    }
+                }, 
+                {
+                    "name": "button_achievement_pressed", 
+                    "rect": {
+                        "height": 193, 
+                        "width": 240, 
+                        "x": 492, 
+                        "y": 291
+                    }
+                }, 
+                {
+                    "name": "rank_title_bg", 
+                    "rect": {
+                        "height": 78, 
+                        "width": 480, 
+                        "x": 492, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "home_crown_get", 
+                    "rect": {
+                        "height": 94, 
+                        "width": 79, 
+                        "x": 870, 
+                        "y": 85
+                    }
+                }, 
+                {
+                    "name": "home_star_get", 
+                    "rect": {
+                        "height": 94, 
+                        "width": 79, 
+                        "x": 870, 
+                        "y": 281
+                    }
+                }, 
+                {
+                    "name": "button_start_normal", 
+                    "rect": {
+                        "height": 99, 
+                        "width": 374, 
+                        "x": 492, 
+                        "y": 85
+                    }
+                }
+            ], 
+            "name": "uielements", 
+            "path": "uielements.png"
+        }, 
+        {
+            "items": [
+                {
+                    "name": "tile_miss", 
+                    "rect": {
+                        "height": 240, 
+                        "width": 134, 
+                        "x": 555, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "long_light", 
+                    "rect": {
+                        "height": 217, 
+                        "width": 134, 
+                        "x": 417, 
+                        "y": 247
+                    }
+                }, 
+                {
+                    "name": "finish_3", 
+                    "rect": {
+                        "height": 240, 
+                        "width": 134, 
+                        "x": 141, 
+                        "y": 247
+                    }
+                }, 
+                {
+                    "name": "finish_2", 
+                    "rect": {
+                        "height": 240, 
+                        "width": 134, 
+                        "x": 141, 
+                        "y": 247
+                    }
+                }, 
+                {
+                    "name": "finish_1", 
+                    "rect": {
+                        "height": 240, 
+                        "width": 134, 
+                        "x": 141, 
+                        "y": 247
+                    }
+                }, 
+                {
+                    "name": "long_finish", 
+                    "rect": {
+                        "height": 474, 
+                        "width": 134, 
+                        "x": 3, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "long_tilelight", 
+                    "rect": {
+                        "height": 217, 
+                        "width": 134, 
+                        "x": 555, 
+                        "y": 247
+                    }
+                }, 
+                {
+                    "name": "finish_4", 
+                    "rect": {
+                        "height": 240, 
+                        "width": 134, 
+                        "x": 141, 
+                        "y": 247
+                    }
+                }, 
+                {
+                    "name": "long_dot", 
+                    "rect": {
+                        "height": 30, 
+                        "width": 30, 
+                        "x": 3, 
+                        "y": 542
+                    }
+                }, 
+                {
+                    "name": "start_label", 
+                    "rect": {
+                        "height": 57, 
+                        "width": 114, 
+                        "x": 3, 
+                        "y": 481
+                    }
+                }, 
+                {
+                    "name": "long_head", 
+                    "rect": {
+                        "height": 240, 
+                        "width": 134, 
+                        "x": 279, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "tile_black", 
+                    "rect": {
+                        "height": 240, 
+                        "width": 134, 
+                        "x": 417, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "tile_start", 
+                    "rect": {
+                        "height": 240, 
+                        "width": 134, 
+                        "x": 279, 
+                        "y": 247
+                    }
+                }, 
+                {
+                    "name": "black", 
+                    "rect": {
+                        "height": 240, 
+                        "width": 134, 
+                        "x": 141, 
+                        "y": 3
+                    },
+                    "scale9Grid":{"x": 0,"y": 160, "width": 0,"height": 0}
+                }
+            ], 
+            "name": "block", 
+            "path": "block.png"
+        }, 
+        {
+            "items": [
+                {
+                    "name": "dianjxg_00024", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 745, 
+                        "y": 777
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00020", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 1, 
+                        "y": 777
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00021", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 187, 
+                        "y": 777
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00023", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 559, 
+                        "y": 777
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00028", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 559, 
+                        "y": 971
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00029", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 745, 
+                        "y": 971
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00000", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 1, 
+                        "y": 1
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00006", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 187, 
+                        "y": 195
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00007", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 373, 
+                        "y": 195
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00005", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 1, 
+                        "y": 195
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00032", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 373, 
+                        "y": 1165
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00026", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 187, 
+                        "y": 971
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00030", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 1, 
+                        "y": 1165
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00022", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 373, 
+                        "y": 777
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00018", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 559, 
+                        "y": 583
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00002", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 373, 
+                        "y": 1
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00010", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 1, 
+                        "y": 389
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00012", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 373, 
+                        "y": 389
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00004", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 745, 
+                        "y": 1
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00033", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 559, 
+                        "y": 1165
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00019", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 745, 
+                        "y": 583
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00013", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 559, 
+                        "y": 389
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00015", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 1, 
+                        "y": 583
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00014", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 745, 
+                        "y": 389
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00016", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 187, 
+                        "y": 583
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00025", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 1, 
+                        "y": 971
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00031", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 187, 
+                        "y": 1165
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00027", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 373, 
+                        "y": 971
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00008", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 559, 
+                        "y": 195
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00009", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 745, 
+                        "y": 195
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00011", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 187, 
+                        "y": 389
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00003", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 559, 
+                        "y": 1
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00001", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 187, 
+                        "y": 1
+                    }
+                }, 
+                {
+                    "name": "dianjxg_00017", 
+                    "rect": {
+                        "height": 192, 
+                        "width": 184, 
+                        "x": 373, 
+                        "y": 583
+                    }
+                }
+            ], 
+            "name": "blockeffect", 
+            "path": "blockeffect.png"
+        }, 
+        {
+            "items": [
+                {
+                    "name": "xh_00012", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 883, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "xh_00002", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 3, 
+                        "y": 779
+                    }
+                }, 
+                {
+                    "name": "xh_00003", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 3, 
+                        "y": 1167
+                    }
+                }, 
+                {
+                    "name": "xh_00000", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 3, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "xh_00027", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1323, 
+                        "y": 391
+                    }
+                }, 
+                {
+                    "name": "xh_00033", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1103, 
+                        "y": 779
+                    }
+                }, 
+                {
+                    "name": "xh_00031", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 883, 
+                        "y": 1167
+                    }
+                }, 
+                {
+                    "name": "xh_00009", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 223, 
+                        "y": 1555
+                    }
+                }, 
+                {
+                    "name": "xh_00028", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1543, 
+                        "y": 391
+                    }
+                }, 
+                {
+                    "name": "xh_00011", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 663, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "xh_00010", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 443, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "xh_00013", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1103, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "xh_00022", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 663, 
+                        "y": 779
+                    }
+                }, 
+                {
+                    "name": "xh_00001", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 3, 
+                        "y": 391
+                    }
+                }, 
+                {
+                    "name": "xh_00019", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 443, 
+                        "y": 1167
+                    }
+                }, 
+                {
+                    "name": "xh_00018", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 443, 
+                        "y": 779
+                    }
+                }, 
+                {
+                    "name": "xh_00035", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1103, 
+                        "y": 1555
+                    }
+                }, 
+                {
+                    "name": "xh_00023", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 663, 
+                        "y": 1167
+                    }
+                }, 
+                {
+                    "name": "xh_00032", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 883, 
+                        "y": 1555
+                    }
+                }, 
+                {
+                    "name": "xh_00038", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1763, 
+                        "y": 779
+                    }
+                }, 
+                {
+                    "name": "xh_00037", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1543, 
+                        "y": 779
+                    }
+                }, 
+                {
+                    "name": "xh_00005", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 223, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "xh_00015", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1543, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "xh_00014", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1323, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "xh_00017", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 443, 
+                        "y": 391
+                    }
+                }, 
+                {
+                    "name": "xh_00036", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1323, 
+                        "y": 779
+                    }
+                }, 
+                {
+                    "name": "xh_00034", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1103, 
+                        "y": 1167
+                    }
+                }, 
+                {
+                    "name": "xh_00020", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 443, 
+                        "y": 1555
+                    }
+                }, 
+                {
+                    "name": "xh_00008", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 223, 
+                        "y": 1167
+                    }
+                }, 
+                {
+                    "name": "xh_00030", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 883, 
+                        "y": 779
+                    }
+                }, 
+                {
+                    "name": "xh_00006", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 223, 
+                        "y": 391
+                    }
+                }, 
+                {
+                    "name": "xh_00007", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 223, 
+                        "y": 779
+                    }
+                }, 
+                {
+                    "name": "xh_00004", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 3, 
+                        "y": 1555
+                    }
+                }, 
+                {
+                    "name": "xh_00016", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1763, 
+                        "y": 3
+                    }
+                }, 
+                {
+                    "name": "xh_00024", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 663, 
+                        "y": 1555
+                    }
+                }, 
+                {
+                    "name": "xh_00025", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 883, 
+                        "y": 391
+                    }
+                }, 
+                {
+                    "name": "xh_00026", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1103, 
+                        "y": 391
+                    }
+                }, 
+                {
+                    "name": "xh_00021", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 663, 
+                        "y": 391
+                    }
+                }, 
+                {
+                    "name": "xh_00029", 
+                    "rect": {
+                        "height": 384, 
+                        "width": 216, 
+                        "x": 1763, 
+                        "y": 391
+                    }
+                }
+            ], 
+            "name": "bkgeffect", 
+            "path": "bkgeffect.png"
+        }
+    ], 
+    "backgroundEffects": {
+        "GameoverUpdate": [
+            {
+				"node":{
+					"type":"MUINode",
+					"name":"HomeBackgroundEffectRoot", 
+					"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"},
+					"children":[
+						{"type":"MUISprite", "name":"BackgroundImage", "imageData":"bkg5", "imageItem":"bkgframe5", "rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"}}
+					]
+				},
+				
+				"action":{
+					
+				}
+			}
+        ], 
+        "game": [
+            {
+                "actions": [
+                    {
+                        "params": {
+                            "duration": 2, 
+                            "frameCount": 39
+                        }, 
+                        "type": "MFrameSequence"
+                    }
+                ], 
+                "node": {
+                    "children": [], 
+                    "frameSequence": [
+                        "xh_00000", 
+                        "xh_00001", 
+                        "xh_00002", 
+                        "xh_00003", 
+                        "xh_00004", 
+                        "xh_00005", 
+                        "xh_00006", 
+                        "xh_00007", 
+                        "xh_00008", 
+                        "xh_00009", 
+                        "xh_00010", 
+                        "xh_00011", 
+                        "xh_00012", 
+                        "xh_00013", 
+                        "xh_00014", 
+                        "xh_00015", 
+                        "xh_00016", 
+                        "xh_00017", 
+                        "xh_00018", 
+                        "xh_00019", 
+                        "xh_00020", 
+                        "xh_00021", 
+                        "xh_00022", 
+                        "xh_00023", 
+                        "xh_00024", 
+                        "xh_00025", 
+                        "xh_00026", 
+                        "xh_00027", 
+                        "xh_00028", 
+                        "xh_00029", 
+                        "xh_00030", 
+                        "xh_00031", 
+                        "xh_00032", 
+                        "xh_00033", 
+                        "xh_00034", 
+                        "xh_00035", 
+                        "xh_00036", 
+                        "xh_00037", 
+                        "xh_00038"
+                    ], 
+                    "imageData": "bkgeffect", 
+                    "imageItem": "xh_00000", 
+                    "name": "GameBackgroundEffectRoot", 
+                    "rect": {
+                        "height": "scene.height", 
+                        "width": "scene.width", 
+                        "x": "0", 
+                        "y": "0"
+                    }, 
+                    "type": "MUISprite"
+                }
+            }
+        ], 
+        "home": [
+            {
+                "action": {}, 
+                "node": {
+                    "children": [
+                        {
+                            "imageData": "bkg", 
+                            "imageItem": "bkgframe1", 
+                            "name": "BackgroundImage", 
+                            "rect": {
+                                "height": "adapter.height", 
+                                "width": "adapter.width", 
+                                "x": "adapter.x", 
+                                "y": "adapter.y"
+                            }, 
+                            "type": "MUISprite"
+                        }
+                    ], 
+                    "name": "HomeBackgroundEffectRoot", 
+                    "rect": {
+                        "height": "scene.height", 
+                        "width": "scene.width", 
+                        "x": 0, 
+                        "y": 0
+                    }, 
+                    "type": "MUINode"
+                }
+            }
+        ]
+    }, 
+    "backgroundImage": {
+        "node": {
+            "children": [
+                {
+                    "children": [], 
+                    "imageData": "bkg2", 
+                    "name": "BackroundReal", 
+                    "rect": {
+                        "height": "adapter.height", 
+                        "width": "adapter.width", 
+                        "x": 0, 
+                        "y": 0
+                    }, 
+                    "type": "MUISprite"
+                }
+            ], 
+            "imageData": "bkg2", 
+            "imageItem": "bkgframe2", 
+            "name": "BackroundRoot", 
+            "rect": {
+                "height": "adapter.height", 
+                "width": "adapter.width", 
+                "x": "adapter.x", 
+                "y": "adapter.y"
+            }, 
+            "type": "MUISprite"
+        }, 
+        "switch": {
+            "actions": [
+                {
+                    "params": [
+                        {
+                            "params": {
+                                "imageData": "bkg2", 
+                                "imageItem": "bkgframe2"
+                            }, 
+                            "type": "MSetProperty"
+                        }, 
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "imageData": "bkg3", 
+                                        "imageItem": "bkgframe3", 
+                                        "opacity": 0
+                                    }, 
+                                    "type": "MSetProperty"
+                                }, 
+                                "child": "BackroundReal"
+                            }, 
+                            "type": "MChildAction"
+                        }, 
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "duration": 1, 
+                                        "opacity": 1
+                                    }, 
+                                    "type": "MFadeTo"
+                                }, 
+                                "child": "BackroundReal"
+                            }, 
+                            "type": "MChildAction"
+                        }, 
+                        {
+                            "params": {
+                                "imageItem": "null"
+                            }, 
+                            "type": "MSetProperty"
+                        }
+                    ], 
+                    "type": "MSequence"
+                }, 
+                {
+                    "params": [
+                        {
+                            "params": {
+                                "imageData": "bkg3", 
+                                "imageItem": "bkgframe3"
+                            }, 
+                            "type": "MSetProperty"
+                        }, 
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "imageData": "bkg4", 
+                                        "imageItem": "bkgframe4", 
+                                        "opacity": 0
+                                    }, 
+                                    "type": "MSetProperty"
+                                }, 
+                                "child": "BackroundReal"
+                            }, 
+                            "type": "MChildAction"
+                        }, 
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "duration": 1, 
+                                        "opacity": 1
+                                    }, 
+                                    "type": "MFadeTo"
+                                }, 
+                                "child": "BackroundReal"
+                            }, 
+                            "type": "MChildAction"
+                        }, 
+                        {
+                            "params": {
+                                "imageItem": "null"
+                            }, 
+                            "type": "MSetProperty"
+                        }
+                    ], 
+                    "type": "MSequence"
+                }
+            ]
+        }
+    }, 
+    "blockEffect": [
+        {
+            "action": {
+                "params": {
+                    "duration": 1, 
+                    "frameCount": 34
+                }, 
+                "type": "MFrameSequence"
+            }, 
+            "node": {
+                "children": [], 
+                "frameSequence": [
+                    "dianjxg_00000", 
+                    "dianjxg_00001", 
+                    "dianjxg_00002", 
+                    "dianjxg_00003", 
+                    "dianjxg_00004", 
+                    "dianjxg_00005", 
+                    "dianjxg_00006", 
+                    "dianjxg_00007", 
+                    "dianjxg_00008", 
+                    "dianjxg_00009", 
+                    "dianjxg_00010", 
+                    "dianjxg_00011", 
+                    "dianjxg_00012", 
+                    "dianjxg_00013", 
+                    "dianjxg_00014", 
+                    "dianjxg_00015", 
+                    "dianjxg_00016", 
+                    "dianjxg_00017", 
+                    "dianjxg_00018", 
+                    "dianjxg_00019", 
+                    "dianjxg_00020", 
+                    "dianjxg_00021", 
+                    "dianjxg_00022", 
+                    "dianjxg_00023", 
+                    "dianjxg_00024", 
+                    "dianjxg_00025", 
+                    "dianjxg_00026", 
+                    "dianjxg_00027", 
+                    "dianjxg_00028", 
+                    "dianjxg_00029", 
+                    "dianjxg_00030", 
+                    "dianjxg_00031", 
+                    "dianjxg_00032", 
+                    "dianjxg_00033"
+                ], 
+                "imageData": "blockeffect", 
+                "imageItem": "dianjxg_00000", 
+                "name": "BlockEffectRoot", 
+                "rect":{"x":-22, "y":600, "width":734, "height":769}, 
+                "type": "MUISprite"
+            }
+        }
+    ], 
+    "blockImage": {
+        "imageData": "block"
+    }, 
+    "design": {
+	"longBlockBounceEffectByDistance":320,
+	"longBlockChangeLength":true,
+        "height": 1559, 
+        "vertical": {
+            "default": "center", 
+            "s1": 87, 
+            "s2": 35, 
+            "s3": 0
+        }, 
+        "width": 720
+    }, 
+    "uiElementEffects": {
+        "GameEntranceScene": [
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "bottom_bg", 
+                                "visible": false
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "imageData": "uielements", 
+                                        "imageItem": [
+                                            "button_home_unpressed", 
+                                            "button_home_pressed", 
+                                            "button_home_pressed", 
+                                            "button_home_unpressed"
+                                        ], 
+                                        "name": "home_page_btn"
+                                    }, 
+                                    {
+                                        "name": "home_page_label", 
+                                        "visible": false
+                                    }
+                                ], 
+                                "name": "home_group"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "imageData": "uielements", 
+                                        "imageItem": [
+                                            "button_music_unpressed", 
+                                            "button_music_pressed", 
+                                            "button_music_pressed", 
+                                            "button_music_unpressed"
+                                        ], 
+                                        "name": "music_library_btn"
+                                    }, 
+                                    {
+                                        "name": "music_library_page_label", 
+                                        "visible": false
+                                    }
+                                ], 
+                                "name": "music_lib_group"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "imageData": "uielements", 
+                                        "imageItem": [
+                                            "button_achievement_unpressed", 
+                                            "button_achievement_pressed", 
+                                            "button_achievement_pressed", 
+                                            "button_achievement_unpressed"
+                                        ], 
+                                        "name": "ranking_btn"
+                                    }, 
+                                    {
+                                        "name": "ranking_page_label", 
+                                        "visible": false
+                                    }
+                                ], 
+                                "name": "ranking_group"
+                            }
+                        ], 
+                        "name": "entra_bottom_layout"
+                    }
+                ], 
+                "name": "parent"
+            }, 
+            {
+                "children": [
+                    { 
+                        "children":[
+						    {"name":"disk_icon_2", "visible":false},
+						    {"name":"disk_icon_1", "visible":false}
+					    ],
+                        "imageData": "uielements", 
+                        "imageItem": [
+                            "bg_disc"
+                        ], 
+                        "name": "bg_piano"
+                    }, 
+                    {
+                        "color": "#ff8d77", 
+                        "name": "music_name"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "name": "Label", 
+                                "visible": false
+                            }
+                        ], 
+                        "imageData": "uielements", 
+                        "imageItem": [
+                            "button_start_normal", 
+                            "button_start_pressed", 
+                            "button_start_pressed"
+                        ], 
+                        "name": "start_btn"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "imageData": "uielements", 
+                                "imageItem": [
+                                    "home_star_unget", 
+                                    "home_star_get"
+                                ], 
+                                "name": "starFrames"
+                            }, 
+                            {
+                                "imageData": "uielements", 
+                                "imageItem": [
+                                    "home_crown_unget", 
+                                    "home_crown_get"
+                                ], 
+                                "name": "crownFrames"
+                            }
+                        ], 
+                        "name": "elementFrames"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "color": "#ffffff", 
+                                                "name": "rank_title_label"
+                                            }
+                                        ], 
+                                        "imageData": "uielements", 
+                                        "imageItem": [
+                                            "rank_title_bg"
+                                        ], 
+                                        "name": "rank_title_bg"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "color": "#ffffff", 
+                                                "name": "rank_see_all_label"
+                                            }
+                                        ], 
+                                        "name": "rank_see_all_group"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "color": "#ffffff", 
+                                                "name": "invite_friend_label"
+                                            }, 
+                                            {
+                                                "color": "#ffffff", 
+                                                "name": "pk_friend_label"
+                                            }
+                                        ], 
+                                        "name": "invite_friend_layout"
+                                    }
+                                ], 
+                                "name": "RnakGroupPrefb"
+                            }
+                        ], 
+                        "name": "RankGroup"
+                    }
+                ], 
+                "name": "ExtraMiddleMainPagePrefb"
+            }
+        ]
+    }
+}

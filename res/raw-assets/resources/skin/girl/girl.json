@@ -1,0 +1,433 @@
+{
+	"design":{"width":720, "height":1559, "vertical":{"s1":87, "s2":35, "s3":0, "default":"center"}},
+	"atlas":[
+		{"name":"bkg", "path":"bkg.jpg", "items":[
+			{"name":"bkgframe1", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkg2", "path":"bkg2.png", "items":[
+			{"name":"bkgframe2", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkg3", "path":"bkg3.png", "items":[
+			{"name":"bkgframe3", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkg4", "path":"bkg4.png", "items":[
+			{"name":"bkgframe4", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkg5", "path":"bkg5.png", "items":[
+			{"name":"bkgframe5", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkgeffect", "path":"bkgeffect.png", "items":[
+			{"name": "element (3)", "rect": {"y": 3, "x": 3, "height": 94, "width": 91}},
+			{"name": "element (1)", "rect": {"y": 101, "x": 3, "height": 90, "width": 90}},
+			{"name": "element (7)", "rect": {"y": 195, "x": 81, "height": 32, "width": 32}},
+			{"name": "element (5)", "rect": {"y": 195, "x": 3, "height": 58, "width": 74}}
+		]},
+		{"name":"blockeffect", "path":"blockeffect.png", "items":[
+			{
+				"name": "dianjxgx_0001", 
+				"rect": {
+					"height": 380, 
+					"width": 430, 
+					"x": 3, 
+					"y": 3
+				}
+			}, 
+			{
+				"name": "dianjxgx_0002", 
+				"rect": {
+					"height": 380, 
+					"width": 430, 
+					"x": 437, 
+					"y": 3
+				}
+			}, 
+			{
+				"name": "dianjxgx_0003", 
+				"rect": {
+					"height": 380, 
+					"width": 430, 
+					"x": 871, 
+					"y": 3
+				}
+			}, 
+			{
+				"name": "dianjxgx_0004", 
+				"rect": {
+					"height": 380, 
+					"width": 430, 
+					"x": 1305, 
+					"y": 3
+				}
+			}, 
+			{
+				"name": "dianjxgx_0005", 
+				"rect": {
+					"height": 380, 
+					"width": 430, 
+					"x": 3, 
+					"y": 387
+				}
+			}, 
+			{
+				"name": "dianjxgx_0006", 
+				"rect": {
+					"height": 380, 
+					"width": 430, 
+					"x": 437, 
+					"y": 387
+				}
+			}, 
+			{
+				"name": "dianjxgx_0007", 
+				"rect": {
+					"height": 380, 
+					"width": 430, 
+					"x": 871, 
+					"y": 387
+				}
+			}, 
+			{
+				"name": "dianjxgx_0008", 
+				"rect": {
+					"height": 380, 
+					"width": 430, 
+					"x": 1305, 
+					"y": 387
+				}
+			}, 
+			{
+				"name": "dianjxgx_0009", 
+				"rect": {
+					"height": 380, 
+					"width": 430, 
+					"x": 3, 
+					"y": 771
+				}
+			}, 
+			{
+				"name": "dianjxgx_0011", 
+				"rect": {
+					"height": 380, 
+					"width": 430, 
+					"x": 871, 
+					"y": 771
+				}
+			}, 
+			{
+				"name": "dianjxgx_0010", 
+				"rect": {
+					"height": 380, 
+					"width": 430, 
+					"x": 437, 
+					"y": 771
+				}
+			}
+		]},
+		
+		{"name":"block", "path":"block.png", "items":[
+			{"name": "tile_miss", "rect": {"y": 247, "x": 417, "height": 240, "width": 134}},
+			{"name": "long_light", "rect": {"y": 247, "x": 555, "height": 217, "width": 134}},
+			{"name": "finish_3", "rect": {"y": 3, "x": 417, "height": 240, "width": 134}},
+			{"name": "finish_2", "rect": {"y": 3, "x": 279, "height": 240, "width": 134}},
+			{"name": "finish_1", "rect": {"y": 325, "x": 141, "height": 240, "width": 134}},
+			{"name": "long_finish", "rect": {"y": 3, "x": 3, "height": 474, "width": 134}},
+			{"name": "long_tilelight", "rect": {"y": 247, "x": 279, "height": 240, "width": 134}},
+			{"name": "finish_4", "rect": {"y": 3, "x": 555, "height": 240, "width": 134}},
+			{"name": "long_dot", "rect": {"y": 624, "x": 141, "height": 30, "width": 30}},
+			{"name": "start_label", "rect": {"y": 569, "x": 141, "height": 51, "width": 98}},
+			{"name": "long_head", "rect": {"y": 3, "x": 141, "height": 318, "width": 134}},
+			{"name": "tile_black", "rect": {"y": 491, "x": 279, "height": 240, "width": 134}},
+			{"name": "tile_start", "rect": {"y": 491, "x": 417, "height": 240, "width": 134}},
+			{"name": "black", "rect": {"y": 481, "x": 3, "height": 240, "width": 134}}
+		]},
+		{"name":"uielements", "path":"uielements.png", "items":[
+			{"name": "button_start_pressed", "rect": {"y": 106, "x": 545, "height": 99, "width": 374}},
+			{"name": "button_achievement_unpressed", "rect": {"y": 406, "x": 545, "height": 193, "width": 240}},
+			{"name": "button_home_unpressed", "rect": {"y": 824, "x": 3, "height": 193, "width": 240}},
+			{"name": "button_home_pressed", "rect": {"y": 627, "x": 3, "height": 193, "width": 240}},
+			{"name": "home_star_unget", "rect": {"y": 209, "x": 789, "height": 94, "width": 79}},
+			{"name": "bg_disc", "rect": {"y": 3, "x": 3, "height": 538, "width": 538}},
+			{"name": "button_music_pressed", "rect": {"y": 627, "x": 247, "height": 193, "width": 240}},
+			{"name": "button_music_unpressed", "rect": {"y": 824, "x": 247, "height": 193, "width": 240}},
+			{"name": "home_crown_unget", "rect": {"y": 101, "x": 923, "height": 94, "width": 79}},
+			{"name": "button_achievement_pressed", "rect": {"y": 209, "x": 545, "height": 193, "width": 240}},
+			{"name": "rank_title_bg", "rect": {"y": 545, "x": 3, "height": 78, "width": 480}},
+			{"name": "home_crown_get", "rect": {"y": 3, "x": 923, "height": 94, "width": 79}},
+			{"name": "home_star_get", "rect": {"y": 199, "x": 923, "height": 94, "width": 79}},
+			{"name": "button_start_normal", "rect": {"y": 3, "x": 545, "height": 99, "width": 374}}
+		]}
+	],
+
+	
+	"uiElementEffects":{
+		"GameEntranceScene":[
+			{"name":"parent", "children":[
+				
+				{"name":"entra_bottom_layout", "children":[
+					
+					{"name":"bottom_bg", "visible":false},
+					{"name":"home_group", "children":[
+						{"name":"home_page_btn", "imageData":"uielements", "imageItem":["button_home_unpressed", "button_home_pressed", "button_home_pressed", "button_home_unpressed"]},
+						{"name":"home_page_label", "visible":false}
+					]},
+					{"name":"music_lib_group", "children":[
+						{"name":"music_library_btn", "imageData":"uielements", "imageItem":["button_music_unpressed", "button_music_pressed", "button_music_pressed", "button_music_unpressed"]},
+						{"name":"music_library_page_label", "visible":false}
+					]},
+					{"name":"ranking_group", "children":[
+						{"name":"ranking_btn", "imageData":"uielements", "imageItem":["button_achievement_unpressed", "button_achievement_pressed", "button_achievement_pressed", "button_achievement_unpressed"]},
+						{"name":"ranking_page_label", "visible":false}
+					]}
+				]}
+			]},
+			
+			{"name":"ExtraMiddleMainPagePrefb", "children":[
+					{"name":"bg_piano", "imageData":"uielements", "imageItem":["bg_disc"], "children":[
+						{"name":"disk_icon_2", "visible":false},
+						{"name":"disk_icon_1", "visible":false}
+					]},
+					{"name":"music_name", "color":"#ec5482"},
+					{"name":"start_btn", "imageData":"uielements", "imageItem":["button_start_normal", "button_start_pressed", "button_start_pressed"], "children":[
+						{"name":"Label", "visible":false}
+					]},
+					{"name":"elementFrames", "children":[
+						{"name":"starFrames", "imageData":"uielements", "imageItem":["home_star_unget", "home_star_get"]},
+						{"name":"crownFrames", "imageData":"uielements", "imageItem":["home_crown_unget", "home_crown_get"]}
+					]},
+					{"name":"RankGroup", "children":[
+						{"name":"RnakGroupPrefb", "children":[
+							{"name":"rank_title_bg", "imageData":"uielements", "imageItem":["rank_title_bg"], "children":[
+								{"name":"rank_title_label", "color":"#ffffff"}
+							]},
+							{"name":"rank_see_all_group", "children":[
+								{"name":"rank_see_all_label", "color":"#ffffff"}
+							]},
+							{"name":"invite_friend_layout", "children":[
+								{"name":"invite_friend_label", "color":"#ffffff"},
+								{"name":"pk_friend_label", "color":"#ffffff"}
+							]}
+						]}
+					]}
+			]}
+		]
+	},
+	
+	"blockImage":{
+		"imageData":"block"
+	},
+	
+	"blockEffect": [
+		{
+			"node":{
+				"type":"MUISprite", 
+				"name":"BlockEffectRoot", 
+				"rect":{"x":0, "y":0, "width":322.5, "height":285}, 
+				"imageData":"blockeffect",
+				"imageItem":"dianjxgx_0001", 
+				"frameSequence":[
+					"dianjxgx_0001", 
+                    "dianjxgx_0002", 
+                    "dianjxgx_0003", 
+                    "dianjxgx_0004", 
+                    "dianjxgx_0005", 
+                    "dianjxgx_0006", 
+                    "dianjxgx_0007", 
+                    "dianjxgx_0008", 
+                    "dianjxgx_0009", 
+                    "dianjxgx_0010", 
+                    "dianjxgx_0011"], 
+				"children":[]
+			},
+			"action":{
+				"type":"MFrameSequence", 
+				"params":{"frameCount":11, "duration":0.6}
+			}
+		}
+	],
+	
+	"backgroundImage": {
+		"node":{
+			"type":"MUISprite", 
+			"name":"BackroundRoot", 
+			"imageData":"bkg2",
+			"rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"},
+			"children":[
+				{
+					"type":"MUISprite", 
+					"name":"BackroundReal",
+					"imageData":"bkg2",
+					"imageItem":"bkgframe2",
+					"rect":{"x":0, "y":0, "width":"adapter.width", "height":"adapter.height"},
+					"children":[]
+				}
+			]
+		},
+		"switch": {
+			"actions":[
+				{
+					"type":"MSequence",
+					"params":[
+						{"type":"MSetProperty", "params":{"imageItem":"bkgframe2", "imageData":"bkg2"}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MSetProperty", "params":{"opacity":0, "imageItem":"bkgframe3", "imageData":"bkg3"}}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MFadeTo", "params":{"opacity":1, "duration":1}}
+						}},
+						{"type":"MSetProperty", "params":{"imageItem":"null"}}
+					]
+				},
+				{
+					"type":"MSequence",
+					"params":[
+						{"type":"MSetProperty", "params":{"imageItem":"bkgframe3", "imageData":"bkg3"}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MSetProperty", "params":{"opacity":0, "imageItem":"bkgframe4", "imageData":"bkg4"}}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MFadeTo", "params":{"opacity":1, "duration":1}}
+						}},
+						{"type":"MSetProperty", "params":{"imageItem":"null"}}
+					]
+				}
+			]
+		}
+		
+	},
+	
+	"backgroundEffects":{
+		"GameoverUpdate": [
+			{
+				"node":{
+					"type":"MUINode",
+					"name":"HomeBackgroundEffectRoot", 
+					"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"},
+					"children":[
+						{"type":"MUISprite", "name":"BackgroundImage", "imageData":"bkg5", "imageItem":"bkgframe5", "rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"}}
+					]
+				},
+				
+				"action":{
+					
+				}
+			}
+		],
+		"home":[
+			{
+				"node":{
+					"type":"MUINode",
+					"name":"HomeBackgroundEffectRoot", 
+					"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"},
+					"children":[
+						{"type":"MUISprite", "name":"BackgroundImage", "imageData":"bkg", "imageItem":"bkgframe1", "rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"}}
+					]
+				},
+				
+				"action":{
+					
+				}
+			}
+		],
+
+		"game":[
+			{
+				"node":{
+					"type":"MUINode",
+					"name":"HomeBackgroundEffectRoot", 
+					"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"},
+					"children":[
+						{"type":"MUISprite", "name":"lightdot1", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						{"type":"MUISprite", "name":"lightdot2", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						{"type":"MUISprite", "name":"lightdot3", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						{"type":"MUISprite", "name":"lightdot4", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						{"type":"MUISprite", "name":"lightdot5", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						{"type":"MUISprite", "name":"lightdot6", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						{"type":"MUISprite", "name":"lightdot7", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						{"type":"MUISprite", "name":"lightdot8", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						{"type":"MUISprite", "name":"lightdot9", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						{"type":"MUISprite", "name":"lightdot10", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						{"type":"MUISprite", "name":"lightdot11", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						{"type":"MUISprite", "name":"lightdot12", "rect":{"x":100, "y":100, "width":32, "height":32}, "rect_max":{"x":620, "y":1000, "width":32, "height":32}, "imageData":"bkgeffect", "imageItem":"element (7)"},
+						
+						{"type":"MUISprite", "name":"element1", "rect":{"x":0, "y":-100, "width":90, "height":90}, "imageData":"bkgeffect", "imageItem":"element (1)"},
+						{"type":"MUISprite", "name":"element2", "rect":{"x":0, "y":-100, "width":91, "height":94}, "imageData":"bkgeffect", "imageItem":"element (3)"},
+						{"type":"MUISprite", "name":"element3", "rect":{"x":0, "y":-100, "width":74, "height":58}, "imageData":"bkgeffect", "imageItem":"element (5)"}
+					]
+				},
+				
+				"actions":[
+					{"type":"MChildAction", "params":{
+						"child":"lightdot1", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"lightdot2", "action":{"type":"MRandomChange", "params":{"cycle":130, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"lightdot3", "action":{"type":"MRandomChange", "params":{"cycle":110, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"lightdot4", "action":{"type":"MRandomChange", "params":{"cycle":100, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"lightdot5", "action":{"type":"MRandomChange", "params":{"cycle":102, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"lightdot6", "action":{"type":"MRandomChange", "params":{"cycle":103, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"lightdot7", "action":{"type":"MRandomChange", "params":{"cycle":104, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"lightdot8", "action":{"type":"MRandomChange", "params":{"cycle":105, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"lightdot9", "action":{"type":"MRandomChange", "params":{"cycle":106, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"lightdot10", "action":{"type":"MRandomChange", "params":{"cycle":107, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"lightdot11", "action":{"type":"MRandomChange", "params":{"cycle":108, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"lightdot12", "action":{"type":"MRandomChange", "params":{"cycle":109, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":0.4, "scaleMax":0.7, "scaleOncePreCycle":false, "duration":3600}}
+					}},
+					
+					{"type":"MChildAction", "params":{
+						"child":"element1", "action":{
+							"type":"MRandomChange", "params":{
+								"cycle":3600, "moveStepY":-2, "directY":-1, 
+								"moveRegion":{"x":0, "y":-100, "width":"scene.width", "height":"scene.height", "heightAddtion":100}, 
+								"randomMoveOnHitEdgeMask":4, "opacityMin":1, "opacityMax":1, "duration":3600,
+								"scaleMin":0.75, "scaleMax":0.75,
+								"bornRegion":{"x":10, "y":"scene.height", "width":600, "height":"scene.height"}
+							}
+						}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"element2", "action":{
+							"type":"MRandomChange", "params":{
+								"cycle":3600, "moveStepY":-2.2, "directY":-1, 
+								"moveRegion":{"x":0, "y":-100, "width":"scene.width", "height":"scene.height", "heightAddtion":100}, 
+								"randomMoveOnHitEdgeMask":4, "opacityMin":1, "opacityMax":1, "duration":3600,
+								"scaleMin":0.75, "scaleMax":0.75,
+								"bornRegion":{"x":10, "y":"scene.height", "width":600, "height":"scene.height"}
+							}
+						}
+					}},
+					{"type":"MChildAction", "params":{
+						"child":"element3", "action":{
+							"type":"MRandomChange", "params":{
+								"cycle":3600, "moveStepY":-1.8, "directY":-1, 
+								"moveRegion":{"x":0, "y":-100, "width":"scene.width", "height":"scene.height", "heightAddtion":100}, 
+								"randomMoveOnHitEdgeMask":4, "opacityMin":1, "opacityMax":1, "duration":3600,
+								"scaleMin":0.75, "scaleMax":0.75,
+								"bornRegion":{"x":10, "y":"scene.height", "width":600, "height":"scene.height"}
+							}
+						}
+					}}
+				]
+			}
+		]
+	}
+}

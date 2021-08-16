@@ -1,0 +1,10 @@
+[{"rotated": false, "name": "spr_line", "rect": {"y": 3, "x": 367, "height": 640, "width": 360}},
+{"rotated": false, "name": "spr_bkg", "rect": {"y": 647, "x": 3, "height": 362, "width": 360}},
+{"rotated": false, "name": "title_gold", "rect": {"y": 819, "x": 551, "height": 84, "width": 343}},
+{"rotated": false, "name": "title_endless", "rect": {"y": 731, "x": 551, "height": 84, "width": 343}},
+{"rotated": false, "name": "shield", "rect": {"y": 3, "x": 736, "height": 116, "width": 116}},
+{"rotated": false, "name": "miss_red", "rect": {"y": 831, "x": 367, "height": 180, "width": 180}},
+{"rotated": false, "name": "fog", "rect": {"y": 3, "x": 731, "height": 724, "width": 1}},
+{"rotated": false, "name": "dec_bkg", "rect": {"y": 3, "x": 3, "height": 640, "width": 360}},
+{"rotated": false, "name": "miss", "rect": {"y": 647, "x": 551, "height": 34, "width": 109}},
+{"rotated": false, "name": "fever_background", "rect": {"y": 647, "x": 367, "height": 180, "width": 180}}]

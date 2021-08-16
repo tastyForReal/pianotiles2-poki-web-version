@@ -1,0 +1,6 @@
+[{"rotated": false, "name": "ice", "rect": {"y": 1, "x": 439, "height": 56, "width": 217}},
+{"rotated": false, "name": "earth", "rect": {"y": 1, "x": 220, "height": 56, "width": 217}},
+{"rotated": false, "name": "back_normal", "rect": {"y": 1, "x": 658, "height": 62, "width": 62}},
+{"rotated": false, "name": "back_pressed", "rect": {"y": 1, "x": 722, "height": 62, "width": 62}},
+{"rotated": false, "name": "afterrain", "rect": {"y": 1, "x": 1, "height": 56, "width": 217}},
+{"rotated": false, "name": "banner_bg", "rect": {"y": 65, "x": 1, "height": 291, "width": 720}}]

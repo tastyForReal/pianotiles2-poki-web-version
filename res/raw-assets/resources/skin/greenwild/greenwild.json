@@ -1,0 +1,496 @@
+{
+	"design":{"width":720, "height":1559},
+	"atlas":[
+		{"name":"bkg", "path":"bkg.jpg", "items":[
+			{"name":"bkgframe1", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkg2", "path":"bkg2.jpg", "items":[
+			{"name":"bkgframe2", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkg3", "path":"bkg3.jpg", "items":[
+			{"name":"bkgframe3", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkg4", "path":"bkg4.jpg", "items":[
+			{"name":"bkgframe4", "rect":{"x":0, "y":0, "width":720, "height":1559}}
+		]},
+		{"name":"bkgeffect", "path":"bkgeffect.png", "items":[
+			{"name": "shuyefz_00011", "rect": {"y": 249, "x": 745, "height": 122, "width": 246}},
+			{"name": "shuyefz_00013", "rect": {"y": 497, "x": 1, "height": 122, "width": 246}},
+			{"name": "shuyefz_00009", "rect": {"y": 249, "x": 249, "height": 122, "width": 246}},
+			{"name": "shuyefz_00007", "rect": {"y": 125, "x": 745, "height": 122, "width": 246}},
+			{"name": "shuyefz_00006", "rect": {"y": 125, "x": 497, "height": 122, "width": 246}},
+			{"name": "shuyefz_00004", "rect": {"y": 125, "x": 1, "height": 122, "width": 246}},
+			{"name": "firefly2", "rect": {"y": 497, "x": 249, "height": 80, "width": 80}},
+			{"name": "firefly1", "rect": {"y": 579, "x": 249, "height": 55, "width": 55}},
+			{"name": "shuyefz_00010", "rect": {"y": 249, "x": 497, "height": 122, "width": 246}},
+			{"name": "shuyefz_00014", "rect": {"y": 621, "x": 1, "height": 122, "width": 246}},
+			{"name": "shuyefz_00015", "rect": {"y": 745, "x": 1, "height": 122, "width": 246}},
+			{"name": "shuyefz_00017", "rect": {"y": 373, "x": 249, "height": 122, "width": 246}},
+			{"name": "shuyefz_00005", "rect": {"y": 125, "x": 249, "height": 122, "width": 246}},
+			{"name": "firefly3", "rect": {"y": 636, "x": 249, "height": 55, "width": 55}},
+			{"name": "shuyefz_00012", "rect": {"y": 373, "x": 1, "height": 122, "width": 246}},
+			{"name": "shuyefz_00016", "rect": {"y": 869, "x": 1, "height": 122, "width": 246}},
+			{"name": "shuyefz_00018", "rect": {"y": 373, "x": 497, "height": 122, "width": 246}},
+			{"name": "shuyefz_00019", "rect": {"y": 373, "x": 745, "height": 122, "width": 246}},
+			{"name": "shuyefz_00001", "rect": {"y": 1, "x": 249, "height": 122, "width": 246}},
+			{"name": "shuyefz_00008", "rect": {"y": 249, "x": 1, "height": 122, "width": 246}},
+			{"name": "shuyefz_00003", "rect": {"y": 1, "x": 745, "height": 122, "width": 246}},
+			{"name": "shuyefz_00002", "rect": {"y": 1, "x": 497, "height": 122, "width": 246}},
+			{"name": "shuyefz_00000", "rect": {"y": 1, "x": 1, "height": 122, "width": 246}}
+		]},
+		{"name":"grassgreen", "path":"grassgreen.png", "items":[
+			{"name": "grassitem_21", "rect": {"y": 453, "x": 1, "height": 111, "width": 226}},
+			{"name": "grassitem_25", "rect": {"y": 905, "x": 1, "height": 111, "width": 226}},
+			{"name": "grassitem_28", "rect": {"y": 340, "x": 685, "height": 111, "width": 226}},
+			{"name": "grassitem_19", "rect": {"y": 227, "x": 457, "height": 111, "width": 226}},
+			{"name": "grassitem_18", "rect": {"y": 227, "x": 229, "height": 111, "width": 226}},
+			{"name": "grassitem_9", "rect": {"y": 566, "x": 685, "height": 111, "width": 226}},
+			{"name": "grassitem_4", "rect": {"y": 566, "x": 229, "height": 111, "width": 226}},
+			{"name": "grassitem_13", "rect": {"y": 114, "x": 1, "height": 111, "width": 226}},
+			{"name": "grassitem_11", "rect": {"y": 1, "x": 457, "height": 111, "width": 226}},
+			{"name": "grassitem_30", "rect": {"y": 453, "x": 685, "height": 111, "width": 226}},
+			{"name": "grassitem_29", "rect": {"y": 453, "x": 229, "height": 111, "width": 226}},
+			{"name": "grassitem_10", "rect": {"y": 1, "x": 229, "height": 111, "width": 226}},
+			{"name": "grassitem_17", "rect": {"y": 227, "x": 1, "height": 111, "width": 226}},
+			{"name": "grassitem_16", "rect": {"y": 114, "x": 685, "height": 111, "width": 226}},
+			{"name": "grassitem_15", "rect": {"y": 114, "x": 457, "height": 111, "width": 226}},
+			{"name": "grassitem_2", "rect": {"y": 227, "x": 685, "height": 111, "width": 226}},
+			{"name": "grassitem_22", "rect": {"y": 566, "x": 1, "height": 111, "width": 226}},
+			{"name": "grassitem_20", "rect": {"y": 340, "x": 1, "height": 111, "width": 226}},
+			{"name": "grassitem_12", "rect": {"y": 1, "x": 685, "height": 111, "width": 226}},
+			{"name": "grassitem_7", "rect": {"y": 905, "x": 229, "height": 111, "width": 226}},
+			{"name": "grassitem_6", "rect": {"y": 792, "x": 229, "height": 111, "width": 226}},
+			{"name": "grassitem_3", "rect": {"y": 453, "x": 457, "height": 111, "width": 226}},
+			{"name": "grassitem_14", "rect": {"y": 114, "x": 229, "height": 111, "width": 226}},
+			{"name": "grassitem_23", "rect": {"y": 679, "x": 1, "height": 111, "width": 226}},
+			{"name": "grassitem_26", "rect": {"y": 340, "x": 229, "height": 111, "width": 226}},
+			{"name": "grassitem_27", "rect": {"y": 340, "x": 457, "height": 111, "width": 226}},
+			{"name": "grassitem_24", "rect": {"y": 792, "x": 1, "height": 111, "width": 226}},
+			{"name": "grassitem_8", "rect": {"y": 566, "x": 457, "height": 111, "width": 226}},
+			{"name": "grassitem_5", "rect": {"y": 679, "x": 229, "height": 111, "width": 226}},
+			{"name": "grassitem_1", "rect": {"y": 1, "x": 1, "height": 111, "width": 226}}
+		]},
+		{"name":"foggreen", "path":"foggreen.png", "items":[
+			{"name": "fogitem_04", "rect": {"y": 1, "x": 729, "height": 390, "width": 180}},
+			{"name": "fogitem_05", "rect": {"y": 393, "x": 1, "height": 390, "width": 180}},
+			{"name": "fogitem_06", "rect": {"y": 393, "x": 183, "height": 390, "width": 180}},
+			{"name": "fogitem_07", "rect": {"y": 393, "x": 365, "height": 390, "width": 180}},
+			{"name": "fogitem_00", "rect": {"y": 1, "x": 1, "height": 390, "width": 180}},
+			{"name": "fogitem_01", "rect": {"y": 1, "x": 183, "height": 390, "width": 180}},
+			{"name": "fogitem_02", "rect": {"y": 1, "x": 365, "height": 390, "width": 180}},
+			{"name": "fogitem_03", "rect": {"y": 1, "x": 547, "height": 390, "width": 180}},
+			{"name": "fogitem_10", "rect": {"y": 785, "x": 1, "height": 390, "width": 180}},
+			{"name": "fogitem_08", "rect": {"y": 393, "x": 547, "height": 390, "width": 180}},
+			{"name": "fogitem_09", "rect": {"y": 393, "x": 729, "height": 390, "width": 180}},
+			{"name": "fogitem_11", "rect": {"y": 785, "x": 183, "height": 390, "width": 180}},
+			{"name": "fogitem_14", "rect": {"y": 785, "x": 729, "height": 390, "width": 180}},
+			{"name": "fogitem_13", "rect": {"y": 785, "x": 547, "height": 390, "width": 180}},
+			{"name": "fogitem_12", "rect": {"y": 785, "x": 365, "height": 390, "width": 180}}
+		]},
+		
+		{"name":"blockEffectYellow", "path":"blockEffectYellow.png", "items":[
+			{"name": "blockEffectYellow (5)", "rect": {"y": 535, "x": 541, "height": 538, "width": 532}},
+			{"name": "blockEffectYellow (4)", "rect": {"y": 535, "x": 1, "height": 538, "width": 532}},
+			{"name": "blockEffectYellow (3)", "rect": {"y": 1, "x": 1081, "height": 538, "width": 532}},
+			{"name": "blockEffectYellow (6)", "rect": {"y": 535, "x": 1081, "height": 538, "width": 532}},
+			{"name": "blockEffectYellow (2)", "rect": {"y": 1, "x": 541, "height": 538, "width": 532}},
+			{"name": "blockEffectYellow (1)", "rect": {"y": 1, "x": 1, "height": 538, "width": 532}}
+		]},
+		{"name":"blockEffectBlue", "path":"blockEffectBlue.png", "items":[
+			{"name": "blockEffectBlue (4)", "rect": {"y": 535, "x": 1, "height": 538, "width": 532}},
+			{"name": "blockEffectBlue (5)", "rect": {"y": 535, "x": 541, "height": 538, "width": 532}},
+			{"name": "blockEffectBlue (6)", "rect": {"y": 535, "x": 1081, "height": 538, "width": 532}},
+			{"name": "blockEffectBlue (2)", "rect": {"y": 1, "x": 541, "height": 538, "width": 532}},
+			{"name": "blockEffectBlue (3)", "rect": {"y": 1, "x": 1081, "height": 538, "width": 532}},
+			{"name": "blockEffectBlue (1)", "rect": {"y": 1, "x": 1, "height": 538, "width": 532}}
+		]},
+		{"name":"blockEffectGreen", "path":"blockEffectGreen.png", "items":[
+			{"name": "blockEffectGreen (1)", "rect": {"y": 1, "x": 1, "height": 538, "width": 532}},
+			{"name": "blockEffectGreen (2)", "rect": {"y": 1, "x": 541, "height": 538, "width": 532}},
+			{"name": "blockEffectGreen (3)", "rect": {"y": 1, "x": 1081, "height": 538, "width": 532}},
+			{"name": "blockEffectGreen (6)", "rect": {"y": 535, "x": 1081, "height": 538, "width": 532}},
+			{"name": "blockEffectGreen (4)", "rect": {"y": 535, "x": 1, "height": 538, "width": 532}},
+			{"name": "blockEffectGreen (5)", "rect": {"y": 535, "x": 541, "height": 538, "width": 532}}
+		]},
+		
+		{"name":"block", "path":"block.png", "items":[
+			{"name": "tile_miss", "rect": {"y": 247, "x": 417, "height": 240, "width": 134}},
+			{"name": "long_light", "rect": {"y": 247, "x": 555, "height": 217, "width": 134}},
+			{"name": "finish_3", "rect": {"y": 3, "x": 417, "height": 240, "width": 134}},
+			{"name": "finish_2", "rect": {"y": 3, "x": 279, "height": 240, "width": 134}},
+			{"name": "finish_1", "rect": {"y": 331, "x": 141, "height": 240, "width": 134}},
+			{"name": "long_finish", "rect": {"y": 3, "x": 3, "height": 474, "width": 134}},
+			{"name": "long_tilelight", "rect": {"y": 247, "x": 279, "height": 240, "width": 134}},
+			{"name": "finish_4", "rect": {"y": 3, "x": 555, "height": 240, "width": 134}},
+			{"name": "long_dot", "rect": {"y": 636, "x": 141, "height": 30, "width": 30}},
+			{"name": "start_label", "rect": {"y": 575, "x": 141, "height": 57, "width": 114}},
+			{"name": "long_head", "rect": {"y": 3, "x": 141, "height": 324, "width": 134}},
+			{"name": "tile_black", "rect": {"y": 491, "x": 279, "height": 240, "width": 134}},
+			{"name": "tile_start", "rect": {"y": 491, "x": 417, "height": 240, "width": 134}},
+			{"name": "black", "rect": {"y": 481, "x": 3, "height": 240, "width": 134}}
+		]},
+		{"name":"uiElements", "path":"uiElements.png", "items":[
+			{"name": "button_start_pressed", "rect": {"y": 188, "x": 492, "height": 99, "width": 374}},
+			{"name": "button_achievement_unpressed", "rect": {"y": 379, "x": 736, "height": 192, "width": 240}},
+			{"name": "button_home_unpressed", "rect": {"y": 575, "x": 736, "height": 192, "width": 240}},
+			{"name": "button_home_pressed", "rect": {"y": 487, "x": 492, "height": 192, "width": 240}},
+			{"name": "home_star_unget", "rect": {"y": 771, "x": 247, "height": 94, "width": 79}},
+			{"name": "bg_disc", "rect": {"y": 3, "x": 3, "height": 485, "width": 485}},
+			{"name": "button_music_pressed", "rect": {"y": 771, "x": 3, "height": 192, "width": 240}},
+			{"name": "button_music_unpressed", "rect": {"y": 492, "x": 247, "height": 192, "width": 240}},
+			{"name": "home_crown_unget", "rect": {"y": 183, "x": 870, "height": 94, "width": 79}},
+			{"name": "button_achievement_pressed", "rect": {"y": 291, "x": 492, "height": 192, "width": 240}},
+			{"name": "rank_title_bg", "rect": {"y": 3, "x": 492, "height": 78, "width": 480}},
+			{"name": "home_crown_get", "rect": {"y": 85, "x": 870, "height": 94, "width": 79}},
+			{"name": "home_star_get", "rect": {"y": 281, "x": 870, "height": 94, "width": 79}},
+			{"name": "button_start_normal", "rect": {"y": 85, "x": 492, "height": 99, "width": 374}}
+		]}
+	],
+
+	
+	"uiElementEffects":{
+		"GameEntranceScene":[
+			{"name":"parent", "children":[
+				
+				{"name":"entra_bottom_layout", "children":[
+					
+					{"name":"bottom_bg", "visible":false},
+					{"name":"home_group", "children":[
+						{"name":"home_page_btn", "imageData":"uiElements", "imageItem":["button_home_unpressed", "button_home_pressed", "button_home_pressed", "button_home_unpressed"]},
+						{"name":"home_page_label", "visible":false}
+					]},
+					{"name":"music_lib_group", "children":[
+						{"name":"music_library_btn", "imageData":"uiElements", "imageItem":["button_music_unpressed", "button_music_pressed", "button_music_pressed", "button_music_unpressed"]},
+						{"name":"music_library_page_label", "visible":false}
+					]},
+					{"name":"ranking_group", "children":[
+						{"name":"ranking_btn", "imageData":"uiElements", "imageItem":["button_achievement_unpressed", "button_achievement_pressed", "button_achievement_pressed", "button_achievement_unpressed"]},
+						{"name":"ranking_page_label", "visible":false}
+					]}
+				]}
+			]},
+			
+			{"name":"ExtraMiddleMainPagePrefb", "children":[
+					{"name":"bg_piano", "imageData":"uiElements", "imageItem":["bg_disc"], "children":[
+						{"name":"disk_icon_2", "visible":false},
+						{"name":"disk_icon_1", "visible":false}
+					]},
+					{"name":"music_name", "color":"#ffffff"},
+					{"name":"start_btn", "imageData":"uiElements", "imageItem":["button_start_normal", "button_start_pressed", "button_start_pressed"], "children":[
+						{"name":"Label", "visible":false}
+					]},
+					{"name":"elementFrames", "children":[
+						{"name":"starFrames", "imageData":"uiElements", "imageItem":["home_star_unget", "home_star_get"]},
+						{"name":"crownFrames", "imageData":"uiElements", "imageItem":["home_crown_unget", "home_crown_get"]}
+					]},
+					{"name":"RankGroup", "children":[
+						{"name":"RnakGroupPrefb", "children":[
+							{"name":"rank_title_bg", "imageData":"uiElements", "imageItem":["rank_title_bg"], "children":[
+								{"name":"rank_title_label", "color":"#ffffff"}
+							]},
+							{"name":"rank_see_all_group", "children":[
+								{"name":"rank_see_all_label", "color":"#ffffff"}
+							]},
+							{"name":"invite_friend_layout", "children":[
+								{"name":"invite_friend_label", "color":"#ffffff"},
+								{"name":"pk_friend_label", "color":"#ffffff"}
+							]}
+						]}
+					]}
+			]}
+		]
+	},
+	
+	"blockImage":{
+		"imageData":"block"
+	},
+	
+	"blockEffect": [
+		{
+			"node":{
+				"type":"MUISprite", 
+				"name":"BlockEffectRoot", 
+				"rect":{"x":0, "y":0, "width":360, "height":360}, 
+				"imageData":"blockEffectGreen",
+				"imageItem":"blockEffectGreen (1)", 
+				"frameSequence":["blockEffectGreen (1)", "blockEffectGreen (2)", "blockEffectGreen (3)", "blockEffectGreen (4)", "blockEffectGreen (5)", "blockEffectGreen (6)"], 
+				"children":[]
+			},
+			"action":{
+				"type":"MFrameSequence", 
+				"params":{"frameCount":6, "duration":0.3}
+			}
+		},
+		{
+			"node":{
+				"type":"MUISprite", 
+				"name":"BlockEffectRoot", 
+				"rect":{"x":0, "y":0, "width":360, "height":360}, 
+				"imageData":"blockEffectYellow",
+				"imageItem":"blockEffectYellow (1)", 
+				"frameSequence":["blockEffectYellow (1)", "blockEffectYellow (2)", "blockEffectYellow (3)", "blockEffectYellow (4)", "blockEffectYellow (5)", "blockEffectYellow (6)"], 
+				"children":[]
+			},
+			"action":{
+				"type":"MFrameSequence", 
+				"params":{"frameCount":6, "duration":0.3}
+			}
+		},
+		{
+			"node":{
+				"type":"MUISprite", 
+				"name":"BlockEffectRoot", 
+				"rect":{"x":0, "y":0, "width":360, "height":360}, 
+				"imageData":"blockEffectBlue",
+				"imageItem":"blockEffectBlue (1)", 
+				"frameSequence":["blockEffectBlue (1)", "blockEffectBlue (2)", "blockEffectBlue (3)", "blockEffectBlue (4)", "blockEffectBlue (5)", "blockEffectBlue (6)"], 
+				"children":[]
+			},
+			"action":{
+				"type":"MFrameSequence", 
+				"params":{"frameCount":6, "duration":0.3}
+			}
+		}
+	],
+	
+	"backgroundImage": {
+		"node":{
+			"type":"MUISprite", 
+			"name":"BackroundRoot", 
+			"imageData":"bkg2",
+			"rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"},
+			"children":[
+				{
+					"type":"MUISprite", 
+					"name":"BackroundReal",
+					"imageData":"bkg2",
+					"imageItem":"bkgframe2",
+					"rect":{"x":0, "y":0, "width":"adapter.width", "height":"adapter.height"},
+					"children":[]
+				}
+			]
+		},
+		"switch": {
+			"actions":[
+				{
+					"type":"MSequence",
+					"params":[
+						{"type":"MSetProperty", "params":{"imageItem":"bkgframe2", "imageData":"bkg2"}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MSetProperty", "params":{"opacity":0, "imageItem":"bkgframe3", "imageData":"bkg3"}}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MFadeTo", "params":{"opacity":1, "duration":1}}
+						}},
+						{"type":"MSetProperty", "params":{"imageItem":"null"}}
+					]
+				},
+				{
+					"type":"MSequence",
+					"params":[
+						{"type":"MSetProperty", "params":{"imageItem":"bkgframe3", "imageData":"bkg3"}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MSetProperty", "params":{"opacity":0, "imageItem":"bkgframe4", "imageData":"bkg4"}}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"BackroundReal", "action":{"type":"MFadeTo", "params":{"opacity":1, "duration":1}}
+						}},
+						{"type":"MSetProperty", "params":{"imageItem":"null"}}
+					]
+				}
+			]
+		}
+		
+	},
+	
+	"backgroundEffects":{
+		"home":[
+			{
+				"node":{
+					"type":"MUINode",
+					"name":"HomeBackgroundEffectRoot", 
+					"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"},
+					"children":[
+						{"type":"MUISprite", "name":"BackgroundImage", "imageData":"bkg", "imageItem":"bkgframe1", "rect":{"x":"adapter.x", "y":"adapter.y", "width":"adapter.width", "height":"adapter.height"}},
+						
+						{"type":"MUISprite", "name":"firefly1", "rect":{"x":100, "y":1000, "width":55, "height":55}, "rect_max":{"x":700, "y":1200, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"},
+						{"type":"MUISprite", "name":"firefly2", "rect":{"x":100, "y":1000, "width":80, "height":80}, "rect_max":{"x":700, "y":1200, "width":80, "height":80}, "imageData":"bkgeffect", "imageItem":"firefly2"},
+						{"type":"MUISprite", "name":"firefly3", "rect":{"x":100, "y":1000, "width":55, "height":55}, "rect_max":{"x":700, "y":1200, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"},
+						{"type":"MUISprite", "name":"firefly4", "rect":{"x":100, "y":1000, "width":55, "height":55}, "rect_max":{"x":700, "y":1200, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"},
+						{"type":"MUISprite", "name":"firefly5", "rect":{"x":100, "y":1000, "width":80, "height":80}, "rect_max":{"x":700, "y":1200, "width":80, "height":80}, "imageData":"bkgeffect", "imageItem":"firefly2"},
+						{"type":"MUISprite", "name":"firefly6", "rect":{"x":100, "y":1000, "width":55, "height":55}, "rect_max":{"x":700, "y":1200, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"}
+					]
+				},
+				
+				"action":{
+					"type":"MSpawn",
+					"params":[
+						{"type":"MChildAction", "params":{
+							"child":"firefly1", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":1000, "width":"scene.width", "height":200}, "scaleMin":0.6, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"firefly2", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":1000, "width":"scene.width", "height":200}, "scaleMin":0.6, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"firefly3", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":1000, "width":"scene.width", "height":200}, "scaleMin":0.6, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"firefly4", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":1000, "width":"scene.width", "height":200}, "scaleMin":0.6, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"firefly5", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":1000, "width":"scene.width", "height":200}, "scaleMin":0.6, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}
+							}
+						}},
+						{"type":"MChildAction", "params":{
+							"child":"firefly6", "action":{
+								"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":1000, "width":"scene.width", "height":200}, "scaleMin":0.6, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}
+							}
+						}}
+					]
+				}
+			}
+		],
+
+		"game":[
+			{
+				"node":{
+					"type":"MUINode",
+					"name":"HomeBackgroundEffectRoot", 
+					"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"},
+					"children":[
+						{
+							"type":"MUISprite", 
+							"name":"grass", 
+							"rect":{"x":0, "y":0, "width":451, "height":222}, 
+							"imageData":"grassgreen", 
+							"imageItem":"grassitem_1", 
+							"frameSequence":["grassitem_1", "grassitem_2", "grassitem_3", "grassitem_4", "grassitem_5", "grassitem_6", "grassitem_7", "grassitem_8", "grassitem_9","grassitem_10", "grassitem_11", "grassitem_12", "grassitem_13", "grassitem_14", "grassitem_15", "grassitem_16", "grassitem_17", "grassitem_18", "grassitem_19", "grassitem_20", "grassitem_21", "grassitem_22", "grassitem_23", "grassitem_24", "grassitem_25", "grassitem_26", "grassitem_27", "grassitem_28", "grassitem_29", "grassitem_30"]
+						},
+						
+						{
+							"type":"MUISprite", 
+							"name":"fog", 
+							"rect":{"x":0, "y":0, "width":"scene.width", "height":"scene.height"}, 
+							"imageData":"foggreen", 
+							"imageItem":"fogitem_00", 
+							"frameSequence":["fogitem_00", "fogitem_01", "fogitem_02", "fogitem_03", "fogitem_04", "fogitem_05", "fogitem_06", "fogitem_07", "fogitem_08","fogitem_09", "fogitem_10", "fogitem_11", "fogitem_12", "fogitem_13", "fogitem_14"]
+						},
+
+						{"type":"MUISprite", "name":"firefly1", "rect":{"x":100, "y":100, "width":55, "height":55}, "rect_max":{"x":620, "y":1000, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"},
+						{"type":"MUISprite", "name":"firefly2", "rect":{"x":100, "y":100, "width":80, "height":80}, "rect_max":{"x":620, "y":1000, "width":80, "height":80}, "imageData":"bkgeffect", "imageItem":"firefly2"},
+						{"type":"MUISprite", "name":"firefly3", "rect":{"x":100, "y":100, "width":55, "height":55}, "rect_max":{"x":620, "y":1000, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"},
+						{"type":"MUISprite", "name":"firefly4", "rect":{"x":100, "y":100, "width":55, "height":55}, "rect_max":{"x":620, "y":1000, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"},
+						{"type":"MUISprite", "name":"firefly5", "rect":{"x":100, "y":100, "width":80, "height":80}, "rect_max":{"x":620, "y":1000, "width":80, "height":80}, "imageData":"bkgeffect", "imageItem":"firefly2"},
+						{"type":"MUISprite", "name":"firefly6", "rect":{"x":100, "y":100, "width":55, "height":55}, "rect_max":{"x":620, "y":1000, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"},
+						{"type":"MUISprite", "name":"firefly7", "rect":{"x":100, "y":100, "width":55, "height":55}, "rect_max":{"x":620, "y":1000, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"},
+						{"type":"MUISprite", "name":"firefly8", "rect":{"x":100, "y":100, "width":80, "height":80}, "rect_max":{"x":620, "y":1000, "width":80, "height":80}, "imageData":"bkgeffect", "imageItem":"firefly2"},
+						{"type":"MUISprite", "name":"firefly9", "rect":{"x":100, "y":100, "width":55, "height":55}, "rect_max":{"x":620, "y":1000, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"},
+						{"type":"MUISprite", "name":"firefly10", "rect":{"x":100, "y":100, "width":55, "height":55}, "rect_max":{"x":620, "y":1000, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"},
+						{"type":"MUISprite", "name":"firefly11", "rect":{"x":100, "y":100, "width":80, "height":80}, "rect_max":{"x":620, "y":1000, "width":80, "height":80}, "imageData":"bkgeffect", "imageItem":"firefly2"},
+						{"type":"MUISprite", "name":"firefly12", "rect":{"x":100, "y":100, "width":55, "height":55}, "rect_max":{"x":620, "y":1000, "width":55, "height":55}, "imageData":"bkgeffect", "imageItem":"firefly1"},
+						
+						{"type":"MUISprite", "name":"leaf1_1", "rect":{"x":0, "y":-200, "width":86, "height":43}, "imageData":"bkgeffect", "imageItem":"shuyefz_00000", "frameSequence":["shuyefz_00000", "shuyefz_00001", "shuyefz_00002", "shuyefz_00003", "shuyefz_00004", "shuyefz_00005", "shuyefz_00006", "shuyefz_00007", "shuyefz_00008","shuyefz_00009", "shuyefz_00010", "shuyefz_00011", "shuyefz_00012", "shuyefz_00013", "shuyefz_00014", "shuyefz_00015", "shuyefz_00016", "shuyefz_00017", "shuyefz_00018", "shuyefz_00019"]},
+						{"type":"MUISprite", "name":"leaf1_2", "rect":{"x":0, "y":-200, "width":86, "height":43}, "imageData":"bkgeffect", "imageItem":"shuyefz_00000", "frameSequence":["shuyefz_00003", "shuyefz_00004", "shuyefz_00005", "shuyefz_00006", "shuyefz_00007", "shuyefz_00008","shuyefz_00009", "shuyefz_00010", "shuyefz_00011", "shuyefz_00012", "shuyefz_00013", "shuyefz_00014", "shuyefz_00015", "shuyefz_00016", "shuyefz_00017", "shuyefz_00018", "shuyefz_00019", "shuyefz_00000", "shuyefz_00001", "shuyefz_00002"]},
+						{"type":"MUISprite", "name":"leaf2_1", "rect":{"x":0, "y":-200, "width":86, "height":43}, "imageData":"bkgeffect", "imageItem":"shuyefz_00000", "frameSequence":["shuyefz_00006", "shuyefz_00007", "shuyefz_00008","shuyefz_00009", "shuyefz_00010", "shuyefz_00011", "shuyefz_00012", "shuyefz_00013", "shuyefz_00014", "shuyefz_00015", "shuyefz_00016", "shuyefz_00017", "shuyefz_00018", "shuyefz_00019", "shuyefz_00000", "shuyefz_00001", "shuyefz_00002", "shuyefz_00003", "shuyefz_00004", "shuyefz_00005"]},
+						{"type":"MUISprite", "name":"leaf2_2", "rect":{"x":0, "y":-200, "width":86, "height":43}, "imageData":"bkgeffect", "imageItem":"shuyefz_00000", "frameSequence":["shuyefz_00009", "shuyefz_00010", "shuyefz_00011", "shuyefz_00012", "shuyefz_00013", "shuyefz_00014", "shuyefz_00015", "shuyefz_00016", "shuyefz_00017", "shuyefz_00018", "shuyefz_00019", "shuyefz_00000", "shuyefz_00001", "shuyefz_00002", "shuyefz_00003", "shuyefz_00004", "shuyefz_00005", "shuyefz_00006", "shuyefz_00007", "shuyefz_00008"]},
+						{"type":"MUISprite", "name":"leaf3_1", "rect":{"x":0, "y":-200, "width":86, "height":43}, "imageData":"bkgeffect", "imageItem":"shuyefz_00000", "frameSequence":["shuyefz_00012", "shuyefz_00013", "shuyefz_00014", "shuyefz_00015", "shuyefz_00016", "shuyefz_00017", "shuyefz_00018", "shuyefz_00019", "shuyefz_00000", "shuyefz_00001", "shuyefz_00002", "shuyefz_00003", "shuyefz_00004", "shuyefz_00005", "shuyefz_00006", "shuyefz_00007", "shuyefz_00008","shuyefz_00009", "shuyefz_00010", "shuyefz_00011"]},
+						{"type":"MUISprite", "name":"leaf3_2", "rect":{"x":0, "y":-200, "width":86, "height":43}, "imageData":"bkgeffect", "imageItem":"shuyefz_00000", "frameSequence":["shuyefz_00015", "shuyefz_00016", "shuyefz_00017", "shuyefz_00018", "shuyefz_00019", "shuyefz_00000", "shuyefz_00001", "shuyefz_00002", "shuyefz_00003", "shuyefz_00004", "shuyefz_00005", "shuyefz_00006", "shuyefz_00007", "shuyefz_00008","shuyefz_00009", "shuyefz_00010", "shuyefz_00011", "shuyefz_00012", "shuyefz_00013", "shuyefz_00014"]}
+					]
+				},
+				
+				"actions":[
+					{
+						"type":"MChildAction", "params":{
+							"child":"fog", "action":{"type":"MFrameSequence", "params":{"frameCount":15, "duration":3}}
+						}
+					},
+					{
+						"type":"MChildAction", "params":{
+							"child":"grass", "action":{"type":"MFrameSequence", "params":{"frameCount":30, "duration":2}}
+						}
+					},
+							
+					{
+						"type":"MSpawn",
+						"params":[
+							{"type":"MChildAction", "params":{
+								"child":"firefly1", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"firefly2", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"firefly3", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"firefly4", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"firefly5", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"firefly6", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"firefly7", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"firefly8", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"firefly9", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"firefly10", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"firefly11", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"firefly12", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":100, "width":"scene.width", "height":1000}, "scaleMin":1, "scaleMax":2, "scaleOncePreCycle":false, "duration":3600}}
+							}},
+
+							{"type":"MChildAction", "params":{
+								"child":"leaf1_1", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1, "moveRegion":{"x":0, "y":-61, "width":"scene.width", "height":"scene.height", "heightAddtion":100}, "directY":-1, "scaleMin":0.6, "scaleMax":1, "scaleOncePreCycle":false, "randomMoveOnHitEdge":true, "opacityFollowScale":1,"randomMoveOnHitEdgeMask":4, "frameCount":20, "frameSpeedMin":0.1, "frameSpeedMax":0.2, "duration":3600,
+								"bornRegion":{"x":10, "y":"scene.height", "width":660, "height":"scene.height"}}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"leaf1_2", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1.2, "moveRegion":{"x":0, "y":-61, "width":"scene.width", "height":"scene.height", "heightAddtion":100}, "directY":-1, "scaleMin":0.6, "scaleMax":1, "scaleOncePreCycle":false, "randomMoveOnHitEdge":true, "opacityFollowScale":1, "randomMoveOnHitEdgeMask":4, "frameCount":20, "frameSpeedMin":0.1, "frameSpeedMax":0.2, "duration":3600,
+								"bornRegion":{"x":10, "y":"scene.height", "width":660, "height":"scene.height"}}}
+							}},
+
+							{"type":"MChildAction", "params":{
+								"child":"leaf2_1", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1.5, "moveRegion":{"x":0, "y":-83, "width":"scene.width", "height":"scene.height", "heightAddtion":100}, "directY":-1, "scaleMin":0.6, "scaleMax":1, "scaleOncePreCycle":false, "randomMoveOnHitEdge":true, "opacityFollowScale":1, "randomMoveOnHitEdgeMask":4, "frameCount":20, "frameSpeedMin":0.1, "frameSpeedMax":0.2, "duration":3600,
+								"bornRegion":{"x":10, "y":"scene.height", "width":660, "height":"scene.height"}}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"leaf2_2", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1.4, "moveRegion":{"x":0, "y":-83, "width":"scene.width", "height":"scene.height", "heightAddtion":100}, "directY":-1, "scaleMin":0.6, "scaleMax":1, "scaleOncePreCycle":false, "randomMoveOnHitEdge":true, "opacityFollowScale":1, "randomMoveOnHitEdgeMask":4, "frameCount":20, "frameSpeedMin":0.1, "frameSpeedMax":0.2, "duration":3600,
+								"bornRegion":{"x":10, "y":"scene.height", "width":660, "height":"scene.height"}}}
+							}},
+
+							{"type":"MChildAction", "params":{
+								"child":"leaf3_1", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":1.6, "moveRegion":{"x":0, "y":-51, "width":"scene.width", "height":"scene.height", "heightAddtion":100}, "directY":-1, "scaleMin":0.6, "scaleMax":1, "scaleOncePreCycle":false, "randomMoveOnHitEdge":true, "opacityFollowScale":1, "randomMoveOnHitEdgeMask":4, "frameCount":20, "frameSpeedMin":0.1, "frameSpeedMax":0.2, "duration":3600,
+								"bornRegion":{"x":10, "y":"scene.height", "width":660, "height":"scene.height"}}}
+							}},
+							{"type":"MChildAction", "params":{
+								"child":"leaf3_2", "action":{"type":"MRandomChange", "params":{"cycle":120, "moveStep":0.9, "moveRegion":{"x":0, "y":-51, "width":"scene.width", "height":"scene.height", "heightAddtion":100}, "directY":-1, "scaleMin":0.6, "scaleMax":1, "scaleOncePreCycle":false, "randomMoveOnHitEdge":true, "opacityFollowScale":1, "randomMoveOnHitEdgeMask":4, "frameCount":20, "frameSpeedMin":0.1, "frameSpeedMax":0.2, "duration":3600,
+								"bornRegion":{"x":10, "y":"scene.height", "width":660, "height":"scene.height"}}}
+							}}
+						]
+					}
+				]
+			}
+		]
+
+
+	}
+}
