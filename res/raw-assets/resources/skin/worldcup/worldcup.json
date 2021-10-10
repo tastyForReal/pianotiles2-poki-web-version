@@ -63,129 +63,129 @@
         {
             "items": [
                 {
-                    "name": "button_start_pressed", 
-                    "rect": {
-                        "height": 99, 
-                        "width": 374, 
-                        "x": 625, 
-                        "y": 604
+                    "name":"button_start_pressed",
+                    "rect":{
+                        "y":188,
+                        "x":529,
+                        "height":99,
+                        "width":374
                     }
-                }, 
+                },
                 {
-                    "name": "button_achievement_unpressed", 
-                    "rect": {
-                        "height": 193, 
-                        "width": 240, 
-                        "x": 727, 
-                        "y": 200
+                    "name":"button_achievement_unpressed",
+                    "rect":{
+                        "y":379,
+                        "x":773,
+                        "height":193,
+                        "width":240
                     }
-                }, 
+                },
                 {
-                    "name": "button_home_unpressed", 
-                    "rect": {
-                        "height": 193, 
-                        "width": 240, 
-                        "x": 3, 
-                        "y": 594
+                    "name":"button_home_unpressed",
+                    "rect":{
+                        "y":434,
+                        "x":247,
+                        "height":193,
+                        "width":240
                     }
-                }, 
+                },
                 {
-                    "name": "button_home_pressed", 
-                    "rect": {
-                        "height": 193, 
-                        "width": 240, 
-                        "x": 727, 
-                        "y": 397
+                    "name":"button_home_pressed",
+                    "rect":{
+                        "y":576,
+                        "x":3,
+                        "height":193,
+                        "width":240
                     }
-                }, 
+                },
                 {
-                    "name": "home_star_unget", 
-                    "rect": {
-                        "height": 94, 
-                        "width": 79, 
-                        "x": 413, 
-                        "y": 904
+                    "name":"home_star_unget",
+                    "rect":{
+                        "y":434,
+                        "x":3,
+                        "height":94,
+                        "width":79
                     }
-                }, 
+                },
                 {
-                    "name": "bg_disc", 
-                    "rect": {
-                        "height": 499, 
-                        "width": 720, 
-                        "x": 3, 
-                        "y": 3
+                    "name":"bg_disc",
+                    "rect":{
+                        "y":3,
+                        "x":3,
+                        "height":427,
+                        "width":522
                     }
-                }, 
+                },
                 {
-                    "name": "button_music_pressed", 
-                    "rect": {
-                        "height": 193, 
-                        "width": 240, 
-                        "x": 3, 
-                        "y": 791
+                    "name":"button_music_pressed",
+                    "rect":{
+                        "y":488,
+                        "x":491,
+                        "height":193,
+                        "width":240
                     }
-                }, 
+                },
                 {
-                    "name": "button_music_unpressed", 
-                    "rect": {
-                        "height": 193, 
-                        "width": 240, 
-                        "x": 247, 
-                        "y": 707
+                    "name":"button_music_unpressed",
+                    "rect":{
+                        "y":631,
+                        "x":247,
+                        "height":193,
+                        "width":240
                     }
-                }, 
+                },
                 {
-                    "name": "home_crown_unget", 
-                    "rect": {
-                        "height": 94, 
-                        "width": 79, 
-                        "x": 247, 
-                        "y": 904
+                    "name":"home_crown_unget",
+                    "rect":{
+                        "y":183,
+                        "x":907,
+                        "height":94,
+                        "width":79
                     }
-                }, 
+                },
                 {
-                    "name": "button_achievement_pressed", 
-                    "rect": {
-                        "height": 193, 
-                        "width": 240, 
-                        "x": 727, 
-                        "y": 3
+                    "name":"button_achievement_pressed",
+                    "rect":{
+                        "y":291,
+                        "x":529,
+                        "height":193,
+                        "width":240
                     }
-                }, 
+                },
                 {
-                    "name": "rank_title_bg", 
-                    "rect": {
-                        "height": 78, 
-                        "width": 480, 
-                        "x": 3, 
-                        "y": 506
+                    "name":"rank_title_bg",
+                    "rect":{
+                        "y":3,
+                        "x":529,
+                        "height":78,
+                        "width":480
                     }
-                }, 
+                },
                 {
-                    "name": "home_crown_get", 
-                    "rect": {
-                        "height": 94, 
-                        "width": 79, 
-                        "x": 625, 
-                        "y": 506
+                    "name":"home_crown_get",
+                    "rect":{
+                        "y":85,
+                        "x":907,
+                        "height":94,
+                        "width":79
                     }
-                }, 
+                },
                 {
-                    "name": "home_star_get", 
-                    "rect": {
-                        "height": 94, 
-                        "width": 79, 
-                        "x": 330, 
-                        "y": 904
+                    "name":"home_star_get",
+                    "rect":{
+                        "y":281,
+                        "x":907,
+                        "height":94,
+                        "width":79
                     }
-                }, 
+                },
                 {
-                    "name": "button_start_normal", 
-                    "rect": {
-                        "height": 99, 
-                        "width": 374, 
-                        "x": 247, 
-                        "y": 588
+                    "name":"button_start_normal",
+                    "rect":{
+                        "y":85,
+                        "x":529,
+                        "height":99,
+                        "width":374
                     }
                 }
             ], 

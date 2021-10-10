@@ -1,0 +1,551 @@
+{
+    "atlas": [
+        {
+            "items": [
+                {"name": "bkgframe1", "rect": {"height": 1559, "width": 720, "x": 0, "y": 0}}
+            ],
+            "name": "bkg",
+            "path": "bkg.png"
+        },
+        {
+            "items": [
+                {"name": "bkgframe2", "rect": {"height": 1559, "width": 720, "x": 0, "y": 0}}
+            ],
+            "name": "bkg2",
+            "path": "bkg2.png"
+        },
+        {
+            "items": [
+                {"name": "bkgframe3", "rect": {"height": 1559, "width": 720, "x": 0, "y": 0}}
+            ],
+            "name": "bkg3",
+            "path": "bkg3.png"
+        },
+        {
+            "items": [
+                {"name": "bkgframe4", "rect": {"height": 1559, "width": 720, "x": 0, "y": 0}}
+            ],
+            "name": "bkg4",
+            "path": "bkg4.png"
+        },
+		{
+            "items": [
+                {"name": "bkgframe5", "rect": {"height": 1559, "width": 720, "x": 0, "y": 0}}
+            ],
+            "name": "bkg5",
+            "path": "bkg5.png"
+        },
+        {
+            "items": [
+                {"name": "button_start_pressed", "rect": {"y": 103, "x": 3, "height": 96, "width": 374}},
+				{"name": "home_star_unget", "rect": {"y": 282, "x": 3, "height": 74, "width": 61}},
+				{"name": "bg_disc", "rect": {"y": 3, "x": 464, "height": 1, "width": 1}},
+				{"name": "home_crown_unget", "rect": {"y": 101, "x": 381, "height": 94, "width": 79}},
+				{"name": "home_crown_get", "rect": {"y": 3, "x": 381, "height": 94, "width": 79}},
+				{"name": "home_star_get", "rect": {"y": 199, "x": 381, "height": 79, "width": 66}},
+				{"name": "button_start_normal", "rect": {"y": 3, "x": 3, "height": 96, "width": 374}}
+            ],
+            "name": "uielements",
+            "path": "uielements.png"
+        },
+        {
+            "items": [
+				{"name": "tile_miss", "rect": {"y": 247, "x": 693, "height": 238, "width": 132}},
+				{"name": "long_light", "rect": {"y": 247, "x": 829, "height": 217, "width": 134}},
+				{"name": "finish_3", "rect": {"y": 247, "x": 417, "height": 240, "width": 134}},
+				{"name": "finish_2", "rect": {"y": 3, "x": 417, "height": 240, "width": 134}},
+				{"name": "finish_1", "rect": {"y": 247, "x": 279, "height": 240, "width": 134}},
+				{"name": "long_finish", "rect": {"y": 3, "x": 3, "height": 474, "width": 134}},
+				{"name": "finish_4", "rect": {"y": 3, "x": 555, "height": 240, "width": 134}},
+				{"name": "long_dot", "rect": {"y": 384, "x": 141, "height": 57, "width": 57}},
+				{"name": "start_label", "rect": {"y": 323, "x": 141, "height": 57, "width": 114}},
+				{"name": "long_head", "rect": {"y": 3, "x": 141, "height": 316, "width": 134}},
+				{"name": "tile_black", "rect": {"y": 247, "x": 555, "height": 240, "width": 134}},
+				{"name": "tile_start", "rect": {"y": 3, "x": 693, "height": 240, "width": 134}},
+				{"name": "black", "rect": {"y": 3, "x": 279, "height": 240, "width": 134}}
+			],
+			"name": "block",
+			"path": "block.png"
+        },
+        {
+            "items":[
+				{"name": "short_00009", "rect": {"y": 471, "x": 236, "height": 233, "width": 233}},
+				{"name": "short_00008", "rect": {"y": 236, "x": 236, "height": 233, "width": 233}},
+				{"name": "short_00007", "rect": {"y": 1, "x": 706, "height": 233, "width": 233}},
+				{"name": "short_00006", "rect": {"y": 1, "x": 471, "height": 233, "width": 233}},
+				{"name": "short_00005", "rect": {"y": 1, "x": 236, "height": 233, "width": 233}},
+				{"name": "short_00004", "rect": {"y": 706, "x": 1, "height": 233, "width": 233}},
+				{"name": "short_00003", "rect": {"y": 471, "x": 1, "height": 233, "width": 233}},
+				{"name": "short_00002", "rect": {"y": 236, "x": 1, "height": 233, "width": 233}},
+				{"name": "short_00001", "rect": {"y": 1, "x": 1, "height": 233, "width": 233}},
+				{"name": "short_00011", "rect": {"y": 236, "x": 471, "height": 233, "width": 233}},
+				{"name": "short_00012", "rect": {"y": 236, "x": 706, "height": 233, "width": 233}},
+				{"name": "short_00010", "rect": {"y": 706, "x": 236, "height": 233, "width": 233}}
+			],
+			"name": "blockeffect",
+            "path": "blockeffect.png"
+        },
+        {
+            "items":[
+				{"name": "long_00008", "rect": {"y": 236, "x": 236, "height": 233, "width": 233}},
+				{"name": "long_00009", "rect": {"y": 471, "x": 236, "height": 233, "width": 233}},
+				{"name": "long_00012", "rect": {"y": 236, "x": 706, "height": 233, "width": 233}},
+				{"name": "long_00002", "rect": {"y": 236, "x": 1, "height": 233, "width": 233}},
+				{"name": "long_00003", "rect": {"y": 471, "x": 1, "height": 233, "width": 233}},
+				{"name": "long_00001", "rect": {"y": 1, "x": 1, "height": 233, "width": 233}},
+				{"name": "long_00006", "rect": {"y": 1, "x": 471, "height": 233, "width": 233}},
+				{"name": "long_00007", "rect": {"y": 1, "x": 706, "height": 233, "width": 233}},
+				{"name": "long_00004", "rect": {"y": 706, "x": 1, "height": 233, "width": 233}},
+				{"name": "long_00005", "rect": {"y": 1, "x": 236, "height": 233, "width": 233}},
+				{"name": "long_00011", "rect": {"y": 236, "x": 471, "height": 233, "width": 233}},
+				{"name": "long_00010", "rect": {"y": 706, "x": 236, "height": 233, "width": 233}}
+			],
+            "name": "blocklongeffect",
+            "path": "blocklongeffect.png"
+        }
+    ],
+    "backgroundEffects": {
+        "GameoverUpdate": [
+			{
+                "action": {},
+                "node": {
+                    "children": [
+                        {
+                            "imageData": "bkg5",
+                            "imageItem": "bkgframe5",
+                            "name": "BackgroundImage",
+                            "rect": {
+                                "height": "adapter.height",
+                                "width": "adapter.width",
+                                "x": "adapter.x",
+                                "y": "adapter.y"
+                            },
+                            "type": "MUISprite"
+                        }
+                    ],
+                    "name": "GameoverUpdateBackgroundEffectRoot",
+                    "rect": {
+                        "height": "scene.height",
+                        "width": "scene.width",
+                        "x": 0,
+                        "y": 0
+                    },
+                    "type": "MUINode"
+                }
+            }
+		],
+        "game": [],
+        "home": [
+            {
+                "action": {},
+                "node": {
+                    "children": [
+                        {
+                            "imageData": "bkg",
+                            "imageItem": "bkgframe1",
+                            "name": "BackgroundImage",
+                            "rect": {
+                                "height": "adapter.height",
+                                "width": "adapter.width",
+                                "x": "adapter.x",
+                                "y": "adapter.y"
+                            },
+                            "type": "MUISprite"
+                        }
+                    ],
+                    "name": "HomeBackgroundEffectRoot",
+                    "rect": {
+                        "height": "scene.height",
+                        "width": "scene.width",
+                        "x": 0,
+                        "y": 0
+                    },
+                    "type": "MUINode"
+                }
+            }
+        ]
+    },
+    "backgroundImage": {
+        "node": {
+            "children": [
+                {
+                    "children": [],
+                    "imageData": "bkg2",
+                    "name": "BackroundReal",
+                    "rect": {
+                        "height": "adapter.height",
+                        "width": "adapter.width",
+                        "x": 0,
+                        "y": 0
+                    },
+                    "type": "MUISprite"
+                }
+            ],
+            "imageData": "bkg2",
+            "imageItem": "bkgframe2",
+            "name": "BackroundRoot",
+            "rect": {
+                "height": "adapter.height",
+                "width": "adapter.width",
+                "x": "adapter.x",
+                "y": "adapter.y"
+            },
+            "type": "MUISprite"
+        },
+        "switch": {
+            "actions": [
+                {
+                    "params": [
+                        {
+                            "params": {
+                                "imageData": "bkg2",
+                                "imageItem": "bkgframe2"
+                            },
+                            "type": "MSetProperty"
+                        },
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "imageData": "bkg3",
+                                        "imageItem": "bkgframe3",
+                                        "opacity": 0
+                                    },
+                                    "type": "MSetProperty"
+                                },
+                                "child": "BackroundReal"
+                            },
+                            "type": "MChildAction"
+                        },
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "duration": 1,
+                                        "opacity": 1
+                                    },
+                                    "type": "MFadeTo"
+                                },
+                                "child": "BackroundReal"
+                            },
+                            "type": "MChildAction"
+                        },
+                        {
+                            "params": {
+                                "imageItem": "null"
+                            },
+                            "type": "MSetProperty"
+                        }
+                    ],
+                    "type": "MSequence"
+                },
+                {
+                    "params": [
+                        {
+                            "params": {
+                                "imageData": "bkg3",
+                                "imageItem": "bkgframe3"
+                            },
+                            "type": "MSetProperty"
+                        },
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "imageData": "bkg4",
+                                        "imageItem": "bkgframe4",
+                                        "opacity": 0
+                                    },
+                                    "type": "MSetProperty"
+                                },
+                                "child": "BackroundReal"
+                            },
+                            "type": "MChildAction"
+                        },
+                        {
+                            "params": {
+                                "action": {
+                                    "params": {
+                                        "duration": 1,
+                                        "opacity": 1
+                                    },
+                                    "type": "MFadeTo"
+                                },
+                                "child": "BackroundReal"
+                            },
+                            "type": "MChildAction"
+                        },
+                        {
+                            "params": {
+                                "imageItem": "null"
+                            },
+                            "type": "MSetProperty"
+                        }
+                    ],
+                    "type": "MSequence"
+                }
+            ]
+        }
+    },
+    "blockEffect": [
+        {
+            "action": {
+                "params": {
+                    "duration": 0.35,
+                    "frameCount": 12
+                },
+                "type": "MFrameSequence"
+            },
+            "node": {
+                "children": [],
+                "frameSequence": [
+                    "short_00001",
+                    "short_00002",
+                    "short_00003",
+                    "short_00004",
+                    "short_00005",
+                    "short_00006",
+                    "short_00007",
+                    "short_00008",
+                    "short_00009",
+                    "short_00010",
+                    "short_00011",
+                    "short_00012"
+                ],
+                "imageData": "blockeffect",
+                "imageItem": "short_00001",
+                "name": "BlockEffectRoot",
+                "rect": {
+                    "height": 520,
+                    "width": 520,
+                    "x": "0",
+                    "y": "0"
+                },
+                "type": "MUISprite"
+            }
+        }
+    ],
+    "blockLongEffect": [
+        {
+            "action": {
+                "params": {
+                    "duration": 0.4,
+                    "frameCount": 12
+                },
+                "type": "MFrameSequence"
+            },
+            "node": {
+                "children": [],
+                "frameSequence": [
+                    "long_00001",
+                    "long_00002",
+                    "long_00003",
+                    "long_00004",
+                    "long_00005",
+                    "long_00006",
+                    "long_00007",
+                    "long_00008",
+                    "long_00009",
+                    "long_00010",
+                    "long_00011",
+                    "long_00012"
+                ],
+                "imageData": "blocklongeffect",
+                "imageItem": "blocklongeffect",
+                "name": "blockLongEffectRoot",
+                "rect": {
+                    "height": 330,
+                    "width": 330,
+                    "x": "0",
+                    "y": "0"
+                },
+                "type": "MUISprite"
+            }
+        }
+    ],
+    "blockImage": {
+        "imageData": "block"
+    },
+    "design": {
+        "height": 1559,
+        "vertical": {
+            "default": "center",
+            "s1": 87,
+            "s2": 35,
+            "s3": 0
+        },
+        "width": 720
+    },
+    "uiElementEffects": {
+        "GameEntranceScene": [
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "name": "bottom_bg",
+                                "visible": false
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "imageData": "uielements",
+                                        "imageItem": [
+                                            "button_home_unpressed",
+                                            "button_home_pressed",
+                                            "button_home_pressed",
+                                            "button_home_unpressed"
+                                        ],
+                                        "name": "home_page_btn"
+                                    },
+                                    {
+                                        "name": "home_page_label",
+                                        "visible": false
+                                    }
+                                ],
+                                "name": "home_group"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "imageData": "uielements",
+                                        "imageItem": [
+                                            "button_music_unpressed",
+                                            "button_music_pressed",
+                                            "button_music_pressed",
+                                            "button_music_unpressed"
+                                        ],
+                                        "name": "music_library_btn"
+                                    },
+                                    {
+                                        "name": "music_library_page_label",
+                                        "visible": false
+                                    }
+                                ],
+                                "name": "music_lib_group"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "imageData": "uielements",
+                                        "imageItem": [
+                                            "button_achievement_unpressed",
+                                            "button_achievement_pressed",
+                                            "button_achievement_pressed",
+                                            "button_achievement_unpressed"
+                                        ],
+                                        "name": "ranking_btn"
+                                    },
+                                    {
+                                        "name": "ranking_page_label",
+                                        "visible": false
+                                    }
+                                ],
+                                "name": "ranking_group"
+                            }
+                        ],
+                        "name": "entra_bottom_layout"
+                    }
+                ],
+                "name": "parent"
+            },
+            {
+                "children": [
+                    {
+                        "imageData": "uielements",
+                        "imageItem": [
+                            "bg_disc"
+                        ],
+                        "name": "bg_piano"
+                    },
+                    {
+                        "color": "#ffffff",
+                        "name": "music_name"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "Label",
+                                "visible": false
+                            }
+                        ],
+                        "imageData": "uielements",
+                        "imageItem": [
+                            "button_start_normal",
+                            "button_start_pressed",
+                            "button_start_pressed"
+                        ],
+                        "name": "start_btn"
+                    },
+                    {
+                        "children": [
+                            {
+                                "imageData": "uielements",
+                                "imageItem": [
+                                    "home_star_unget",
+                                    "home_star_get"
+                                ],
+                                "name": "starFrames"
+                            },
+                            {
+                                "imageData": "uielements",
+                                "imageItem": [
+                                    "home_crown_unget",
+                                    "home_crown_get"
+                                ],
+                                "name": "crownFrames"
+                            }
+                        ],
+                        "name": "elementFrames"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "color": "#ffffff",
+                                                "name": "rank_title_label"
+                                            }
+                                        ],
+                                        "imageData": "uielements",
+                                        "imageItem": [
+                                            "rank_title_bg"
+                                        ],
+                                        "name": "rank_title_bg"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "color": "#ffffff",
+                                                "name": "rank_see_all_label"
+                                            }
+                                        ],
+                                        "name": "rank_see_all_group"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "color": "#ffffff",
+                                                "name": "invite_friend_label"
+                                            },
+                                            {
+                                                "color": "#ffffff",
+                                                "name": "pk_friend_label"
+                                            }
+                                        ],
+                                        "name": "invite_friend_layout"
+                                    }
+                                ],
+                                "name": "RnakGroupPrefb"
+                            }
+                        ],
+                        "name": "RankGroup"
+                    }
+                ],
+                "name": "ExtraMiddleMainPagePrefb"
+            }
+        ]
+    }
+}
