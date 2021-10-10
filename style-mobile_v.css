@@ -1,0 +1,15 @@
+#splash {
+  position: block;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+
+#background2 {
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  background: url(./res/raw-assets/static_res/loading_bg.jpg) no-repeat center !important;
+  background-size: 100% !important;
+}
